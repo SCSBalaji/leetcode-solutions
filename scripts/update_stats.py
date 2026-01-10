@@ -112,10 +112,10 @@ def update_root_readme(stats):
     
     total_solved = sum(stats[d]['count'] for d in ['easy', 'medium', 'hard'])
     
-    # Approximate totals (update these based on actual LeetCode counts)
-    total_easy = 700
-    total_medium = 1500
-    total_hard = 600
+    # Update these totals based on actual LeetCode counts
+    total_easy = 921
+    total_medium = 1982
+    total_hard = 899
     total_problems = total_easy + total_medium + total_hard
     
     easy_pct = (stats['easy']['count'] / total_easy * 100) if total_easy > 0 else 0
@@ -145,9 +145,10 @@ def update_root_readme(stats):
         topics_table += f"\n### {topic} ({total})\n"
         topics_table += f"- Easy: {counts['easy']} | Medium: {counts['medium']} | Hard: {counts['hard']}\n"
     
+    # ⚠️ MODIFY THIS SECTION WITH YOUR CUSTOM CONTENT
     readme_content = f"""# 🚀 LeetCode Solutions (Java)
 
-My personal collection of LeetCode problem solutions in **Java** with multiple approaches and detailed explanations.
+My personal collection of LeetCode problem solutions in **Java** with multiple approaches.
 
 ## 📊 Progress Statistics
 
@@ -198,7 +199,7 @@ python scripts/update_stats.py
 
 ### Add a new solution:
 ```bash
-python scripts/add_solution.py <problem-number> "<approach-name>"
+python scripts/add_solution.py <problem-number> "<approach-name>" "<Acceptance>"
 ```
 
 ### Compile and run a solution:
@@ -219,7 +220,6 @@ java -cp "1. easy/0000-0500/0001-two-sum" Solution1
 2. **Each problem folder contains:**
    - `README.md` - Problem statement and all solutions
    - `Solution1.java`, `Solution2.java` - Java implementation files
-   - `notes.md` - Personal insights (optional)
 
 3. **Multiple solutions per problem:**
    - Optimal solution (marked with ⭐)
@@ -247,8 +247,8 @@ java -cp "1. easy/0000-0500/0001-two-sum" Solution1
 
 ---
 
-**Author:** Your Name  
-**Started:** January 1, 2025  
+**Author:** Chaitanya Satya Balaji Sangineedi  
+**Started:** January 10, 2026  
 **Language:** Java ☕
 
 ---
