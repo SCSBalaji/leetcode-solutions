@@ -1,0 +1,17 @@
+Remember_commands.txt
+
+# Compiled Java files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
