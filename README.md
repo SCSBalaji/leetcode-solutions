@@ -1,15 +1,15 @@
 # 🚀 LeetCode Solutions (Java)
 
-My personal collection of LeetCode problem solutions in **Java** with multiple approaches.
+My personal collection of LeetCode problem solutions in **Java** with multiple approaches and detailed explanations.
 
 ## 📊 Progress Statistics
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 0     | 921   | 0.0%       |
-| 🟡 Medium  | 0     | 1982  | 0.0%       |
-| 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **0**| **3802** | **0.0%** |
+| 🟢 Easy    | 1    | 700   | 0.1%      |
+| 🟡 Medium  | 0     | 1500  | 0.0%       |
+| 🔴 Hard    | 0     | 600   | 0.0%       |
+| **Total**  | **1**| **2800** | **0.0%** |
 
 **Last Updated:** January 10, 2026
 
@@ -33,22 +33,18 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Palindrome Number](1. easy/0000-0500/0009-palindrome-number) | 🟢 Easy | 1 Java | January 10, 2026 |
-| 2 | [Max Dot Product of Two Subsequences](3. hard/1001-1500/1458-max-dot-product-of-two-subsequences) | 🔴 Hard | 1 Java | January 10, 2026 |
+| 1 | [Two Sum](1. easy/0000-0500/0001-two-sum) | 🟢 Easy | 4 Java | January 10, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Math (1)
+### Array (1)
 - Easy: 1 | Medium: 0 | Hard: 0
 
-### Array (1)
-- Easy: 0 | Medium: 0 | Hard: 1
-
-### Dynamic Programming (1)
-- Easy: 0 | Medium: 0 | Hard: 1
+### Hash Table (1)
+- Easy: 1 | Medium: 0 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)
@@ -69,7 +65,7 @@ python scripts/update_stats.py
 
 ### Add a new solution:
 ```bash
-python scripts/add_solution.py <problem-number> "<approach-name>" "<Acceptance>"
+python scripts/add_solution.py <problem-number> "<approach-name>"
 ```
 
 ### Compile and run a solution:
@@ -90,9 +86,10 @@ java -cp "1. easy/0000-0500/0001-two-sum" Solution1
 2. **Each problem folder contains:**
    - `README.md` - Problem statement and all solutions
    - `Solution1.java`, `Solution2.java` - Java implementation files
+   - `notes.md` - Personal insights (optional)
 
 3. **Multiple solutions per problem:**
-   - Optimal solution
+   - Optimal solution (marked with ⭐)
    - Alternative approaches
    - Brute force (for learning)
 
@@ -117,8 +114,8 @@ java -cp "1. easy/0000-0500/0001-two-sum" Solution1
 
 ---
 
-**Author:** Chaitanya Satya Balaji Sangineedi 
-**Started:** January 10, 2025  
+**Author:** Your Name  
+**Started:** January 1, 2025  
 **Language:** Java ☕
 
 ---
