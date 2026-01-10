@@ -1,15 +1,15 @@
 # 🚀 LeetCode Solutions (Java)
 
-My personal collection of LeetCode problem solutions in **Java** with multiple approaches and detailed explanations.
+My personal collection of LeetCode problem solutions in **Java** with multiple approaches.
 
 ## 📊 Progress Statistics
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 1    | 700   | 0.1%      |
-| 🟡 Medium  | 0     | 1500  | 0.0%       |
-| 🔴 Hard    | 0     | 600   | 0.0%       |
-| **Total**  | **1**| **2800** | **0.0%** |
+| 🟢 Easy    | 1    | 921   | 0.1%      |
+| 🟡 Medium  | 0     | 1982  | 0.0%       |
+| 🔴 Hard    | 0     | 899   | 0.0%       |
+| **Total**  | **1**| **3802** | **0.0%** |
 
 **Last Updated:** January 10, 2026
 
@@ -65,7 +65,7 @@ python scripts/update_stats.py
 
 ### Add a new solution:
 ```bash
-python scripts/add_solution.py <problem-number> "<approach-name>"
+python scripts/add_solution.py <problem-number> "<approach-name>" "<Acceptance>"
 ```
 
 ### Compile and run a solution:
@@ -86,7 +86,6 @@ java -cp "1. easy/0000-0500/0001-two-sum" Solution1
 2. **Each problem folder contains:**
    - `README.md` - Problem statement and all solutions
    - `Solution1.java`, `Solution2.java` - Java implementation files
-   - `notes.md` - Personal insights (optional)
 
 3. **Multiple solutions per problem:**
    - Optimal solution (marked with ⭐)
@@ -114,8 +113,8 @@ java -cp "1. easy/0000-0500/0001-two-sum" Solution1
 
 ---
 
-**Author:** Your Name  
-**Started:** January 1, 2025  
+**Author:** Chaitanya Satya Balaji Sangineedi  
+**Started:** January 10, 2026  
 **Language:** Java ☕
 
 ---
