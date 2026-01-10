@@ -45,7 +45,8 @@ def add_solution(problem_number, approach_name, status="Accepted"):
     }
     status_text = status_map.get(status.lower(), '✅ Accepted')
     
-    content = f"""// LeetCode #{problem_num}: {title}
+    content = f"""import java.util.*;
+// LeetCode #{problem_num}: {title}
 // Approach: {approach_name.replace('-', ' ').title()}
 // Status: {status_text}
 // Time: O()  |  Space: O()

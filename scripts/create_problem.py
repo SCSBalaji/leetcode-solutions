@@ -112,7 +112,8 @@ Output:
     print(f"✅ Created README.md")
     
     # Create Solution1.java
-    solution_content = f"""// LeetCode #{problem_num}: {title}
+    solution_content = f"""import java.util.*;
+// LeetCode #{problem_num}: {title}
 // Approach: [Approach Name]
 // Status: ✅ Accepted / ❌ TLE / ❌ MLE
 // Time: O()  |  Space: O()
