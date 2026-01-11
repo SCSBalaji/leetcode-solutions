@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 1    | 921   | 0.1%      |
+| 🟢 Easy    | 2    | 921   | 0.2%      |
 | 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **1**| **3802** | **0.0%** |
+| **Total**  | **2**| **3802** | **0.1%** |
 
-**Last Updated:** January 10, 2026
+**Last Updated:** January 11, 2026
 
 ---
 
@@ -33,7 +33,8 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Two Sum](1. easy/0000-0500/0001-two-sum) | 🟢 Easy | 4 Java | January 10, 2026 |
+| 1 | [Palindrome Number](1. easy/0000-0500/0009-palindrome-number) | 🟢 Easy | 2 Java | January 11, 2026 |
+| 2 | [Two Sum](1. easy/0000-0500/0001-two-sum) | 🟢 Easy | 4 Java | January 10, 2026 |
 
 
 ---
@@ -44,6 +45,9 @@ leetcode-solutions/
 - Easy: 1 | Medium: 0 | Hard: 0
 
 ### Hash Table (1)
+- Easy: 1 | Medium: 0 | Hard: 0
+
+### Math (1)
 - Easy: 1 | Medium: 0 | Hard: 0
 
 
