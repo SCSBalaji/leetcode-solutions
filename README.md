@@ -6,10 +6,10 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 2    | 921   | 0.2%      |
+| 🟢 Easy    | 3    | 921   | 0.3%      |
 | 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **2**| **3802** | **0.1%** |
+| **Total**  | **3**| **3802** | **0.1%** |
 
 **Last Updated:** January 11, 2026
 
@@ -33,18 +33,22 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Palindrome Number](1. easy/0000-0500/0009-palindrome-number) | 🟢 Easy | 2 Java | January 11, 2026 |
-| 2 | [Two Sum](1. easy/0000-0500/0001-two-sum) | 🟢 Easy | 4 Java | January 10, 2026 |
+| 1 | [Remove Element](1. easy/0000-0500/0027-remove-element) | 🟢 Easy | 2 Java | January 11, 2026 |
+| 2 | [Palindrome Number](1. easy/0000-0500/0009-palindrome-number) | 🟢 Easy | 2 Java | January 11, 2026 |
+| 3 | [Two Sum](1. easy/0000-0500/0001-two-sum) | 🟢 Easy | 4 Java | January 10, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (1)
-- Easy: 1 | Medium: 0 | Hard: 0
+### Array (2)
+- Easy: 2 | Medium: 0 | Hard: 0
 
 ### Hash Table (1)
+- Easy: 1 | Medium: 0 | Hard: 0
+
+### Two Pointers (1)
 - Easy: 1 | Medium: 0 | Hard: 0
 
 ### Math (1)
