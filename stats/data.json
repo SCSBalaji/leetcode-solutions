@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 5,
+    "count": 6,
     "problems": [
+      {
+        "number": "0136",
+        "title": "Single Number",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0136-single-number",
+        "date": "January 12, 2026",
+        "solutions": 4
+      },
       {
         "number": "0001",
         "title": "Two Sum",
@@ -54,7 +62,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 3,
+      "easy": 4,
+      "medium": 0,
+      "hard": 0
+    },
+    "Bit Manipulation": {
+      "easy": 1,
       "medium": 0,
       "hard": 0
     },
@@ -81,5 +94,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-12T17:43:49.748728"
+  "last_updated": "2026-01-12T18:46:52.902897"
 }
