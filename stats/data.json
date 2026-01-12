@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 3,
+    "count": 4,
     "problems": [
       {
         "number": "0001",
@@ -25,6 +25,14 @@
         "path": "1. easy/0000-0500/0009-palindrome-number",
         "date": "January 11, 2026",
         "solutions": 2
+      },
+      {
+        "number": "0013",
+        "title": "Roman to Integer",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0013-roman-to-integer",
+        "date": "January 12, 2026",
+        "solutions": 3
       }
     ]
   },
@@ -43,7 +51,7 @@
       "hard": 0
     },
     "Hash Table": {
-      "easy": 1,
+      "easy": 2,
       "medium": 0,
       "hard": 0
     },
@@ -53,6 +61,11 @@
       "hard": 0
     },
     "Math": {
+      "easy": 2,
+      "medium": 0,
+      "hard": 0
+    },
+    "String": {
       "easy": 1,
       "medium": 0,
       "hard": 0
@@ -60,5 +73,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-11T18:12:01.225695"
+  "last_updated": "2026-01-12T17:31:03.271745"
 }
