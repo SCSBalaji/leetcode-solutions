@@ -4,9 +4,9 @@
 
 ---
 
-## Array (2 problems)
+## Array (3 problems)
 
-- 🟢 Easy: 2
+- 🟢 Easy: 3
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
@@ -14,6 +14,21 @@
 
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
+
+---
+
+## Math (3 problems)
+
+- 🟢 Easy: 3
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
+- [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
+- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 
 ---
 
@@ -26,19 +41,6 @@
 ### Problems:
 
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
-- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-
----
-
-## Math (2 problems)
-
-- 🟢 Easy: 2
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 
 ---
