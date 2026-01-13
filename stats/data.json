@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 6,
+    "count": 7,
     "problems": [
+      {
+        "number": "1929",
+        "title": "Concatenation of Array",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1929-concatenation-of-array",
+        "date": "January 13, 2026",
+        "solutions": 3
+      },
       {
         "number": "0136",
         "title": "Single Number",
@@ -62,7 +70,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 4,
+      "easy": 5,
+      "medium": 0,
+      "hard": 0
+    },
+    "Simulation": {
+      "easy": 1,
       "medium": 0,
       "hard": 0
     },
@@ -94,5 +107,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-12T18:46:52.902897"
+  "last_updated": "2026-01-13T17:26:08.065419"
 }

@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 6    | 921   | 0.7%      |
+| 🟢 Easy    | 7    | 921   | 0.8%      |
 | 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **6**| **3802** | **0.2%** |
+| **Total**  | **7**| **3802** | **0.2%** |
 
-**Last Updated:** January 12, 2026
+**Last Updated:** January 13, 2026
 
 ---
 
@@ -33,25 +33,28 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Single Number](1. easy/0000-0500/0136-single-number) | 🟢 Easy | 4 Java | January 12, 2026 |
-| 2 | [Plus One](1. easy/0000-0500/0066-plus-one) | 🟢 Easy | 1 Java | January 12, 2026 |
-| 3 | [Roman to Integer](1. easy/0000-0500/0013-roman-to-integer) | 🟢 Easy | 3 Java | January 12, 2026 |
-| 4 | [Remove Element](1. easy/0000-0500/0027-remove-element) | 🟢 Easy | 2 Java | January 11, 2026 |
-| 5 | [Palindrome Number](1. easy/0000-0500/0009-palindrome-number) | 🟢 Easy | 2 Java | January 11, 2026 |
+| 1 | [Concatenation of Array](1. easy/1501-2000/1929-concatenation-of-array) | 🟢 Easy | 3 Java | January 13, 2026 |
+| 2 | [Single Number](1. easy/0000-0500/0136-single-number) | 🟢 Easy | 4 Java | January 12, 2026 |
+| 3 | [Plus One](1. easy/0000-0500/0066-plus-one) | 🟢 Easy | 1 Java | January 12, 2026 |
+| 4 | [Roman to Integer](1. easy/0000-0500/0013-roman-to-integer) | 🟢 Easy | 3 Java | January 12, 2026 |
+| 5 | [Remove Element](1. easy/0000-0500/0027-remove-element) | 🟢 Easy | 2 Java | January 11, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (4)
-- Easy: 4 | Medium: 0 | Hard: 0
+### Array (5)
+- Easy: 5 | Medium: 0 | Hard: 0
 
 ### Math (3)
 - Easy: 3 | Medium: 0 | Hard: 0
 
 ### Hash Table (2)
 - Easy: 2 | Medium: 0 | Hard: 0
+
+### Simulation (1)
+- Easy: 1 | Medium: 0 | Hard: 0
 
 ### Bit Manipulation (1)
 - Easy: 1 | Medium: 0 | Hard: 0
