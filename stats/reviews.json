@@ -40,5 +40,11 @@
     "review_count": 1,
     "last_reviewed": "2026-01-13",
     "next_review": "2026-01-14"
+  },
+  "3701": {
+    "title": "Compute Alternating Sum",
+    "review_count": 1,
+    "last_reviewed": "2026-01-14",
+    "next_review": "2026-01-15"
   }
 }
