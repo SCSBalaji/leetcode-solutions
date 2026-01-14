@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 7,
+    "count": 8,
     "problems": [
+      {
+        "number": "3701",
+        "title": "Compute Alternating Sum",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3701-compute-alternating-sum",
+        "date": "January 14, 2026",
+        "solutions": 1
+      },
       {
         "number": "1929",
         "title": "Concatenation of Array",
@@ -70,12 +78,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 5,
+      "easy": 6,
       "medium": 0,
       "hard": 0
     },
     "Simulation": {
-      "easy": 1,
+      "easy": 2,
       "medium": 0,
       "hard": 0
     },
@@ -107,5 +115,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-13T17:26:08.065419"
+  "last_updated": "2026-01-14T16:29:27.157891"
 }

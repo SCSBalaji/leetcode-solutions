@@ -1,17 +1,18 @@
 # Topics Breakdown
 
-**Last Updated:** January 13, 2026
+**Last Updated:** January 14, 2026
 
 ---
 
-## Array (5 problems)
+## Array (6 problems)
 
-- 🟢 Easy: 5
+- 🟢 Easy: 6
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
 ### Problems:
 
+- [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
@@ -35,6 +36,19 @@
 
 ---
 
+## Simulation (2 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
+- [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
+
+---
+
 ## Hash Table (2 problems)
 
 - 🟢 Easy: 2
@@ -46,18 +60,6 @@
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-
----
-
-## Simulation (1 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 
 ---
 
