@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 9,
+    "count": 10,
     "problems": [
+      {
+        "number": "3541",
+        "title": "Find Most Frequent Vowel and Consonant",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant",
+        "date": "January 16, 2026",
+        "solutions": 1
+      },
       {
         "number": "3701",
         "title": "Compute Alternating Sum",
@@ -85,6 +93,21 @@
     "problems": []
   },
   "topics": {
+    "Hash Table": {
+      "easy": 3,
+      "medium": 0,
+      "hard": 0
+    },
+    "String": {
+      "easy": 3,
+      "medium": 0,
+      "hard": 0
+    },
+    "Counting": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
     "Array": {
       "easy": 6,
       "medium": 0,
@@ -95,18 +118,8 @@
       "medium": 0,
       "hard": 0
     },
-    "String": {
-      "easy": 2,
-      "medium": 0,
-      "hard": 0
-    },
     "Bit Manipulation": {
       "easy": 1,
-      "medium": 0,
-      "hard": 0
-    },
-    "Hash Table": {
-      "easy": 2,
       "medium": 0,
       "hard": 0
     },
@@ -123,5 +136,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-15T17:22:27.515488"
+  "last_updated": "2026-01-16T16:42:00.506363"
 }

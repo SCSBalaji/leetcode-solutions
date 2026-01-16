@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 9    | 921   | 1.0%      |
+| 🟢 Easy    | 10    | 921   | 1.1%      |
 | 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **9**| **3802** | **0.2%** |
+| **Total**  | **10**| **3802** | **0.3%** |
 
-**Last Updated:** January 15, 2026
+**Last Updated:** January 16, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Score of a String](1. easy/2501-3000/3110-score-of-a-string) | 🟢 Easy | 1 Java | January 15, 2026 |
-| 2 | [Compute Alternating Sum](1. easy/2501-3000/3701-compute-alternating-sum) | 🟢 Easy | 1 Java | January 14, 2026 |
-| 3 | [Concatenation of Array](1. easy/1501-2000/1929-concatenation-of-array) | 🟢 Easy | 3 Java | January 13, 2026 |
-| 4 | [Single Number](1. easy/0000-0500/0136-single-number) | 🟢 Easy | 4 Java | January 12, 2026 |
-| 5 | [Plus One](1. easy/0000-0500/0066-plus-one) | 🟢 Easy | 1 Java | January 12, 2026 |
+| 1 | [Find Most Frequent Vowel and Consonant](1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant) | 🟢 Easy | 1 Java | January 16, 2026 |
+| 2 | [Score of a String](1. easy/2501-3000/3110-score-of-a-string) | 🟢 Easy | 1 Java | January 15, 2026 |
+| 3 | [Compute Alternating Sum](1. easy/2501-3000/3701-compute-alternating-sum) | 🟢 Easy | 1 Java | January 14, 2026 |
+| 4 | [Concatenation of Array](1. easy/1501-2000/1929-concatenation-of-array) | 🟢 Easy | 3 Java | January 13, 2026 |
+| 5 | [Single Number](1. easy/0000-0500/0136-single-number) | 🟢 Easy | 4 Java | January 12, 2026 |
 
 
 ---
@@ -47,17 +47,20 @@ leetcode-solutions/
 ### Array (6)
 - Easy: 6 | Medium: 0 | Hard: 0
 
+### Hash Table (3)
+- Easy: 3 | Medium: 0 | Hard: 0
+
+### String (3)
+- Easy: 3 | Medium: 0 | Hard: 0
+
 ### Math (3)
 - Easy: 3 | Medium: 0 | Hard: 0
 
 ### Simulation (2)
 - Easy: 2 | Medium: 0 | Hard: 0
 
-### String (2)
-- Easy: 2 | Medium: 0 | Hard: 0
-
-### Hash Table (2)
-- Easy: 2 | Medium: 0 | Hard: 0
+### Counting (1)
+- Easy: 1 | Medium: 0 | Hard: 0
 
 ### Bit Manipulation (1)
 - Easy: 1 | Medium: 0 | Hard: 0
