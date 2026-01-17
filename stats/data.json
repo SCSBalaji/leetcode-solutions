@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 10,
+    "count": 11,
     "problems": [
       {
         "number": "3541",
@@ -17,6 +17,14 @@
         "path": "1. easy/2501-3000/3701-compute-alternating-sum",
         "date": "January 14, 2026",
         "solutions": 1
+      },
+      {
+        "number": "2942",
+        "title": "Find Words Containing Character",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2942-find-words-containing-character",
+        "date": "January 17, 2026",
+        "solutions": 2
       },
       {
         "number": "3110",
@@ -99,7 +107,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 3,
+      "easy": 4,
       "medium": 0,
       "hard": 0
     },
@@ -109,7 +117,7 @@
       "hard": 0
     },
     "Array": {
-      "easy": 6,
+      "easy": 7,
       "medium": 0,
       "hard": 0
     },
@@ -136,5 +144,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-16T16:42:00.506363"
+  "last_updated": "2026-01-17T17:31:50.520548"
 }
