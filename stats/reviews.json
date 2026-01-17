@@ -1,39 +1,39 @@
 {
   "0001": {
     "title": "Two Sum",
-    "review_count": 2,
-    "last_reviewed": "2026-01-11",
-    "next_review": "2026-01-14"
+    "review_count": 3,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-24"
   },
   "0009": {
     "title": "Palindrome Number",
-    "review_count": 2,
-    "last_reviewed": "2026-01-12",
-    "next_review": "2026-01-15"
+    "review_count": 3,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-24"
   },
   "0027": {
     "title": "Remove Element",
-    "review_count": 2,
-    "last_reviewed": "2026-01-12",
-    "next_review": "2026-01-15"
+    "review_count": 3,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-24"
   },
   "0013": {
     "title": "Roman To Integer",
-    "review_count": 1,
-    "last_reviewed": "2026-01-12",
-    "next_review": "2026-01-13"
+    "review_count": 2,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-20"
   },
   "0066": {
     "title": "Plus One",
-    "review_count": 2,
-    "last_reviewed": "2026-01-13",
-    "next_review": "2026-01-16"
+    "review_count": 3,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-24"
   },
   "0136": {
     "title": "Single Number",
-    "review_count": 2,
-    "last_reviewed": "2026-01-13",
-    "next_review": "2026-01-16"
+    "review_count": 3,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-24"
   },
   "1929": {
     "title": "Concatenation Of Array",
@@ -58,5 +58,11 @@
     "review_count": 1,
     "last_reviewed": "2026-01-16",
     "next_review": "2026-01-17"
+  },
+  "2942": {
+    "title": "Find Words Containing Character",
+    "review_count": 1,
+    "last_reviewed": "2026-01-17",
+    "next_review": "2026-01-18"
   }
 }
