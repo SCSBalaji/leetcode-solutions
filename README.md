@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 11    | 921   | 1.2%      |
+| 🟢 Easy    | 12    | 921   | 1.3%      |
 | 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **11**| **3802** | **0.3%** |
+| **Total**  | **12**| **3802** | **0.3%** |
 
-**Last Updated:** January 17, 2026
+**Last Updated:** January 18, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Find Words Containing Character](1. easy/2501-3000/2942-find-words-containing-character) | 🟢 Easy | 2 Java | January 17, 2026 |
-| 2 | [Find Most Frequent Vowel and Consonant](1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant) | 🟢 Easy | 1 Java | January 16, 2026 |
-| 3 | [Score of a String](1. easy/2501-3000/3110-score-of-a-string) | 🟢 Easy | 1 Java | January 15, 2026 |
-| 4 | [Compute Alternating Sum](1. easy/2501-3000/3701-compute-alternating-sum) | 🟢 Easy | 1 Java | January 14, 2026 |
-| 5 | [Concatenation of Array](1. easy/1501-2000/1929-concatenation-of-array) | 🟢 Easy | 3 Java | January 13, 2026 |
+| 1 | [Defanging an IP Address](1. easy/1001-1500/1108-defanging-an-ip-address) | 🟢 Easy | 3 Java | January 18, 2026 |
+| 2 | [Find Words Containing Character](1. easy/2501-3000/2942-find-words-containing-character) | 🟢 Easy | 2 Java | January 17, 2026 |
+| 3 | [Find Most Frequent Vowel and Consonant](1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant) | 🟢 Easy | 1 Java | January 16, 2026 |
+| 4 | [Score of a String](1. easy/2501-3000/3110-score-of-a-string) | 🟢 Easy | 1 Java | January 15, 2026 |
+| 5 | [Compute Alternating Sum](1. easy/2501-3000/3701-compute-alternating-sum) | 🟢 Easy | 1 Java | January 14, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (7)
 - Easy: 7 | Medium: 0 | Hard: 0
 
-### String (4)
-- Easy: 4 | Medium: 0 | Hard: 0
+### String (5)
+- Easy: 5 | Medium: 0 | Hard: 0
 
 ### Hash Table (3)
 - Easy: 3 | Medium: 0 | Hard: 0

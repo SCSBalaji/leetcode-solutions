@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 11,
+    "count": 12,
     "problems": [
+      {
+        "number": "1108",
+        "title": "Defanging an IP Address",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1108-defanging-an-ip-address",
+        "date": "January 18, 2026",
+        "solutions": 3
+      },
       {
         "number": "3541",
         "title": "Find Most Frequent Vowel and Consonant",
@@ -101,13 +109,13 @@
     "problems": []
   },
   "topics": {
-    "Hash Table": {
-      "easy": 3,
+    "String": {
+      "easy": 5,
       "medium": 0,
       "hard": 0
     },
-    "String": {
-      "easy": 4,
+    "Hash Table": {
+      "easy": 3,
       "medium": 0,
       "hard": 0
     },
@@ -144,5 +152,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-17T17:31:50.520548"
+  "last_updated": "2026-01-18T15:59:38.972351"
 }

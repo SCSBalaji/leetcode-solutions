@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** January 17, 2026
+**Last Updated:** January 18, 2026
 
 ---
 
@@ -12,6 +12,7 @@
 
 ### Problems:
 
+- [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
@@ -22,14 +23,15 @@
 
 ---
 
-## String (4 problems)
+## String (5 problems)
 
-- 🟢 Easy: 4
+- 🟢 Easy: 5
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
 ### Problems:
 
+- [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
