@@ -1,18 +1,19 @@
 # Topics Breakdown
 
-**Last Updated:** January 18, 2026
+**Last Updated:** January 19, 2026
 
 ---
 
-## Array (7 problems)
+## Array (8 problems)
 
-- 🟢 Easy: 7
+- 🟢 Easy: 8
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
 ### Problems:
 
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
@@ -39,6 +40,24 @@
 
 ---
 
+## Math (4 problems)
+
+- 🟢 Easy: 4
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
+- [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
+- [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
+- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+
+---
+
 ## Hash Table (3 problems)
 
 - 🟢 Easy: 3
@@ -50,23 +69,6 @@
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
-- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-
----
-
-## Math (3 problems)
-
-- 🟢 Easy: 3
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-- [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
-- [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 
 ---
