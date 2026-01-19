@@ -61,14 +61,20 @@
   },
   "2942": {
     "title": "Find Words Containing Character",
-    "review_count": 1,
-    "last_reviewed": "2026-01-17",
-    "next_review": "2026-01-18"
+    "review_count": 2,
+    "last_reviewed": "2026-01-19",
+    "next_review": "2026-01-22"
   },
   "1108": {
     "title": "Defanging An Ip Address",
     "review_count": 1,
     "last_reviewed": "2026-01-18",
     "next_review": "2026-01-19"
+  },
+  "3512": {
+    "title": "Minimum Operations To Make Array Sum Divisible By K",
+    "review_count": 1,
+    "last_reviewed": "2026-01-19",
+    "next_review": "2026-01-20"
   }
 }
