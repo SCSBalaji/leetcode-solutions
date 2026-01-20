@@ -76,5 +76,11 @@
     "review_count": 1,
     "last_reviewed": "2026-01-19",
     "next_review": "2026-01-20"
+  },
+  "1920": {
+    "title": "Build Array From Permutation",
+    "review_count": 1,
+    "last_reviewed": "2026-01-20",
+    "next_review": "2026-01-21"
   }
 }
