@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** January 19, 2026
+**Last Updated:** January 20, 2026
 
 ---
 
-## Array (8 problems)
+## Array (9 problems)
 
-- 🟢 Easy: 8
+- 🟢 Easy: 9
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
@@ -16,6 +16,7 @@
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
+- [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
@@ -73,9 +74,9 @@
 
 ---
 
-## Simulation (2 problems)
+## Simulation (3 problems)
 
-- 🟢 Easy: 2
+- 🟢 Easy: 3
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
@@ -83,6 +84,7 @@
 
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
+- [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 
 ---
