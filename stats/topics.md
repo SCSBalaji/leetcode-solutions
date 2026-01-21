@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** January 21, 2026
+**Last Updated:** January 20, 2026
 
 ---
 
-## Array (10 problems)
+## Array (9 problems)
 
-- 🟢 Easy: 10
+- 🟢 Easy: 9
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
@@ -15,7 +15,6 @@
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
-- [3315. Construct the Minimum Bitwise Array II](../1. easy/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
@@ -90,19 +89,6 @@
 
 ---
 
-## Bit Manipulation (2 problems)
-
-- 🟢 Easy: 2
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3315. Construct the Minimum Bitwise Array II](../1. easy/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-
----
-
 ## Counting (1 problems)
 
 - 🟢 Easy: 1
@@ -112,6 +98,18 @@
 ### Problems:
 
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+
+---
+
+## Bit Manipulation (1 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 
 ---
 
