@@ -117,8 +117,17 @@
     ]
   },
   "medium": {
-    "count": 0,
-    "problems": []
+    "count": 1,
+    "problems": [
+      {
+        "number": "3315",
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii",
+        "date": "January 21, 2026",
+        "solutions": 1
+      }
+    ]
   },
   "hard": {
     "count": 0,
@@ -142,7 +151,7 @@
     },
     "Array": {
       "easy": 9,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Math": {
@@ -157,7 +166,7 @@
     },
     "Bit Manipulation": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Two Pointers": {
@@ -168,5 +177,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-21T16:02:33.957891"
+  "last_updated": "2026-01-21T16:06:18.214075"
 }

@@ -4,10 +4,10 @@
 
 ---
 
-## Array (9 problems)
+## Array (10 problems)
 
 - 🟢 Easy: 9
-- 🟡 Medium: 0
+- 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ### Problems:
@@ -22,6 +22,7 @@
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
+- [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 
 ---
 
@@ -89,6 +90,19 @@
 
 ---
 
+## Bit Manipulation (2 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+
+---
+
 ## Counting (1 problems)
 
 - 🟢 Easy: 1
@@ -98,18 +112,6 @@
 ### Problems:
 
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-
----
-
-## Bit Manipulation (1 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 
 ---
 
