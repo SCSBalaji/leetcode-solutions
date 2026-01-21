@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 14,
+    "count": 15,
     "problems": [
       {
         "number": "1108",
@@ -32,6 +32,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3701-compute-alternating-sum",
         "date": "January 14, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3315",
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3315-construct-the-minimum-bitwise-array-ii",
+        "date": "January 21, 2026",
         "solutions": 1
       },
       {
@@ -141,7 +149,7 @@
       "hard": 0
     },
     "Array": {
-      "easy": 9,
+      "easy": 10,
       "medium": 0,
       "hard": 0
     },
@@ -156,7 +164,7 @@
       "hard": 0
     },
     "Bit Manipulation": {
-      "easy": 1,
+      "easy": 2,
       "medium": 0,
       "hard": 0
     },
@@ -168,5 +176,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-20T16:40:31.409980"
+  "last_updated": "2026-01-21T15:59:14.719592"
 }
