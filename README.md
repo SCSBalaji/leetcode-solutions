@@ -11,7 +11,7 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | 🔴 Hard    | 0     | 899   | 0.0%       |
 | **Total**  | **14**| **3802** | **0.4%** |
 
-**Last Updated:** January 20, 2026
+**Last Updated:** January 21, 2026
 
 ---
 
