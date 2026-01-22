@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 14,
+    "count": 15,
     "problems": [
       {
         "number": "1108",
@@ -9,6 +9,14 @@
         "path": "1. easy/1001-1500/1108-defanging-an-ip-address",
         "date": "January 18, 2026",
         "solutions": 3
+      },
+      {
+        "number": "3668",
+        "title": "Restore Finishing Order",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3668-restore-finishing-order",
+        "date": "January 22, 2026",
+        "solutions": 1
       },
       {
         "number": "3541",
@@ -139,19 +147,19 @@
       "medium": 0,
       "hard": 0
     },
+    "Array": {
+      "easy": 10,
+      "medium": 1,
+      "hard": 0
+    },
     "Hash Table": {
-      "easy": 3,
+      "easy": 4,
       "medium": 0,
       "hard": 0
     },
     "Counting": {
       "easy": 1,
       "medium": 0,
-      "hard": 0
-    },
-    "Array": {
-      "easy": 9,
-      "medium": 1,
       "hard": 0
     },
     "Math": {
@@ -177,5 +185,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-21T16:06:18.214075"
+  "last_updated": "2026-01-22T17:14:22.505394"
 }
