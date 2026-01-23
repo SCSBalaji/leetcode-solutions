@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** January 22, 2026
+**Last Updated:** January 23, 2026
 
 ---
 
-## Array (11 problems)
+## Array (12 problems)
 
 - 🟢 Easy: 10
-- 🟡 Medium: 1
+- 🟡 Medium: 2
 - 🔴 Hard: 0
 
 ### Problems:
@@ -24,13 +24,14 @@
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 
 ---
 
-## String (5 problems)
+## String (6 problems)
 
 - 🟢 Easy: 5
-- 🟡 Medium: 0
+- 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ### Problems:
@@ -40,6 +41,7 @@
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 
 ---
 
@@ -126,6 +128,18 @@
 ### Problems:
 
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+
+---
+
+## Prefix Sum (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 
 ---
 

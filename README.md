@@ -7,11 +7,11 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
 | 🟢 Easy    | 15    | 921   | 1.6%      |
-| 🟡 Medium  | 1     | 1982  | 0.1%       |
+| 🟡 Medium  | 2     | 1982  | 0.1%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **16**| **3802** | **0.4%** |
+| **Total**  | **17**| **3802** | **0.4%** |
 
-**Last Updated:** January 22, 2026
+**Last Updated:** January 23, 2026
 
 ---
 
@@ -33,22 +33,22 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Restore Finishing Order](1. easy/2501-3000/3668-restore-finishing-order) | 🟢 Easy | 1 Java | January 22, 2026 |
-| 2 | [Construct the Minimum Bitwise Array II](2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii) | 🟡 Medium | 1 Java | January 21, 2026 |
-| 3 | [Build Array from Permutation](1. easy/1501-2000/1920-build-array-from-permutation) | 🟢 Easy | 2 Java | January 20, 2026 |
-| 4 | [Minimum Operations to Make Array Sum Divisible by K](1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k) | 🟢 Easy | 1 Java | January 19, 2026 |
-| 5 | [Defanging an IP Address](1. easy/1001-1500/1108-defanging-an-ip-address) | 🟢 Easy | 3 Java | January 18, 2026 |
+| 1 | [Minimum Number of Operations to Move All Balls to Each Box](2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | 🟡 Medium | 2 Java | January 23, 2026 |
+| 2 | [Restore Finishing Order](1. easy/2501-3000/3668-restore-finishing-order) | 🟢 Easy | 1 Java | January 22, 2026 |
+| 3 | [Construct the Minimum Bitwise Array II](2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii) | 🟡 Medium | 1 Java | January 21, 2026 |
+| 4 | [Build Array from Permutation](1. easy/1501-2000/1920-build-array-from-permutation) | 🟢 Easy | 2 Java | January 20, 2026 |
+| 5 | [Minimum Operations to Make Array Sum Divisible by K](1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k) | 🟢 Easy | 1 Java | January 19, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (11)
-- Easy: 10 | Medium: 1 | Hard: 0
+### Array (12)
+- Easy: 10 | Medium: 2 | Hard: 0
 
-### String (5)
-- Easy: 5 | Medium: 0 | Hard: 0
+### String (6)
+- Easy: 5 | Medium: 1 | Hard: 0
 
 ### Hash Table (4)
 - Easy: 4 | Medium: 0 | Hard: 0
@@ -67,6 +67,9 @@ leetcode-solutions/
 
 ### Two Pointers (1)
 - Easy: 1 | Medium: 0 | Hard: 0
+
+### Prefix Sum (1)
+- Easy: 0 | Medium: 1 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)
