@@ -125,7 +125,7 @@
     ]
   },
   "medium": {
-    "count": 2,
+    "count": 3,
     "problems": [
       {
         "number": "3315",
@@ -142,6 +142,14 @@
         "path": "2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box",
         "date": "January 23, 2026",
         "solutions": 2
+      },
+      {
+        "number": "1877",
+        "title": "Minimize Maximum Pair Sum in Array",
+        "difficulty": "medium",
+        "path": "2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array",
+        "date": "January 24, 2026",
+        "solutions": 1
       }
     ]
   },
@@ -157,7 +165,7 @@
     },
     "Array": {
       "easy": 10,
-      "medium": 2,
+      "medium": 3,
       "hard": 0
     },
     "Hash Table": {
@@ -187,10 +195,20 @@
     },
     "Two Pointers": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Prefix Sum": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Greedy": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Sorting": {
       "easy": 0,
       "medium": 1,
       "hard": 0
@@ -198,5 +216,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-23T16:32:17.251136"
+  "last_updated": "2026-01-24T16:19:30.547125"
 }

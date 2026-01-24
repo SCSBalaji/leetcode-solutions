@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** January 23, 2026
+**Last Updated:** January 24, 2026
 
 ---
 
-## Array (12 problems)
+## Array (13 problems)
 
 - 🟢 Easy: 10
-- 🟡 Medium: 2
+- 🟡 Medium: 3
 - 🔴 Hard: 0
 
 ### Problems:
@@ -25,6 +25,7 @@
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 
 ---
 
@@ -107,6 +108,19 @@
 
 ---
 
+## Two Pointers (2 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+
+---
+
 ## Counting (1 problems)
 
 - 🟢 Easy: 1
@@ -119,18 +133,6 @@
 
 ---
 
-## Two Pointers (1 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
-
----
-
 ## Prefix Sum (1 problems)
 
 - 🟢 Easy: 0
@@ -140,6 +142,30 @@
 ### Problems:
 
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+
+---
+
+## Greedy (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+
+---
+
+## Sorting (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 
 ---
 
