@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 15    | 921   | 1.6%      |
+| 🟢 Easy    | 16    | 921   | 1.7%      |
 | 🟡 Medium  | 3     | 1982  | 0.2%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **18**| **3802** | **0.5%** |
+| **Total**  | **19**| **3802** | **0.5%** |
 
-**Last Updated:** January 24, 2026
+**Last Updated:** January 25, 2026
 
 ---
 
@@ -33,19 +33,19 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Minimize Maximum Pair Sum in Array](2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array) | 🟡 Medium | 1 Java | January 24, 2026 |
-| 2 | [Minimum Number of Operations to Move All Balls to Each Box](2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | 🟡 Medium | 2 Java | January 23, 2026 |
-| 3 | [Restore Finishing Order](1. easy/2501-3000/3668-restore-finishing-order) | 🟢 Easy | 1 Java | January 22, 2026 |
-| 4 | [Construct the Minimum Bitwise Array II](2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii) | 🟡 Medium | 1 Java | January 21, 2026 |
-| 5 | [Build Array from Permutation](1. easy/1501-2000/1920-build-array-from-permutation) | 🟢 Easy | 2 Java | January 20, 2026 |
+| 1 | [Minimum Difference Between Highest and Lowest of K Scores](1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | 🟢 Easy | 1 Java | January 25, 2026 |
+| 2 | [Minimize Maximum Pair Sum in Array](2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array) | 🟡 Medium | 1 Java | January 24, 2026 |
+| 3 | [Minimum Number of Operations to Move All Balls to Each Box](2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | 🟡 Medium | 2 Java | January 23, 2026 |
+| 4 | [Restore Finishing Order](1. easy/2501-3000/3668-restore-finishing-order) | 🟢 Easy | 1 Java | January 22, 2026 |
+| 5 | [Construct the Minimum Bitwise Array II](2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii) | 🟡 Medium | 1 Java | January 21, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (13)
-- Easy: 10 | Medium: 3 | Hard: 0
+### Array (14)
+- Easy: 11 | Medium: 3 | Hard: 0
 
 ### String (6)
 - Easy: 5 | Medium: 1 | Hard: 0
@@ -59,6 +59,9 @@ leetcode-solutions/
 ### Simulation (3)
 - Easy: 3 | Medium: 0 | Hard: 0
 
+### Sorting (2)
+- Easy: 1 | Medium: 1 | Hard: 0
+
 ### Bit Manipulation (2)
 - Easy: 1 | Medium: 1 | Hard: 0
 
@@ -68,11 +71,8 @@ leetcode-solutions/
 ### Counting (1)
 - Easy: 1 | Medium: 0 | Hard: 0
 
-### Prefix Sum (1)
-- Easy: 0 | Medium: 1 | Hard: 0
-
-### Greedy (1)
-- Easy: 0 | Medium: 1 | Hard: 0
+### Sliding Window (1)
+- Easy: 1 | Medium: 0 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)

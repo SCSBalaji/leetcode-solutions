@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 15,
+    "count": 16,
     "problems": [
       {
         "number": "1108",
@@ -65,6 +65,14 @@
         "path": "1. easy/1501-2000/1920-build-array-from-permutation",
         "date": "January 20, 2026",
         "solutions": 2
+      },
+      {
+        "number": "1984",
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+        "date": "January 25, 2026",
+        "solutions": 1
       },
       {
         "number": "1929",
@@ -164,7 +172,7 @@
       "hard": 0
     },
     "Array": {
-      "easy": 10,
+      "easy": 11,
       "medium": 3,
       "hard": 0
     },
@@ -188,6 +196,16 @@
       "medium": 0,
       "hard": 0
     },
+    "Sliding Window": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Sorting": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
     "Bit Manipulation": {
       "easy": 1,
       "medium": 1,
@@ -207,14 +225,9 @@
       "easy": 0,
       "medium": 1,
       "hard": 0
-    },
-    "Sorting": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-24T16:19:30.547125"
+  "last_updated": "2026-01-25T17:50:20.152197"
 }
