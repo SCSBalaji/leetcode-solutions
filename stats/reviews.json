@@ -106,5 +106,11 @@
     "review_count": 1,
     "last_reviewed": "2026-01-24",
     "next_review": "2026-01-25"
+  },
+  "1984": {
+    "title": "Minimum Difference Between Highest And Lowest Of K Scores",
+    "review_count": 1,
+    "last_reviewed": "2026-01-25",
+    "next_review": "2026-01-26"
   }
 }
