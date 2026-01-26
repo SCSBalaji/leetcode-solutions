@@ -133,8 +133,16 @@
     ]
   },
   "medium": {
-    "count": 3,
+    "count": 4,
     "problems": [
+      {
+        "number": "1052",
+        "title": "Grumpy Bookstore Owner",
+        "difficulty": "medium",
+        "path": "2. medium/1001-1500/1052-grumpy-bookstore-owner",
+        "date": "January 26, 2026",
+        "solutions": 1
+      },
       {
         "number": "3315",
         "title": "Construct the Minimum Bitwise Array II",
@@ -173,7 +181,7 @@
     },
     "Array": {
       "easy": 11,
-      "medium": 3,
+      "medium": 4,
       "hard": 0
     },
     "Hash Table": {
@@ -198,7 +206,7 @@
     },
     "Sliding Window": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Sorting": {
@@ -229,5 +237,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-25T17:50:20.152197"
+  "last_updated": "2026-01-26T12:33:20.864877"
 }

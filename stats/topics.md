@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** January 25, 2026
+**Last Updated:** January 26, 2026
 
 ---
 
-## Array (14 problems)
+## Array (15 problems)
 
 - 🟢 Easy: 11
-- 🟡 Medium: 3
+- 🟡 Medium: 4
 - 🔴 Hard: 0
 
 ### Problems:
@@ -24,6 +24,7 @@
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
+- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
@@ -97,6 +98,19 @@
 
 ---
 
+## Sliding Window (2 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
+
+---
+
 ## Sorting (2 problems)
 
 - 🟢 Easy: 1
@@ -145,18 +159,6 @@
 ### Problems:
 
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-
----
-
-## Sliding Window (1 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 
 ---
 
