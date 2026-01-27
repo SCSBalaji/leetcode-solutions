@@ -133,7 +133,7 @@
     ]
   },
   "medium": {
-    "count": 4,
+    "count": 5,
     "problems": [
       {
         "number": "1052",
@@ -141,6 +141,14 @@
         "difficulty": "medium",
         "path": "2. medium/1001-1500/1052-grumpy-bookstore-owner",
         "date": "January 26, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3650",
+        "title": "Minimum Cost Path with Edge Reversals",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals",
+        "date": "January 27, 2026",
         "solutions": 1
       },
       {
@@ -224,6 +232,21 @@
       "medium": 1,
       "hard": 0
     },
+    "Graph Theory": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Heap": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Shortest Path": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
     "Prefix Sum": {
       "easy": 0,
       "medium": 1,
@@ -237,5 +260,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-26T12:33:20.864877"
+  "last_updated": "2026-01-27T12:55:06.506284"
 }

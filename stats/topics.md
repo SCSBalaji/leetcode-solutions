@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** January 26, 2026
+**Last Updated:** January 27, 2026
 
 ---
 
@@ -159,6 +159,42 @@
 ### Problems:
 
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+
+---
+
+## Graph Theory (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3650. Minimum Cost Path with Edge Reversals](../2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals)
+
+---
+
+## Heap (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3650. Minimum Cost Path with Edge Reversals](../2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals)
+
+---
+
+## Shortest Path (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3650. Minimum Cost Path with Edge Reversals](../2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals)
 
 ---
 

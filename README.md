@@ -7,11 +7,11 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
 | 🟢 Easy    | 16    | 921   | 1.7%      |
-| 🟡 Medium  | 4     | 1982  | 0.2%       |
+| 🟡 Medium  | 5     | 1982  | 0.3%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **20**| **3802** | **0.5%** |
+| **Total**  | **21**| **3802** | **0.6%** |
 
-**Last Updated:** January 26, 2026
+**Last Updated:** January 27, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Grumpy Bookstore Owner](2. medium/1001-1500/1052-grumpy-bookstore-owner) | 🟡 Medium | 1 Java | January 26, 2026 |
-| 2 | [Minimum Difference Between Highest and Lowest of K Scores](1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | 🟢 Easy | 1 Java | January 25, 2026 |
-| 3 | [Minimize Maximum Pair Sum in Array](2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array) | 🟡 Medium | 1 Java | January 24, 2026 |
-| 4 | [Minimum Number of Operations to Move All Balls to Each Box](2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | 🟡 Medium | 2 Java | January 23, 2026 |
-| 5 | [Restore Finishing Order](1. easy/2501-3000/3668-restore-finishing-order) | 🟢 Easy | 1 Java | January 22, 2026 |
+| 1 | [Minimum Cost Path with Edge Reversals](2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals) | 🟡 Medium | 1 Java | January 27, 2026 |
+| 2 | [Grumpy Bookstore Owner](2. medium/1001-1500/1052-grumpy-bookstore-owner) | 🟡 Medium | 1 Java | January 26, 2026 |
+| 3 | [Minimum Difference Between Highest and Lowest of K Scores](1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | 🟢 Easy | 1 Java | January 25, 2026 |
+| 4 | [Minimize Maximum Pair Sum in Array](2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array) | 🟡 Medium | 1 Java | January 24, 2026 |
+| 5 | [Minimum Number of Operations to Move All Balls to Each Box](2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | 🟡 Medium | 2 Java | January 23, 2026 |
 
 
 ---
