@@ -118,5 +118,11 @@
     "review_count": 1,
     "last_reviewed": "2026-01-26",
     "next_review": "2026-01-27"
+  },
+  "3650": {
+    "title": "Minimum Cost Path With Edge Reversals",
+    "review_count": 1,
+    "last_reviewed": "2026-01-27",
+    "next_review": "2026-01-28"
   }
 }
