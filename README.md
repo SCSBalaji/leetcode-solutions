@@ -7,11 +7,11 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
 | 🟢 Easy    | 16    | 921   | 1.7%      |
-| 🟡 Medium  | 5     | 1982  | 0.3%       |
+| 🟡 Medium  | 6     | 1982  | 0.3%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **21**| **3802** | **0.6%** |
+| **Total**  | **22**| **3802** | **0.6%** |
 
-**Last Updated:** January 27, 2026
+**Last Updated:** January 28, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Minimum Cost Path with Edge Reversals](2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals) | 🟡 Medium | 1 Java | January 27, 2026 |
-| 2 | [Grumpy Bookstore Owner](2. medium/1001-1500/1052-grumpy-bookstore-owner) | 🟡 Medium | 1 Java | January 26, 2026 |
-| 3 | [Minimum Difference Between Highest and Lowest of K Scores](1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | 🟢 Easy | 1 Java | January 25, 2026 |
-| 4 | [Minimize Maximum Pair Sum in Array](2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array) | 🟡 Medium | 1 Java | January 24, 2026 |
-| 5 | [Minimum Number of Operations to Move All Balls to Each Box](2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | 🟡 Medium | 2 Java | January 23, 2026 |
+| 1 | [Minimum Remove to Make Valid Parentheses](2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses) | 🟡 Medium | 1 Java | January 28, 2026 |
+| 2 | [Minimum Cost Path with Edge Reversals](2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals) | 🟡 Medium | 1 Java | January 27, 2026 |
+| 3 | [Grumpy Bookstore Owner](2. medium/1001-1500/1052-grumpy-bookstore-owner) | 🟡 Medium | 1 Java | January 26, 2026 |
+| 4 | [Minimum Difference Between Highest and Lowest of K Scores](1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | 🟢 Easy | 1 Java | January 25, 2026 |
+| 5 | [Minimize Maximum Pair Sum in Array](2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array) | 🟡 Medium | 1 Java | January 24, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (15)
 - Easy: 11 | Medium: 4 | Hard: 0
 
-### String (6)
-- Easy: 5 | Medium: 1 | Hard: 0
+### String (7)
+- Easy: 5 | Medium: 2 | Hard: 0
 
 ### Hash Table (4)
 - Easy: 4 | Medium: 0 | Hard: 0

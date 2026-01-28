@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** January 27, 2026
+**Last Updated:** January 28, 2026
 
 ---
 
@@ -31,10 +31,10 @@
 
 ---
 
-## String (6 problems)
+## String (7 problems)
 
 - 🟢 Easy: 5
-- 🟡 Medium: 1
+- 🟡 Medium: 2
 - 🔴 Hard: 0
 
 ### Problems:
@@ -44,6 +44,7 @@
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 
 ---
@@ -159,6 +160,18 @@
 ### Problems:
 
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+
+---
+
+## Stack (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
 
 ---
 
