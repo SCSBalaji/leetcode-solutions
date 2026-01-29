@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 16,
+    "count": 17,
     "problems": [
       {
         "number": "1108",
@@ -56,6 +56,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3110-score-of-a-string",
         "date": "January 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3794",
+        "title": "Reverse String Prefix",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3794-reverse-string-prefix",
+        "date": "January 29, 2026",
         "solutions": 1
       },
       {
@@ -191,7 +199,7 @@
   },
   "topics": {
     "String": {
-      "easy": 5,
+      "easy": 6,
       "medium": 2,
       "hard": 0
     },
@@ -220,6 +228,11 @@
       "medium": 0,
       "hard": 0
     },
+    "Two Pointers": {
+      "easy": 2,
+      "medium": 1,
+      "hard": 0
+    },
     "Sliding Window": {
       "easy": 1,
       "medium": 1,
@@ -231,11 +244,6 @@
       "hard": 0
     },
     "Bit Manipulation": {
-      "easy": 1,
-      "medium": 1,
-      "hard": 0
-    },
-    "Two Pointers": {
       "easy": 1,
       "medium": 1,
       "hard": 0
@@ -273,5 +281,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-28T16:00:52.094001"
+  "last_updated": "2026-01-29T16:28:29.400306"
 }
