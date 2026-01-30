@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** January 29, 2026
+**Last Updated:** January 30, 2026
 
 ---
 
@@ -31,9 +31,9 @@
 
 ---
 
-## String (8 problems)
+## String (9 problems)
 
-- 🟢 Easy: 6
+- 🟢 Easy: 7
 - 🟡 Medium: 2
 - 🔴 Hard: 0
 
@@ -43,6 +43,7 @@
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
+- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
@@ -77,6 +78,7 @@
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
+- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
@@ -86,9 +88,9 @@
 
 ---
 
-## Simulation (3 problems)
+## Simulation (4 problems)
 
-- 🟢 Easy: 3
+- 🟢 Easy: 4
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
@@ -96,6 +98,7 @@
 
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
+- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 

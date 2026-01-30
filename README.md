@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 17    | 921   | 1.8%      |
+| 🟢 Easy    | 18    | 921   | 2.0%      |
 | 🟡 Medium  | 6     | 1982  | 0.3%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **23**| **3802** | **0.6%** |
+| **Total**  | **24**| **3802** | **0.6%** |
 
-**Last Updated:** January 29, 2026
+**Last Updated:** January 30, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Reverse String Prefix](1. easy/2501-3000/3794-reverse-string-prefix) | 🟢 Easy | 1 Java | January 29, 2026 |
-| 2 | [Minimum Remove to Make Valid Parentheses](2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses) | 🟡 Medium | 1 Java | January 28, 2026 |
-| 3 | [Minimum Cost Path with Edge Reversals](2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals) | 🟡 Medium | 1 Java | January 27, 2026 |
-| 4 | [Grumpy Bookstore Owner](2. medium/1001-1500/1052-grumpy-bookstore-owner) | 🟡 Medium | 1 Java | January 26, 2026 |
-| 5 | [Minimum Difference Between Highest and Lowest of K Scores](1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | 🟢 Easy | 1 Java | January 25, 2026 |
+| 1 | [Reverse Degree of a String](1. easy/2501-3000/3498-reverse-degree-of-a-string) | 🟢 Easy | 1 Java | January 30, 2026 |
+| 2 | [Reverse String Prefix](1. easy/2501-3000/3794-reverse-string-prefix) | 🟢 Easy | 1 Java | January 29, 2026 |
+| 3 | [Minimum Remove to Make Valid Parentheses](2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses) | 🟡 Medium | 1 Java | January 28, 2026 |
+| 4 | [Minimum Cost Path with Edge Reversals](2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals) | 🟡 Medium | 1 Java | January 27, 2026 |
+| 5 | [Grumpy Bookstore Owner](2. medium/1001-1500/1052-grumpy-bookstore-owner) | 🟡 Medium | 1 Java | January 26, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (15)
 - Easy: 11 | Medium: 4 | Hard: 0
 
-### String (8)
-- Easy: 6 | Medium: 2 | Hard: 0
+### String (9)
+- Easy: 7 | Medium: 2 | Hard: 0
 
 ### Hash Table (4)
 - Easy: 4 | Medium: 0 | Hard: 0
@@ -56,8 +56,8 @@ leetcode-solutions/
 ### Math (4)
 - Easy: 4 | Medium: 0 | Hard: 0
 
-### Simulation (3)
-- Easy: 3 | Medium: 0 | Hard: 0
+### Simulation (4)
+- Easy: 4 | Medium: 0 | Hard: 0
 
 ### Two Pointers (3)
 - Easy: 2 | Medium: 1 | Hard: 0
