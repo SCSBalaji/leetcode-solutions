@@ -149,8 +149,16 @@
     ]
   },
   "medium": {
-    "count": 6,
+    "count": 7,
     "problems": [
+      {
+        "number": "2125",
+        "title": "Number of Laser Beams in a Bank",
+        "difficulty": "medium",
+        "path": "2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank",
+        "date": "January 31, 2026",
+        "solutions": 1
+      },
       {
         "number": "1052",
         "title": "Grumpy Bookstore Owner",
@@ -208,12 +216,12 @@
   "topics": {
     "String": {
       "easy": 7,
-      "medium": 2,
+      "medium": 3,
       "hard": 0
     },
     "Array": {
       "easy": 11,
-      "medium": 4,
+      "medium": 5,
       "hard": 0
     },
     "Hash Table": {
@@ -228,7 +236,7 @@
     },
     "Math": {
       "easy": 4,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Simulation": {
@@ -253,6 +261,11 @@
     },
     "Bit Manipulation": {
       "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "Matrix": {
+      "easy": 0,
       "medium": 1,
       "hard": 0
     },
@@ -289,5 +302,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-30T16:34:19.762042"
+  "last_updated": "2026-01-31T16:44:17.421516"
 }
