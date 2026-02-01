@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 18,
+    "count": 19,
     "problems": [
       {
         "number": "1108",
@@ -40,6 +40,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3701-compute-alternating-sum",
         "date": "January 14, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3010",
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+        "date": "February 01, 2026",
         "solutions": 1
       },
       {
@@ -220,7 +228,7 @@
       "hard": 0
     },
     "Array": {
-      "easy": 11,
+      "easy": 12,
       "medium": 5,
       "hard": 0
     },
@@ -244,17 +252,22 @@
       "medium": 0,
       "hard": 0
     },
+    "Sorting": {
+      "easy": 2,
+      "medium": 1,
+      "hard": 0
+    },
+    "Enumeration": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
     "Two Pointers": {
       "easy": 2,
       "medium": 1,
       "hard": 0
     },
     "Sliding Window": {
-      "easy": 1,
-      "medium": 1,
-      "hard": 0
-    },
-    "Sorting": {
       "easy": 1,
       "medium": 1,
       "hard": 0
@@ -302,5 +315,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-01-31T16:44:17.421516"
+  "last_updated": "2026-02-01T16:30:29.030740"
 }

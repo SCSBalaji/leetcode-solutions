@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** January 31, 2026
+**Last Updated:** February 01, 2026
 
 ---
 
-## Array (16 problems)
+## Array (17 problems)
 
-- 🟢 Easy: 11
+- 🟢 Easy: 12
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -16,6 +16,7 @@
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
@@ -110,6 +111,20 @@
 
 ---
 
+## Sorting (3 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+
+---
+
 ## Two Pointers (3 problems)
 
 - 🟢 Easy: 2
@@ -137,19 +152,6 @@
 
 ---
 
-## Sorting (2 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-
----
-
 ## Bit Manipulation (2 problems)
 
 - 🟢 Easy: 1
@@ -172,6 +174,18 @@
 ### Problems:
 
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+
+---
+
+## Enumeration (1 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 
 ---
 
