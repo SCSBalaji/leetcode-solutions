@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 19,
+    "count": 20,
     "problems": [
       {
         "number": "1108",
@@ -57,6 +57,14 @@
         "path": "1. easy/2501-3000/2942-find-words-containing-character",
         "date": "January 17, 2026",
         "solutions": 2
+      },
+      {
+        "number": "3467",
+        "title": "Transform Array by Parity",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3467-transform-array-by-parity",
+        "date": "February 02, 2026",
+        "solutions": 1
       },
       {
         "number": "3110",
@@ -228,7 +236,7 @@
       "hard": 0
     },
     "Array": {
-      "easy": 12,
+      "easy": 13,
       "medium": 5,
       "hard": 0
     },
@@ -238,7 +246,7 @@
       "hard": 0
     },
     "Counting": {
-      "easy": 1,
+      "easy": 2,
       "medium": 0,
       "hard": 0
     },
@@ -253,7 +261,7 @@
       "hard": 0
     },
     "Sorting": {
-      "easy": 2,
+      "easy": 3,
       "medium": 1,
       "hard": 0
     },
@@ -315,5 +323,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-01T16:30:29.030740"
+  "last_updated": "2026-02-02T16:13:06.521249"
 }

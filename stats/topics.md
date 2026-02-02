@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** February 01, 2026
+**Last Updated:** February 02, 2026
 
 ---
 
-## Array (17 problems)
+## Array (18 problems)
 
-- 🟢 Easy: 12
+- 🟢 Easy: 13
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -18,6 +18,7 @@
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
@@ -111,15 +112,16 @@
 
 ---
 
-## Sorting (3 problems)
+## Sorting (4 problems)
 
-- 🟢 Easy: 2
+- 🟢 Easy: 3
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ### Problems:
 
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 
@@ -136,6 +138,19 @@
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+
+---
+
+## Counting (2 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 
 ---
 
@@ -162,18 +177,6 @@
 
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
-
----
-
-## Counting (1 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 
 ---
 
