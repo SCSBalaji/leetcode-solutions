@@ -1,148 +1,36 @@
 {
   "easy": {
-    "count": 20,
+    "count": 22,
     "problems": [
-      {
-        "number": "1108",
-        "title": "Defanging an IP Address",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1108-defanging-an-ip-address",
-        "date": "January 18, 2026",
-        "solutions": 3
-      },
-      {
-        "number": "3668",
-        "title": "Restore Finishing Order",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3668-restore-finishing-order",
-        "date": "January 22, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3541",
-        "title": "Find Most Frequent Vowel and Consonant",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant",
-        "date": "January 16, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3512",
-        "title": "Minimum Operations to Make Array Sum Divisible by K",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k",
-        "date": "January 19, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3701",
-        "title": "Compute Alternating Sum",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3701-compute-alternating-sum",
-        "date": "January 14, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3010",
-        "title": "Divide an Array Into Subarrays With Minimum Cost I",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
-        "date": "February 01, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2942",
-        "title": "Find Words Containing Character",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/2942-find-words-containing-character",
-        "date": "January 17, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "3467",
-        "title": "Transform Array by Parity",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3467-transform-array-by-parity",
-        "date": "February 02, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3110",
-        "title": "Score of a String",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3110-score-of-a-string",
-        "date": "January 15, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3498",
-        "title": "Reverse Degree of a String",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3498-reverse-degree-of-a-string",
-        "date": "January 30, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3794",
-        "title": "Reverse String Prefix",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3794-reverse-string-prefix",
-        "date": "January 29, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1920",
-        "title": "Build Array from Permutation",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1920-build-array-from-permutation",
-        "date": "January 20, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "1984",
-        "title": "Minimum Difference Between Highest and Lowest of K Scores",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
-        "date": "January 25, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1929",
-        "title": "Concatenation of Array",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1929-concatenation-of-array",
-        "date": "January 13, 2026",
-        "solutions": 3
-      },
-      {
-        "number": "0136",
-        "title": "Single Number",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0136-single-number",
-        "date": "January 12, 2026",
-        "solutions": 4
-      },
       {
         "number": "0001",
         "title": "Two Sum",
         "difficulty": "easy",
-        "path": "1. easy/0000-0500/0001-two-sum",
+        "path": "1. easy\\0000-0500\\0001-two-sum",
         "date": "January 10, 2026",
         "solutions": 4
-      },
-      {
-        "number": "0027",
-        "title": "Remove Element",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0027-remove-element",
-        "date": "January 11, 2026",
-        "solutions": 2
       },
       {
         "number": "0009",
         "title": "Palindrome Number",
         "difficulty": "easy",
-        "path": "1. easy/0000-0500/0009-palindrome-number",
+        "path": "1. easy\\0000-0500\\0009-palindrome-number",
+        "date": "January 11, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "0013",
+        "title": "Roman to Integer",
+        "difficulty": "easy",
+        "path": "1. easy\\0000-0500\\0013-roman-to-integer",
+        "date": "January 12, 2026",
+        "solutions": 3
+      },
+      {
+        "number": "0027",
+        "title": "Remove Element",
+        "difficulty": "easy",
+        "path": "1. easy\\0000-0500\\0027-remove-element",
         "date": "January 11, 2026",
         "solutions": 2
       },
@@ -150,17 +38,145 @@
         "number": "0066",
         "title": "Plus One",
         "difficulty": "easy",
-        "path": "1. easy/0000-0500/0066-plus-one",
+        "path": "1. easy\\0000-0500\\0066-plus-one",
         "date": "January 12, 2026",
         "solutions": 1
       },
       {
-        "number": "0013",
-        "title": "Roman to Integer",
+        "number": "0136",
+        "title": "Single Number",
         "difficulty": "easy",
-        "path": "1. easy/0000-0500/0013-roman-to-integer",
+        "path": "1. easy\\0000-0500\\0136-single-number",
         "date": "January 12, 2026",
+        "solutions": 4
+      },
+      {
+        "number": "0169",
+        "title": "Majority Element",
+        "difficulty": "easy",
+        "path": "1. easy\\0000-0500\\0169-majority-element",
+        "date": "January 17, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1108",
+        "title": "Defanging an IP Address",
+        "difficulty": "easy",
+        "path": "1. easy\\1001-1500\\1108-defanging-an-ip-address",
+        "date": "January 18, 2026",
         "solutions": 3
+      },
+      {
+        "number": "1920",
+        "title": "Build Array from Permutation",
+        "difficulty": "easy",
+        "path": "1. easy\\1501-2000\\1920-build-array-from-permutation",
+        "date": "January 20, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "1929",
+        "title": "Concatenation of Array",
+        "difficulty": "easy",
+        "path": "1. easy\\1501-2000\\1929-concatenation-of-array",
+        "date": "January 13, 2026",
+        "solutions": 3
+      },
+      {
+        "number": "1984",
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "difficulty": "easy",
+        "path": "1. easy\\1501-2000\\1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+        "date": "January 25, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2942",
+        "title": "Find Words Containing Character",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\2942-find-words-containing-character",
+        "date": "January 17, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "3010",
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+        "date": "February 01, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3110",
+        "title": "Score of a String",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3110-score-of-a-string",
+        "date": "January 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3467",
+        "title": "Transform Array by Parity",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3467-transform-array-by-parity",
+        "date": "February 02, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3498",
+        "title": "Reverse Degree of a String",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3498-reverse-degree-of-a-string",
+        "date": "January 30, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3512",
+        "title": "Minimum Operations to Make Array Sum Divisible by K",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3512-minimum-operations-to-make-array-sum-divisible-by-k",
+        "date": "January 19, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3541",
+        "title": "Find Most Frequent Vowel and Consonant",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3541-find-most-frequent-vowel-and-consonant",
+        "date": "January 16, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3637",
+        "title": "Trionic Array I",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3637-trionic-array-i",
+        "date": "February 03, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "3668",
+        "title": "Restore Finishing Order",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3668-restore-finishing-order",
+        "date": "January 22, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3701",
+        "title": "Compute Alternating Sum",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3701-compute-alternating-sum",
+        "date": "January 14, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3794",
+        "title": "Reverse String Prefix",
+        "difficulty": "easy",
+        "path": "1. easy\\2501-3000\\3794-reverse-string-prefix",
+        "date": "January 29, 2026",
+        "solutions": 1
       }
     ]
   },
@@ -168,18 +184,10 @@
     "count": 7,
     "problems": [
       {
-        "number": "2125",
-        "title": "Number of Laser Beams in a Bank",
-        "difficulty": "medium",
-        "path": "2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank",
-        "date": "January 31, 2026",
-        "solutions": 1
-      },
-      {
         "number": "1052",
         "title": "Grumpy Bookstore Owner",
         "difficulty": "medium",
-        "path": "2. medium/1001-1500/1052-grumpy-bookstore-owner",
+        "path": "2. medium\\1001-1500\\1052-grumpy-bookstore-owner",
         "date": "January 26, 2026",
         "solutions": 1
       },
@@ -187,31 +195,15 @@
         "number": "1249",
         "title": "Minimum Remove to Make Valid Parentheses",
         "difficulty": "medium",
-        "path": "2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses",
+        "path": "2. medium\\1001-1500\\1249-minimum-remove-to-make-valid-parentheses",
         "date": "January 28, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3650",
-        "title": "Minimum Cost Path with Edge Reversals",
-        "difficulty": "medium",
-        "path": "2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals",
-        "date": "January 27, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3315",
-        "title": "Construct the Minimum Bitwise Array II",
-        "difficulty": "medium",
-        "path": "2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii",
-        "date": "January 21, 2026",
         "solutions": 1
       },
       {
         "number": "1769",
         "title": "Minimum Number of Operations to Move All Balls to Each Box",
         "difficulty": "medium",
-        "path": "2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box",
+        "path": "2. medium\\1501-2000\\1769-minimum-number-of-operations-to-move-all-balls-to-each-box",
         "date": "January 23, 2026",
         "solutions": 2
       },
@@ -219,8 +211,32 @@
         "number": "1877",
         "title": "Minimize Maximum Pair Sum in Array",
         "difficulty": "medium",
-        "path": "2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array",
+        "path": "2. medium\\1501-2000\\1877-minimize-maximum-pair-sum-in-array",
         "date": "January 24, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2125",
+        "title": "Number of Laser Beams in a Bank",
+        "difficulty": "medium",
+        "path": "2. medium\\2001-2500\\2125-number-of-laser-beams-in-a-bank",
+        "date": "January 31, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3315",
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "medium",
+        "path": "2. medium\\2501-3000\\3315-construct-the-minimum-bitwise-array-ii",
+        "date": "January 21, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3650",
+        "title": "Minimum Cost Path with Edge Reversals",
+        "difficulty": "medium",
+        "path": "2. medium\\2501-3000\\3650-minimum-cost-path-with-edge-reversals",
+        "date": "January 27, 2026",
         "solutions": 1
       }
     ]
@@ -230,23 +246,13 @@
     "problems": []
   },
   "topics": {
-    "String": {
-      "easy": 7,
-      "medium": 3,
-      "hard": 0
-    },
     "Array": {
-      "easy": 13,
+      "easy": 15,
       "medium": 5,
       "hard": 0
     },
     "Hash Table": {
-      "easy": 4,
-      "medium": 0,
-      "hard": 0
-    },
-    "Counting": {
-      "easy": 2,
+      "easy": 5,
       "medium": 0,
       "hard": 0
     },
@@ -255,28 +261,13 @@
       "medium": 1,
       "hard": 0
     },
-    "Simulation": {
-      "easy": 4,
-      "medium": 0,
-      "hard": 0
-    },
-    "Sorting": {
-      "easy": 3,
-      "medium": 1,
-      "hard": 0
-    },
-    "Enumeration": {
-      "easy": 1,
-      "medium": 0,
+    "String": {
+      "easy": 7,
+      "medium": 3,
       "hard": 0
     },
     "Two Pointers": {
       "easy": 2,
-      "medium": 1,
-      "hard": 0
-    },
-    "Sliding Window": {
-      "easy": 1,
       "medium": 1,
       "hard": 0
     },
@@ -285,12 +276,52 @@
       "medium": 1,
       "hard": 0
     },
-    "Matrix": {
+    "Divide and Conquer": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Sorting": {
+      "easy": 4,
+      "medium": 1,
+      "hard": 0
+    },
+    "Counting": {
+      "easy": 3,
+      "medium": 0,
+      "hard": 0
+    },
+    "Simulation": {
+      "easy": 4,
+      "medium": 0,
+      "hard": 0
+    },
+    "Sliding Window": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "Enumeration": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Stack": {
       "easy": 0,
       "medium": 1,
       "hard": 0
     },
-    "Stack": {
+    "Prefix Sum": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Greedy": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Matrix": {
       "easy": 0,
       "medium": 1,
       "hard": 0
@@ -309,19 +340,9 @@
       "easy": 0,
       "medium": 1,
       "hard": 0
-    },
-    "Prefix Sum": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
-    },
-    "Greedy": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-02T16:13:06.521249"
+  "last_updated": "2026-02-03T23:04:08.214762"
 }
