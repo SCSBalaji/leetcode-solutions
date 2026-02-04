@@ -11,7 +11,7 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | 🔴 Hard    | 0     | 899   | 0.0%       |
 | **Total**  | **29**| **3802** | **0.8%** |
 
-**Last Updated:** February 03, 2026
+**Last Updated:** February 04, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Trionic Array I](1. easy/2501-3000/3637-trionic-array-i) | 🟢 Easy | 2 Java | February 03, 2026 |
-| 2 | [Transform Array by Parity](1. easy/2501-3000/3467-transform-array-by-parity) | 🟢 Easy | 1 Java | February 02, 2026 |
-| 3 | [Divide an Array Into Subarrays With Minimum Cost I](1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) | 🟢 Easy | 1 Java | February 01, 2026 |
-| 4 | [Number of Laser Beams in a Bank](2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank) | 🟡 Medium | 1 Java | January 31, 2026 |
-| 5 | [Reverse Degree of a String](1. easy/2501-3000/3498-reverse-degree-of-a-string) | 🟢 Easy | 1 Java | January 30, 2026 |
+| 1 | [Count Negative Numbers in a Sorted Matrix](1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | 1 Java | February 04, 2026 |
+| 2 | [Trionic Array I](1. easy/2501-3000/3637-trionic-array-i) | 🟢 Easy | 2 Java | February 03, 2026 |
+| 3 | [Transform Array by Parity](1. easy/2501-3000/3467-transform-array-by-parity) | 🟢 Easy | 1 Java | February 02, 2026 |
+| 4 | [Divide an Array Into Subarrays With Minimum Cost I](1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) | 🟢 Easy | 1 Java | February 01, 2026 |
+| 5 | [Number of Laser Beams in a Bank](2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank) | 🟡 Medium | 1 Java | January 31, 2026 |
 
 
 ---
@@ -50,26 +50,26 @@ leetcode-solutions/
 ### String (10)
 - Easy: 7 | Medium: 3 | Hard: 0
 
-### Hash Table (5)
-- Easy: 5 | Medium: 0 | Hard: 0
-
 ### Math (5)
 - Easy: 4 | Medium: 1 | Hard: 0
 
-### Sorting (5)
-- Easy: 4 | Medium: 1 | Hard: 0
+### Hash Table (4)
+- Easy: 4 | Medium: 0 | Hard: 0
 
 ### Simulation (4)
 - Easy: 4 | Medium: 0 | Hard: 0
 
+### Sorting (4)
+- Easy: 3 | Medium: 1 | Hard: 0
+
 ### Two Pointers (3)
 - Easy: 2 | Medium: 1 | Hard: 0
 
-### Counting (3)
-- Easy: 3 | Medium: 0 | Hard: 0
-
-### Bit Manipulation (2)
+### Matrix (2)
 - Easy: 1 | Medium: 1 | Hard: 0
+
+### Counting (2)
+- Easy: 2 | Medium: 0 | Hard: 0
 
 ### Sliding Window (2)
 - Easy: 1 | Medium: 1 | Hard: 0
