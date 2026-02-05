@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 22,
+    "count": 23,
     "problems": [
       {
         "number": "1108",
@@ -88,6 +88,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3110-score-of-a-string",
         "date": "January 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3379",
+        "title": "Transformed Array",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3379-transformed-array",
+        "date": "February 05, 2026",
         "solutions": 1
       },
       {
@@ -252,7 +260,7 @@
       "hard": 0
     },
     "Array": {
-      "easy": 15,
+      "easy": 16,
       "medium": 5,
       "hard": 0
     },
@@ -282,7 +290,7 @@
       "hard": 0
     },
     "Simulation": {
-      "easy": 4,
+      "easy": 5,
       "medium": 0,
       "hard": 0
     },
@@ -344,5 +352,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-04T16:52:00.471007"
+  "last_updated": "2026-02-05T15:32:10.267553"
 }

@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 22    | 921   | 2.4%      |
+| 🟢 Easy    | 23    | 921   | 2.5%      |
 | 🟡 Medium  | 7     | 1982  | 0.4%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **29**| **3802** | **0.8%** |
+| **Total**  | **30**| **3802** | **0.8%** |
 
-**Last Updated:** February 04, 2026
+**Last Updated:** February 05, 2026
 
 ---
 
@@ -33,19 +33,19 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Count Negative Numbers in a Sorted Matrix](1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | 1 Java | February 04, 2026 |
-| 2 | [Trionic Array I](1. easy/2501-3000/3637-trionic-array-i) | 🟢 Easy | 2 Java | February 03, 2026 |
-| 3 | [Transform Array by Parity](1. easy/2501-3000/3467-transform-array-by-parity) | 🟢 Easy | 1 Java | February 02, 2026 |
-| 4 | [Divide an Array Into Subarrays With Minimum Cost I](1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) | 🟢 Easy | 1 Java | February 01, 2026 |
-| 5 | [Number of Laser Beams in a Bank](2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank) | 🟡 Medium | 1 Java | January 31, 2026 |
+| 1 | [Transformed Array](1. easy/2501-3000/3379-transformed-array) | 🟢 Easy | 1 Java | February 05, 2026 |
+| 2 | [Count Negative Numbers in a Sorted Matrix](1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | 1 Java | February 04, 2026 |
+| 3 | [Trionic Array I](1. easy/2501-3000/3637-trionic-array-i) | 🟢 Easy | 2 Java | February 03, 2026 |
+| 4 | [Transform Array by Parity](1. easy/2501-3000/3467-transform-array-by-parity) | 🟢 Easy | 1 Java | February 02, 2026 |
+| 5 | [Divide an Array Into Subarrays With Minimum Cost I](1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) | 🟢 Easy | 1 Java | February 01, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (20)
-- Easy: 15 | Medium: 5 | Hard: 0
+### Array (21)
+- Easy: 16 | Medium: 5 | Hard: 0
 
 ### String (10)
 - Easy: 7 | Medium: 3 | Hard: 0
@@ -53,10 +53,10 @@ leetcode-solutions/
 ### Math (5)
 - Easy: 4 | Medium: 1 | Hard: 0
 
-### Hash Table (4)
-- Easy: 4 | Medium: 0 | Hard: 0
+### Simulation (5)
+- Easy: 5 | Medium: 0 | Hard: 0
 
-### Simulation (4)
+### Hash Table (4)
 - Easy: 4 | Medium: 0 | Hard: 0
 
 ### Sorting (4)

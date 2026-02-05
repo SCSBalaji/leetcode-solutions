@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** February 04, 2026
+**Last Updated:** February 05, 2026
 
 ---
 
-## Array (20 problems)
+## Array (21 problems)
 
-- 🟢 Easy: 15
+- 🟢 Easy: 16
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -21,6 +21,7 @@
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
@@ -83,6 +84,23 @@
 
 ---
 
+## Simulation (5 problems)
+
+- 🟢 Easy: 5
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
+- [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
+- [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
+- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
+- [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
+- [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
+
+---
+
 ## Hash Table (4 problems)
 
 - 🟢 Easy: 4
@@ -96,22 +114,6 @@
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-
----
-
-## Simulation (4 problems)
-
-- 🟢 Easy: 4
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
-- [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
-- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
-- [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
-- [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 
 ---
 
