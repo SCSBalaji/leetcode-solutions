@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** February 05, 2026
+**Last Updated:** February 06, 2026
 
 ---
 
-## Array (21 problems)
+## Array (22 problems)
 
 - 🟢 Easy: 16
-- 🟡 Medium: 5
+- 🟡 Medium: 6
 - 🔴 Hard: 0
 
 ### Problems:
@@ -32,6 +32,7 @@
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 
@@ -101,6 +102,22 @@
 
 ---
 
+## Sorting (5 problems)
+
+- 🟢 Easy: 3
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+
+---
+
 ## Hash Table (4 problems)
 
 - 🟢 Easy: 4
@@ -117,21 +134,6 @@
 
 ---
 
-## Sorting (4 problems)
-
-- 🟢 Easy: 3
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
-- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-
----
-
 ## Two Pointers (3 problems)
 
 - 🟢 Easy: 2
@@ -142,7 +144,22 @@
 
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+
+---
+
+## Sliding Window (3 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---
 
@@ -170,19 +187,6 @@
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
-
----
-
-## Sliding Window (2 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 
 ---
 
@@ -292,6 +296,7 @@
 ### Problems:
 
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 
 ---
