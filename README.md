@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 23    | 921   | 2.5%      |
+| 🟢 Easy    | 24    | 921   | 2.6%      |
 | 🟡 Medium  | 9     | 1982  | 0.5%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **32**| **3802** | **0.8%** |
+| **Total**  | **33**| **3802** | **0.9%** |
 
-**Last Updated:** February 07, 2026
+**Last Updated:** February 08, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Maximum Substrings With Distinct Start](2. medium/2501-3000/3760-maximum-substrings-with-distinct-start) | 🟡 Medium | 1 Java | February 07, 2026 |
-| 2 | [Minimum Removals to Balance Array](2. medium/2501-3000/3634-minimum-removals-to-balance-array) | 🟡 Medium | 1 Java | February 06, 2026 |
-| 3 | [Transformed Array](1. easy/2501-3000/3379-transformed-array) | 🟢 Easy | 1 Java | February 05, 2026 |
-| 4 | [Count Negative Numbers in a Sorted Matrix](1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | 1 Java | February 04, 2026 |
-| 5 | [Trionic Array I](1. easy/2501-3000/3637-trionic-array-i) | 🟢 Easy | 2 Java | February 03, 2026 |
+| 1 | [Divisible and Non-divisible Sums Difference](1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference) | 🟢 Easy | 2 Java | February 08, 2026 |
+| 2 | [Maximum Substrings With Distinct Start](2. medium/2501-3000/3760-maximum-substrings-with-distinct-start) | 🟡 Medium | 1 Java | February 07, 2026 |
+| 3 | [Minimum Removals to Balance Array](2. medium/2501-3000/3634-minimum-removals-to-balance-array) | 🟡 Medium | 1 Java | February 06, 2026 |
+| 4 | [Transformed Array](1. easy/2501-3000/3379-transformed-array) | 🟢 Easy | 1 Java | February 05, 2026 |
+| 5 | [Count Negative Numbers in a Sorted Matrix](1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | 1 Java | February 04, 2026 |
 
 
 ---
@@ -50,10 +50,10 @@ leetcode-solutions/
 ### String (11)
 - Easy: 7 | Medium: 4 | Hard: 0
 
-### Hash Table (5)
-- Easy: 4 | Medium: 1 | Hard: 0
+### Math (6)
+- Easy: 5 | Medium: 1 | Hard: 0
 
-### Math (5)
+### Hash Table (5)
 - Easy: 4 | Medium: 1 | Hard: 0
 
 ### Simulation (5)

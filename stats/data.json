@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 23,
+    "count": 24,
     "problems": [
       {
         "number": "1108",
@@ -57,6 +57,14 @@
         "path": "1. easy/2501-3000/3701-compute-alternating-sum",
         "date": "January 14, 2026",
         "solutions": 1
+      },
+      {
+        "number": "2894",
+        "title": "Divisible and Non-divisible Sums Difference",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference",
+        "date": "February 08, 2026",
+        "solutions": 2
       },
       {
         "number": "3010",
@@ -301,7 +309,7 @@
       "hard": 0
     },
     "Math": {
-      "easy": 4,
+      "easy": 5,
       "medium": 1,
       "hard": 0
     },
@@ -368,5 +376,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-07T17:16:31.268747"
+  "last_updated": "2026-02-08T17:10:38.235121"
 }
