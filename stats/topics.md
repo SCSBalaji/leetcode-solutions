@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** February 09, 2026
+**Last Updated:** February 10, 2026
 
 ---
 
-## Array (22 problems)
+## Array (23 problems)
 
 - 🟢 Easy: 16
-- 🟡 Medium: 6
+- 🟡 Medium: 7
 - 🔴 Hard: 0
 
 ### Problems:
@@ -32,6 +32,7 @@
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
@@ -61,6 +62,24 @@
 
 ---
 
+## Hash Table (6 problems)
+
+- 🟢 Easy: 4
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
+- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
+- [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
+
+---
+
 ## Math (6 problems)
 
 - 🟢 Easy: 5
@@ -85,23 +104,6 @@
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-
----
-
-## Hash Table (5 problems)
-
-- 🟢 Easy: 4
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-- [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
-- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-- [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
 
 ---
 
@@ -209,6 +211,19 @@
 
 ---
 
+## Prefix Sum (2 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+
+---
+
 ## Binary Search (1 problems)
 
 - 🟢 Easy: 1
@@ -281,7 +296,7 @@
 
 ---
 
-## Prefix Sum (1 problems)
+## Divide and Conquer (1 problems)
 
 - 🟢 Easy: 0
 - 🟡 Medium: 1
@@ -289,7 +304,19 @@
 
 ### Problems:
 
-- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
+
+---
+
+## Segment Tree (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 
 ---
 

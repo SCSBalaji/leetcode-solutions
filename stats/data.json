@@ -205,7 +205,7 @@
     ]
   },
   "medium": {
-    "count": 9,
+    "count": 10,
     "problems": [
       {
         "number": "2125",
@@ -245,6 +245,14 @@
         "difficulty": "medium",
         "path": "2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii",
         "date": "January 21, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3719",
+        "title": "Longest Balanced Subarray I",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3719-longest-balanced-subarray-i",
+        "date": "February 10, 2026",
         "solutions": 1
       },
       {
@@ -293,7 +301,7 @@
     },
     "Array": {
       "easy": 16,
-      "medium": 6,
+      "medium": 7,
       "hard": 0
     },
     "Binary Search": {
@@ -308,7 +316,7 @@
     },
     "Hash Table": {
       "easy": 4,
-      "medium": 1,
+      "medium": 2,
       "hard": 0
     },
     "Counting": {
@@ -371,9 +379,19 @@
       "medium": 1,
       "hard": 0
     },
-    "Prefix Sum": {
+    "Divide and Conquer": {
       "easy": 0,
       "medium": 1,
+      "hard": 0
+    },
+    "Segment Tree": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Prefix Sum": {
+      "easy": 0,
+      "medium": 2,
       "hard": 0
     },
     "Greedy": {
@@ -384,5 +402,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-09T17:16:47.438950"
+  "last_updated": "2026-02-10T17:14:43.730481"
 }
