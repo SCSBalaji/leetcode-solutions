@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 08, 2026
+**Last Updated:** February 09, 2026
 
 ---
 
@@ -38,9 +38,9 @@
 
 ---
 
-## String (11 problems)
+## String (12 problems)
 
-- 🟢 Easy: 7
+- 🟢 Easy: 8
 - 🟡 Medium: 4
 - 🔴 Hard: 0
 
@@ -48,6 +48,7 @@
 
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
@@ -137,6 +138,21 @@
 
 ---
 
+## Sliding Window (4 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
+
+---
+
 ## Two Pointers (3 problems)
 
 - 🟢 Easy: 2
@@ -149,20 +165,6 @@
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-
----
-
-## Sliding Window (3 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 2
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
-- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---
 
@@ -189,6 +191,7 @@
 
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 
 ---

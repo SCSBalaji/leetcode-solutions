@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 24    | 921   | 2.6%      |
+| 🟢 Easy    | 25    | 921   | 2.7%      |
 | 🟡 Medium  | 9     | 1982  | 0.5%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **33**| **3802** | **0.9%** |
+| **Total**  | **34**| **3802** | **0.9%** |
 
-**Last Updated:** February 08, 2026
+**Last Updated:** February 09, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Divisible and Non-divisible Sums Difference](1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference) | 🟢 Easy | 2 Java | February 08, 2026 |
-| 2 | [Maximum Substrings With Distinct Start](2. medium/2501-3000/3760-maximum-substrings-with-distinct-start) | 🟡 Medium | 1 Java | February 07, 2026 |
-| 3 | [Minimum Removals to Balance Array](2. medium/2501-3000/3634-minimum-removals-to-balance-array) | 🟡 Medium | 1 Java | February 06, 2026 |
-| 4 | [Transformed Array](1. easy/2501-3000/3379-transformed-array) | 🟢 Easy | 1 Java | February 05, 2026 |
-| 5 | [Count Negative Numbers in a Sorted Matrix](1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix) | 🟢 Easy | 1 Java | February 04, 2026 |
+| 1 | [Count Substrings That Satisfy K-Constraint I](1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i) | 🟢 Easy | 1 Java | February 09, 2026 |
+| 2 | [Divisible and Non-divisible Sums Difference](1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference) | 🟢 Easy | 2 Java | February 08, 2026 |
+| 3 | [Maximum Substrings With Distinct Start](2. medium/2501-3000/3760-maximum-substrings-with-distinct-start) | 🟡 Medium | 1 Java | February 07, 2026 |
+| 4 | [Minimum Removals to Balance Array](2. medium/2501-3000/3634-minimum-removals-to-balance-array) | 🟡 Medium | 1 Java | February 06, 2026 |
+| 5 | [Transformed Array](1. easy/2501-3000/3379-transformed-array) | 🟢 Easy | 1 Java | February 05, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (22)
 - Easy: 16 | Medium: 6 | Hard: 0
 
-### String (11)
-- Easy: 7 | Medium: 4 | Hard: 0
+### String (12)
+- Easy: 8 | Medium: 4 | Hard: 0
 
 ### Math (6)
 - Easy: 5 | Medium: 1 | Hard: 0
@@ -62,11 +62,11 @@ leetcode-solutions/
 ### Sorting (5)
 - Easy: 3 | Medium: 2 | Hard: 0
 
+### Sliding Window (4)
+- Easy: 2 | Medium: 2 | Hard: 0
+
 ### Two Pointers (3)
 - Easy: 2 | Medium: 1 | Hard: 0
-
-### Sliding Window (3)
-- Easy: 1 | Medium: 2 | Hard: 0
 
 ### Matrix (2)
 - Easy: 1 | Medium: 1 | Hard: 0
