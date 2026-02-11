@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 25,
+    "count": 26,
     "problems": [
       {
         "number": "1108",
@@ -73,6 +73,14 @@
         "path": "1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference",
         "date": "February 08, 2026",
         "solutions": 2
+      },
+      {
+        "number": "3304",
+        "title": "Find the K-th Character in String Game I",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i",
+        "date": "February 11, 2026",
+        "solutions": 1
       },
       {
         "number": "3010",
@@ -330,12 +338,22 @@
       "hard": 0
     },
     "Math": {
-      "easy": 5,
+      "easy": 6,
       "medium": 1,
       "hard": 0
     },
     "Simulation": {
-      "easy": 5,
+      "easy": 6,
+      "medium": 0,
+      "hard": 0
+    },
+    "Bit Manipulation": {
+      "easy": 2,
+      "medium": 1,
+      "hard": 0
+    },
+    "Recursion": {
+      "easy": 1,
       "medium": 0,
       "hard": 0
     },
@@ -351,11 +369,6 @@
     },
     "Two Pointers": {
       "easy": 2,
-      "medium": 1,
-      "hard": 0
-    },
-    "Bit Manipulation": {
-      "easy": 1,
       "medium": 1,
       "hard": 0
     },
@@ -402,5 +415,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-10T17:14:43.730481"
+  "last_updated": "2026-02-11T16:05:21.151024"
 }
