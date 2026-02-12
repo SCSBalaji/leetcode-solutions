@@ -213,7 +213,7 @@
     ]
   },
   "medium": {
-    "count": 10,
+    "count": 11,
     "problems": [
       {
         "number": "2125",
@@ -237,6 +237,14 @@
         "difficulty": "medium",
         "path": "2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses",
         "date": "January 28, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3713",
+        "title": "Longest Balanced Substring I",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3713-longest-balanced-substring-i",
+        "date": "February 12, 2026",
         "solutions": 1
       },
       {
@@ -304,7 +312,7 @@
   "topics": {
     "String": {
       "easy": 8,
-      "medium": 4,
+      "medium": 5,
       "hard": 0
     },
     "Array": {
@@ -324,12 +332,12 @@
     },
     "Hash Table": {
       "easy": 4,
-      "medium": 2,
+      "medium": 3,
       "hard": 0
     },
     "Counting": {
       "easy": 2,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Sliding Window": {
@@ -364,7 +372,7 @@
     },
     "Enumeration": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Two Pointers": {
@@ -415,5 +423,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-11T16:05:21.151024"
+  "last_updated": "2026-02-12T16:36:45.760406"
 }

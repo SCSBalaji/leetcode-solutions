@@ -7,11 +7,11 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
 | 🟢 Easy    | 26    | 921   | 2.8%      |
-| 🟡 Medium  | 10     | 1982  | 0.5%       |
+| 🟡 Medium  | 11     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **36**| **3802** | **0.9%** |
+| **Total**  | **37**| **3802** | **1.0%** |
 
-**Last Updated:** February 11, 2026
+**Last Updated:** February 12, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Find the K-th Character in String Game I](1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i) | 🟢 Easy | 1 Java | February 11, 2026 |
-| 2 | [Longest Balanced Subarray I](2. medium/2501-3000/3719-longest-balanced-subarray-i) | 🟡 Medium | 1 Java | February 10, 2026 |
-| 3 | [Count Substrings That Satisfy K-Constraint I](1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i) | 🟢 Easy | 1 Java | February 09, 2026 |
-| 4 | [Divisible and Non-divisible Sums Difference](1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference) | 🟢 Easy | 2 Java | February 08, 2026 |
-| 5 | [Maximum Substrings With Distinct Start](2. medium/2501-3000/3760-maximum-substrings-with-distinct-start) | 🟡 Medium | 1 Java | February 07, 2026 |
+| 1 | [Longest Balanced Substring I](2. medium/2501-3000/3713-longest-balanced-substring-i) | 🟡 Medium | 1 Java | February 12, 2026 |
+| 2 | [Find the K-th Character in String Game I](1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i) | 🟢 Easy | 1 Java | February 11, 2026 |
+| 3 | [Longest Balanced Subarray I](2. medium/2501-3000/3719-longest-balanced-subarray-i) | 🟡 Medium | 1 Java | February 10, 2026 |
+| 4 | [Count Substrings That Satisfy K-Constraint I](1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i) | 🟢 Easy | 1 Java | February 09, 2026 |
+| 5 | [Divisible and Non-divisible Sums Difference](1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference) | 🟢 Easy | 2 Java | February 08, 2026 |
 
 
 ---
@@ -47,14 +47,14 @@ leetcode-solutions/
 ### Array (23)
 - Easy: 16 | Medium: 7 | Hard: 0
 
-### String (12)
-- Easy: 8 | Medium: 4 | Hard: 0
+### String (13)
+- Easy: 8 | Medium: 5 | Hard: 0
+
+### Hash Table (7)
+- Easy: 4 | Medium: 3 | Hard: 0
 
 ### Math (7)
 - Easy: 6 | Medium: 1 | Hard: 0
-
-### Hash Table (6)
-- Easy: 4 | Medium: 2 | Hard: 0
 
 ### Simulation (6)
 - Easy: 6 | Medium: 0 | Hard: 0
@@ -65,14 +65,14 @@ leetcode-solutions/
 ### Sliding Window (4)
 - Easy: 2 | Medium: 2 | Hard: 0
 
+### Counting (3)
+- Easy: 2 | Medium: 1 | Hard: 0
+
 ### Bit Manipulation (3)
 - Easy: 2 | Medium: 1 | Hard: 0
 
 ### Two Pointers (3)
 - Easy: 2 | Medium: 1 | Hard: 0
-
-### Matrix (2)
-- Easy: 1 | Medium: 1 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)

@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 11, 2026
+**Last Updated:** February 12, 2026
 
 ---
 
@@ -31,6 +31,7 @@
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
@@ -39,10 +40,10 @@
 
 ---
 
-## String (12 problems)
+## String (13 problems)
 
 - 🟢 Easy: 8
-- 🟡 Medium: 4
+- 🟡 Medium: 5
 - 🔴 Hard: 0
 
 ### Problems:
@@ -58,8 +59,28 @@
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 - [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+
+---
+
+## Hash Table (7 problems)
+
+- 🟢 Easy: 4
+- 🟡 Medium: 3
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
+- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
+- [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
 
 ---
 
@@ -88,24 +109,6 @@
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-
----
-
-## Hash Table (6 problems)
-
-- 🟢 Easy: 4
-- 🟡 Medium: 2
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-- [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
-- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
-- [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
 
 ---
 
@@ -158,6 +161,23 @@
 
 ---
 
+## Counting (3 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
+
+---
+
 ## Bit Manipulation (3 problems)
 
 - 🟢 Easy: 2
@@ -200,18 +220,16 @@
 
 ---
 
-## Counting (2 problems)
+## Enumeration (2 problems)
 
-- 🟢 Easy: 2
-- 🟡 Medium: 0
+- 🟢 Easy: 1
+- 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ### Problems:
 
-- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
-- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 
 ---
 
@@ -249,18 +267,6 @@
 ### Problems:
 
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
-
----
-
-## Enumeration (1 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 
 ---
 
