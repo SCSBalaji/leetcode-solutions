@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 13, 2026
+**Last Updated:** February 14, 2026
 
 ---
 
@@ -370,6 +370,18 @@
 ### Problems:
 
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
+
+---
+
+## Dynamic Programming (1 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0799. Champagne Tower](../2. medium/0501-1000/0799-champagne-tower)
 
 ---
 

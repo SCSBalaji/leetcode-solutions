@@ -7,11 +7,11 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
 | 🟢 Easy    | 27    | 921   | 2.9%      |
-| 🟡 Medium  | 11     | 1982  | 0.6%       |
+| 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **38**| **3802** | **1.0%** |
+| **Total**  | **39**| **3802** | **1.0%** |
 
-**Last Updated:** February 13, 2026
+**Last Updated:** February 14, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
-| 2 | [Longest Balanced Substring I](2. medium/2501-3000/3713-longest-balanced-substring-i) | 🟡 Medium | 1 Java | February 12, 2026 |
-| 3 | [Find the K-th Character in String Game I](1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i) | 🟢 Easy | 1 Java | February 11, 2026 |
-| 4 | [Longest Balanced Subarray I](2. medium/2501-3000/3719-longest-balanced-subarray-i) | 🟡 Medium | 1 Java | February 10, 2026 |
-| 5 | [Count Substrings That Satisfy K-Constraint I](1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i) | 🟢 Easy | 1 Java | February 09, 2026 |
+| 1 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
+| 2 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
+| 3 | [Longest Balanced Substring I](2. medium/2501-3000/3713-longest-balanced-substring-i) | 🟡 Medium | 1 Java | February 12, 2026 |
+| 4 | [Find the K-th Character in String Game I](1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i) | 🟢 Easy | 1 Java | February 11, 2026 |
+| 5 | [Longest Balanced Subarray I](2. medium/2501-3000/3719-longest-balanced-subarray-i) | 🟡 Medium | 1 Java | February 10, 2026 |
 
 
 ---
