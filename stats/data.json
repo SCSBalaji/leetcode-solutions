@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 27,
+    "count": 28,
     "problems": [
       {
         "number": "0136",
@@ -49,6 +49,14 @@
         "path": "1. easy/0000-0500/0027-remove-element",
         "date": "January 11, 2026",
         "solutions": 2
+      },
+      {
+        "number": "1636",
+        "title": "Sort Array by Increasing Frequency",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1636-sort-array-by-increasing-frequency",
+        "date": "February 15, 2026",
+        "solutions": 1
       },
       {
         "number": "1929",
@@ -327,7 +335,7 @@
   },
   "topics": {
     "Array": {
-      "easy": 17,
+      "easy": 18,
       "medium": 7,
       "hard": 0
     },
@@ -342,7 +350,7 @@
       "hard": 0
     },
     "Hash Table": {
-      "easy": 5,
+      "easy": 6,
       "medium": 3,
       "hard": 0
     },
@@ -356,6 +364,11 @@
       "medium": 1,
       "hard": 0
     },
+    "Sorting": {
+      "easy": 5,
+      "medium": 2,
+      "hard": 0
+    },
     "Simulation": {
       "easy": 6,
       "medium": 0,
@@ -363,11 +376,6 @@
     },
     "Sliding Window": {
       "easy": 2,
-      "medium": 2,
-      "hard": 0
-    },
-    "Sorting": {
-      "easy": 4,
       "medium": 2,
       "hard": 0
     },
@@ -449,5 +457,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-14T05:49:28.837117"
+  "last_updated": "2026-02-15T17:36:16.100649"
 }

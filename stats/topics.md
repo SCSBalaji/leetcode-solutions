@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** February 14, 2026
+**Last Updated:** February 15, 2026
 
 ---
 
-## Array (24 problems)
+## Array (25 problems)
 
-- 🟢 Easy: 17
+- 🟢 Easy: 18
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -16,6 +16,7 @@
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
@@ -66,9 +67,9 @@
 
 ---
 
-## Hash Table (8 problems)
+## Hash Table (9 problems)
 
-- 🟢 Easy: 5
+- 🟢 Easy: 6
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -77,6 +78,7 @@
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
@@ -114,6 +116,24 @@
 
 ---
 
+## Sorting (7 problems)
+
+- 🟢 Easy: 5
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
+
+---
+
 ## Simulation (6 problems)
 
 - 🟢 Easy: 6
@@ -129,23 +149,6 @@
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
-
----
-
-## Sorting (6 problems)
-
-- 🟢 Easy: 4
-- 🟡 Medium: 2
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
-- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
-- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---
 
