@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 15, 2026
+**Last Updated:** February 16, 2026
 
 ---
 
@@ -16,6 +16,7 @@
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
@@ -51,6 +52,7 @@
 ### Problems:
 
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
@@ -152,6 +154,21 @@
 
 ---
 
+## Bit Manipulation (4 problems)
+
+- 🟢 Easy: 3
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
+- [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+
+---
+
 ## Sliding Window (4 problems)
 
 - 🟢 Easy: 2
@@ -164,20 +181,6 @@
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
-
----
-
-## Bit Manipulation (3 problems)
-
-- 🟢 Easy: 2
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
-- [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 
 ---
 
@@ -211,6 +214,19 @@
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
+
+---
+
+## Divide and Conquer (2 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 
 ---
 
@@ -349,18 +365,6 @@
 ### Problems:
 
 - [3650. Minimum Cost Path with Edge Reversals](../2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals)
-
----
-
-## Divide and Conquer (1 problems)
-
-- 🟢 Easy: 0
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 
 ---
 

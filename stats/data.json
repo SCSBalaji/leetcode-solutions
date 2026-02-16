@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 28,
+    "count": 29,
     "problems": [
       {
         "number": "0136",
@@ -49,6 +49,14 @@
         "path": "1. easy/0000-0500/0027-remove-element",
         "date": "January 11, 2026",
         "solutions": 2
+      },
+      {
+        "number": "0190",
+        "title": "Reverse Bits",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0190-reverse-bits",
+        "date": "February 16, 2026",
+        "solutions": 1
       },
       {
         "number": "1636",
@@ -340,7 +348,7 @@
       "hard": 0
     },
     "Bit Manipulation": {
-      "easy": 2,
+      "easy": 3,
       "medium": 1,
       "hard": 0
     },
@@ -361,6 +369,11 @@
     },
     "Two Pointers": {
       "easy": 2,
+      "medium": 1,
+      "hard": 0
+    },
+    "Divide and Conquer": {
+      "easy": 1,
       "medium": 1,
       "hard": 0
     },
@@ -439,11 +452,6 @@
       "medium": 1,
       "hard": 0
     },
-    "Divide and Conquer": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
-    },
     "Segment Tree": {
       "easy": 0,
       "medium": 1,
@@ -457,5 +465,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-15T17:36:16.100649"
+  "last_updated": "2026-02-16T16:02:18.830953"
 }

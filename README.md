@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 28    | 921   | 3.0%      |
+| 🟢 Easy    | 29    | 921   | 3.1%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **40**| **3802** | **1.1%** |
+| **Total**  | **41**| **3802** | **1.1%** |
 
-**Last Updated:** February 15, 2026
+**Last Updated:** February 16, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
-| 2 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
-| 3 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
-| 4 | [Longest Balanced Substring I](2. medium/2501-3000/3713-longest-balanced-substring-i) | 🟡 Medium | 1 Java | February 12, 2026 |
-| 5 | [Find the K-th Character in String Game I](1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i) | 🟢 Easy | 1 Java | February 11, 2026 |
+| 1 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
+| 2 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
+| 3 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
+| 4 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
+| 5 | [Longest Balanced Substring I](2. medium/2501-3000/3713-longest-balanced-substring-i) | 🟡 Medium | 1 Java | February 12, 2026 |
 
 
 ---
@@ -62,11 +62,11 @@ leetcode-solutions/
 ### Simulation (6)
 - Easy: 6 | Medium: 0 | Hard: 0
 
+### Bit Manipulation (4)
+- Easy: 3 | Medium: 1 | Hard: 0
+
 ### Sliding Window (4)
 - Easy: 2 | Medium: 2 | Hard: 0
-
-### Bit Manipulation (3)
-- Easy: 2 | Medium: 1 | Hard: 0
 
 ### Two Pointers (3)
 - Easy: 2 | Medium: 1 | Hard: 0
