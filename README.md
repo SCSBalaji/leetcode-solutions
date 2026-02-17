@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 29    | 921   | 3.1%      |
+| 🟢 Easy    | 30    | 921   | 3.3%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **41**| **3802** | **1.1%** |
+| **Total**  | **42**| **3802** | **1.1%** |
 
-**Last Updated:** February 16, 2026
+**Last Updated:** February 17, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
-| 2 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
-| 3 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
-| 4 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
-| 5 | [Longest Balanced Substring I](2. medium/2501-3000/3713-longest-balanced-substring-i) | 🟡 Medium | 1 Java | February 12, 2026 |
+| 1 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
+| 2 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
+| 3 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
+| 4 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
+| 5 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
 
 
 ---
@@ -53,8 +53,8 @@ leetcode-solutions/
 ### Hash Table (9)
 - Easy: 6 | Medium: 3 | Hard: 0
 
-### Math (7)
-- Easy: 6 | Medium: 1 | Hard: 0
+### Math (8)
+- Easy: 7 | Medium: 1 | Hard: 0
 
 ### Sorting (7)
 - Easy: 5 | Medium: 2 | Hard: 0

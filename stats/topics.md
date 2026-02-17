@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 16, 2026
+**Last Updated:** February 17, 2026
 
 ---
 
@@ -90,9 +90,9 @@
 
 ---
 
-## Math (7 problems)
+## Math (8 problems)
 
-- 🟢 Easy: 6
+- 🟢 Easy: 7
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
@@ -107,6 +107,7 @@
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [2894. Divisible and Non-divisible Sums Difference](../1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
+- [2769. Find the Maximum Achievable Number](../1. easy/2501-3000/2769-find-the-maximum-achievable-number)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)

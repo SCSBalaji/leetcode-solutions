@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 29,
+    "count": 30,
     "problems": [
       {
         "number": "0136",
@@ -168,6 +168,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3110-score-of-a-string",
         "date": "January 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2769",
+        "title": "Find the Maximum Achievable Number",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2769-find-the-maximum-achievable-number",
+        "date": "February 17, 2026",
         "solutions": 1
       },
       {
@@ -353,7 +361,7 @@
       "hard": 0
     },
     "Math": {
-      "easy": 6,
+      "easy": 7,
       "medium": 1,
       "hard": 0
     },
@@ -465,5 +473,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-16T16:02:18.830953"
+  "last_updated": "2026-02-17T16:20:03.499532"
 }
