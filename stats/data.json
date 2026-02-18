@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 30,
+    "count": 31,
     "problems": [
       {
         "number": "0136",
@@ -241,6 +241,14 @@
         "path": "1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i",
         "date": "February 09, 2026",
         "solutions": 1
+      },
+      {
+        "number": "0693",
+        "title": "Binary Number with Alternating Bits",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0693-binary-number-with-alternating-bits",
+        "date": "February 18, 2026",
+        "solutions": 2
       }
     ]
   },
@@ -356,7 +364,7 @@
       "hard": 0
     },
     "Bit Manipulation": {
-      "easy": 3,
+      "easy": 4,
       "medium": 1,
       "hard": 0
     },
@@ -473,5 +481,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-17T16:20:03.499532"
+  "last_updated": "2026-02-18T17:43:27.326355"
 }

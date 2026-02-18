@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 17, 2026
+**Last Updated:** February 18, 2026
 
 ---
 
@@ -61,6 +61,7 @@
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
@@ -155,9 +156,9 @@
 
 ---
 
-## Bit Manipulation (4 problems)
+## Bit Manipulation (5 problems)
 
-- 🟢 Easy: 3
+- 🟢 Easy: 4
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
@@ -166,6 +167,7 @@
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
+- [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 
 ---

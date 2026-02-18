@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 30    | 921   | 3.3%      |
+| 🟢 Easy    | 31    | 921   | 3.4%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **42**| **3802** | **1.1%** |
+| **Total**  | **43**| **3802** | **1.1%** |
 
-**Last Updated:** February 17, 2026
+**Last Updated:** February 18, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
-| 2 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
-| 3 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
-| 4 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
-| 5 | [How Many Numbers Are Smaller Than the Current Number](1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | 1 Java | February 13, 2026 |
+| 1 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
+| 2 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
+| 3 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
+| 4 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
+| 5 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
 
 
 ---
@@ -62,8 +62,8 @@ leetcode-solutions/
 ### Simulation (6)
 - Easy: 6 | Medium: 0 | Hard: 0
 
-### Bit Manipulation (4)
-- Easy: 3 | Medium: 1 | Hard: 0
+### Bit Manipulation (5)
+- Easy: 4 | Medium: 1 | Hard: 0
 
 ### Sliding Window (4)
 - Easy: 2 | Medium: 2 | Hard: 0
