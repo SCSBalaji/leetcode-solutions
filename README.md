@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 31    | 921   | 3.4%      |
+| 🟢 Easy    | 32    | 921   | 3.5%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **43**| **3802** | **1.1%** |
+| **Total**  | **44**| **3802** | **1.2%** |
 
-**Last Updated:** February 18, 2026
+**Last Updated:** February 19, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
-| 2 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
-| 3 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
-| 4 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
-| 5 | [Champagne Tower](2. medium/0501-1000/0799-champagne-tower) | 🟡 Medium | 1 Java | February 14, 2026 |
+| 1 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
+| 2 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
+| 3 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
+| 4 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
+| 5 | [Sort Array by Increasing Frequency](1. easy/1501-2000/1636-sort-array-by-increasing-frequency) | 🟢 Easy | 1 Java | February 15, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (25)
 - Easy: 18 | Medium: 7 | Hard: 0
 
-### String (13)
-- Easy: 8 | Medium: 5 | Hard: 0
+### String (14)
+- Easy: 9 | Medium: 5 | Hard: 0
 
 ### Hash Table (9)
 - Easy: 6 | Medium: 3 | Hard: 0
@@ -65,11 +65,11 @@ leetcode-solutions/
 ### Bit Manipulation (5)
 - Easy: 4 | Medium: 1 | Hard: 0
 
+### Two Pointers (4)
+- Easy: 3 | Medium: 1 | Hard: 0
+
 ### Sliding Window (4)
 - Easy: 2 | Medium: 2 | Hard: 0
-
-### Two Pointers (3)
-- Easy: 2 | Medium: 1 | Hard: 0
 
 ### Counting (3)
 - Easy: 2 | Medium: 1 | Hard: 0

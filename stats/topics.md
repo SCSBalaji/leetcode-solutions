@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 18, 2026
+**Last Updated:** February 19, 2026
 
 ---
 
@@ -43,9 +43,9 @@
 
 ---
 
-## String (13 problems)
+## String (14 problems)
 
-- 🟢 Easy: 8
+- 🟢 Easy: 9
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -61,6 +61,7 @@
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [0696. Count Binary Substrings](../1. easy/0501-1000/0696-count-binary-substrings)
 - [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
@@ -172,6 +173,22 @@
 
 ---
 
+## Two Pointers (4 problems)
+
+- 🟢 Easy: 3
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
+- [0696. Count Binary Substrings](../1. easy/0501-1000/0696-count-binary-substrings)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
+
+---
+
 ## Sliding Window (4 problems)
 
 - 🟢 Easy: 2
@@ -183,21 +200,6 @@
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
-- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
-
----
-
-## Two Pointers (3 problems)
-
-- 🟢 Easy: 2
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
-- [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---

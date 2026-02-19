@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 31,
+    "count": 32,
     "problems": [
       {
         "number": "0136",
@@ -243,6 +243,14 @@
         "solutions": 1
       },
       {
+        "number": "0696",
+        "title": "Count Binary Substrings",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0696-count-binary-substrings",
+        "date": "February 19, 2026",
+        "solutions": 2
+      },
+      {
         "number": "0693",
         "title": "Binary Number with Alternating Bits",
         "difficulty": "easy",
@@ -379,12 +387,12 @@
       "hard": 0
     },
     "String": {
-      "easy": 8,
+      "easy": 9,
       "medium": 5,
       "hard": 0
     },
     "Two Pointers": {
-      "easy": 2,
+      "easy": 3,
       "medium": 1,
       "hard": 0
     },
@@ -481,5 +489,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-18T17:43:27.326355"
+  "last_updated": "2026-02-19T15:53:10.373610"
 }
