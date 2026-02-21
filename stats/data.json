@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 33,
+    "count": 34,
     "problems": [
       {
         "number": "2367",
@@ -49,6 +49,14 @@
         "path": "1. easy/0501-1000/0696-count-binary-substrings",
         "date": "February 19, 2026",
         "solutions": 2
+      },
+      {
+        "number": "0762",
+        "title": "Prime Number of Set Bits in Binary Representation",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation",
+        "date": "February 21, 2026",
+        "solutions": 1
       },
       {
         "number": "3637",
@@ -420,7 +428,12 @@
       "hard": 0
     },
     "Bit Manipulation": {
-      "easy": 4,
+      "easy": 5,
+      "medium": 1,
+      "hard": 0
+    },
+    "Math": {
+      "easy": 8,
       "medium": 1,
       "hard": 0
     },
@@ -432,11 +445,6 @@
     "Sliding Window": {
       "easy": 2,
       "medium": 2,
-      "hard": 0
-    },
-    "Math": {
-      "easy": 7,
-      "medium": 1,
       "hard": 0
     },
     "Simulation": {
@@ -497,5 +505,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-20T16:33:17.148144"
+  "last_updated": "2026-02-21T17:06:46.176692"
 }

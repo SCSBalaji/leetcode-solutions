@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 20, 2026
+**Last Updated:** February 21, 2026
 
 ---
 
@@ -94,14 +94,15 @@
 
 ---
 
-## Math (8 problems)
+## Math (9 problems)
 
-- 🟢 Easy: 7
+- 🟢 Easy: 8
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ### Problems:
 
+- [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
@@ -141,6 +142,23 @@
 
 ---
 
+## Bit Manipulation (6 problems)
+
+- 🟢 Easy: 5
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
+- [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
+- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+
+---
+
 ## Simulation (6 problems)
 
 - 🟢 Easy: 6
@@ -173,22 +191,6 @@
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-
----
-
-## Bit Manipulation (5 problems)
-
-- 🟢 Easy: 4
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
-- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-- [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
-- [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
 
 ---
 

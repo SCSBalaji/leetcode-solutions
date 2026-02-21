@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 33    | 921   | 3.6%      |
+| 🟢 Easy    | 34    | 921   | 3.7%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **45**| **3802** | **1.2%** |
+| **Total**  | **46**| **3802** | **1.2%** |
 
-**Last Updated:** February 20, 2026
+**Last Updated:** February 21, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
-| 2 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
-| 3 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
-| 4 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
-| 5 | [Reverse Bits](1. easy/0000-0500/0190-reverse-bits) | 🟢 Easy | 1 Java | February 16, 2026 |
+| 1 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
+| 2 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
+| 3 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
+| 4 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
+| 5 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
 
 
 ---
@@ -53,19 +53,19 @@ leetcode-solutions/
 ### Hash Table (10)
 - Easy: 7 | Medium: 3 | Hard: 0
 
-### Math (8)
-- Easy: 7 | Medium: 1 | Hard: 0
+### Math (9)
+- Easy: 8 | Medium: 1 | Hard: 0
 
 ### Sorting (7)
 - Easy: 5 | Medium: 2 | Hard: 0
+
+### Bit Manipulation (6)
+- Easy: 5 | Medium: 1 | Hard: 0
 
 ### Simulation (6)
 - Easy: 6 | Medium: 0 | Hard: 0
 
 ### Two Pointers (5)
-- Easy: 4 | Medium: 1 | Hard: 0
-
-### Bit Manipulation (5)
 - Easy: 4 | Medium: 1 | Hard: 0
 
 ### Sliding Window (4)
