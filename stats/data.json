@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 34,
+    "count": 35,
     "problems": [
       {
         "number": "2367",
@@ -40,6 +40,14 @@
         "difficulty": "easy",
         "path": "1. easy/0501-1000/0693-binary-number-with-alternating-bits",
         "date": "February 18, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "0868",
+        "title": "Binary Gap",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0868-binary-gap",
+        "date": "February 22, 2026",
         "solutions": 2
       },
       {
@@ -428,7 +436,7 @@
       "hard": 0
     },
     "Bit Manipulation": {
-      "easy": 5,
+      "easy": 6,
       "medium": 1,
       "hard": 0
     },
@@ -505,5 +513,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-21T17:06:46.176692"
+  "last_updated": "2026-02-22T16:06:26.329070"
 }

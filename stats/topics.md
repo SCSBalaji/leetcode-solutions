@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 21, 2026
+**Last Updated:** February 22, 2026
 
 ---
 
@@ -16,6 +16,7 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [0868. Binary Gap](../1. easy/0501-1000/0868-binary-gap)
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
@@ -142,15 +143,16 @@
 
 ---
 
-## Bit Manipulation (6 problems)
+## Bit Manipulation (7 problems)
 
-- 🟢 Easy: 5
+- 🟢 Easy: 6
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ### Problems:
 
 - [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
+- [0868. Binary Gap](../1. easy/0501-1000/0868-binary-gap)
 - [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)

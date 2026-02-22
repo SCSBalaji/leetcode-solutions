@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 34    | 921   | 3.7%      |
+| 🟢 Easy    | 35    | 921   | 3.8%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **46**| **3802** | **1.2%** |
+| **Total**  | **47**| **3802** | **1.2%** |
 
-**Last Updated:** February 21, 2026
+**Last Updated:** February 22, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
-| 2 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
-| 3 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
-| 4 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
-| 5 | [Find the Maximum Achievable Number](1. easy/2501-3000/2769-find-the-maximum-achievable-number) | 🟢 Easy | 1 Java | February 17, 2026 |
+| 1 | [Binary Gap](1. easy/0501-1000/0868-binary-gap) | 🟢 Easy | 2 Java | February 22, 2026 |
+| 2 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
+| 3 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
+| 4 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
+| 5 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
 
 
 ---
@@ -59,8 +59,8 @@ leetcode-solutions/
 ### Sorting (7)
 - Easy: 5 | Medium: 2 | Hard: 0
 
-### Bit Manipulation (6)
-- Easy: 5 | Medium: 1 | Hard: 0
+### Bit Manipulation (7)
+- Easy: 6 | Medium: 1 | Hard: 0
 
 ### Simulation (6)
 - Easy: 6 | Medium: 0 | Hard: 0
