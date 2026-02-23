@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 35,
+    "count": 36,
     "problems": [
       {
         "number": "2367",
@@ -104,6 +104,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k",
         "date": "January 19, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3471",
+        "title": "Find the Largest Almost Missing Integer",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3471-find-the-largest-almost-missing-integer",
+        "date": "February 23, 2026",
         "solutions": 1
       },
       {
@@ -391,12 +399,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 19,
+      "easy": 20,
       "medium": 7,
       "hard": 0
     },
     "Hash Table": {
-      "easy": 7,
+      "easy": 8,
       "medium": 3,
       "hard": 0
     },
@@ -513,5 +521,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-22T16:06:26.329070"
+  "last_updated": "2026-02-23T16:44:59.054695"
 }

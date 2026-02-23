@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 35    | 921   | 3.8%      |
+| 🟢 Easy    | 36    | 921   | 3.9%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **47**| **3802** | **1.2%** |
+| **Total**  | **48**| **3802** | **1.3%** |
 
-**Last Updated:** February 22, 2026
+**Last Updated:** February 23, 2026
 
 ---
 
@@ -33,25 +33,25 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Binary Gap](1. easy/0501-1000/0868-binary-gap) | 🟢 Easy | 2 Java | February 22, 2026 |
-| 2 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
-| 3 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
-| 4 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
-| 5 | [Binary Number with Alternating Bits](1. easy/0501-1000/0693-binary-number-with-alternating-bits) | 🟢 Easy | 2 Java | February 18, 2026 |
+| 1 | [Find the Largest Almost Missing Integer](1. easy/2501-3000/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | 1 Java | February 23, 2026 |
+| 2 | [Binary Gap](1. easy/0501-1000/0868-binary-gap) | 🟢 Easy | 2 Java | February 22, 2026 |
+| 3 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
+| 4 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
+| 5 | [Count Binary Substrings](1. easy/0501-1000/0696-count-binary-substrings) | 🟢 Easy | 2 Java | February 19, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (26)
-- Easy: 19 | Medium: 7 | Hard: 0
+### Array (27)
+- Easy: 20 | Medium: 7 | Hard: 0
 
 ### String (14)
 - Easy: 9 | Medium: 5 | Hard: 0
 
-### Hash Table (10)
-- Easy: 7 | Medium: 3 | Hard: 0
+### Hash Table (11)
+- Easy: 8 | Medium: 3 | Hard: 0
 
 ### Math (9)
 - Easy: 8 | Medium: 1 | Hard: 0

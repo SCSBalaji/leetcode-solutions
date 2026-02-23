@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** February 22, 2026
+**Last Updated:** February 23, 2026
 
 ---
 
-## Array (26 problems)
+## Array (27 problems)
 
-- 🟢 Easy: 19
+- 🟢 Easy: 20
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -20,6 +20,7 @@
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
+- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
@@ -73,9 +74,9 @@
 
 ---
 
-## Hash Table (10 problems)
+## Hash Table (11 problems)
 
-- 🟢 Easy: 7
+- 🟢 Easy: 8
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -85,6 +86,7 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
@@ -205,6 +207,7 @@
 ### Problems:
 
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
@@ -237,6 +240,7 @@
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
