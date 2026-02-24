@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 36,
+    "count": 37,
     "problems": [
       {
         "number": "2367",
@@ -64,6 +64,14 @@
         "difficulty": "easy",
         "path": "1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation",
         "date": "February 21, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "0976",
+        "title": "Largest Perimeter Triangle",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0976-largest-perimeter-triangle",
+        "date": "February 24, 2026",
         "solutions": 1
       },
       {
@@ -399,7 +407,7 @@
   },
   "topics": {
     "Array": {
-      "easy": 20,
+      "easy": 21,
       "medium": 7,
       "hard": 0
     },
@@ -419,7 +427,7 @@
       "hard": 0
     },
     "Sorting": {
-      "easy": 5,
+      "easy": 6,
       "medium": 2,
       "hard": 0
     },
@@ -449,7 +457,12 @@
       "hard": 0
     },
     "Math": {
-      "easy": 8,
+      "easy": 9,
+      "medium": 1,
+      "hard": 0
+    },
+    "Greedy": {
+      "easy": 1,
       "medium": 1,
       "hard": 0
     },
@@ -512,14 +525,9 @@
       "easy": 0,
       "medium": 2,
       "hard": 0
-    },
-    "Greedy": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-23T16:44:59.054695"
+  "last_updated": "2026-02-24T17:13:51.493000"
 }
