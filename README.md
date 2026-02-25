@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 37    | 921   | 4.0%      |
+| 🟢 Easy    | 38    | 921   | 4.1%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **49**| **3802** | **1.3%** |
+| **Total**  | **50**| **3802** | **1.3%** |
 
-**Last Updated:** February 24, 2026
+**Last Updated:** February 25, 2026
 
 ---
 
@@ -33,22 +33,22 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Largest Perimeter Triangle](1. easy/0501-1000/0976-largest-perimeter-triangle) | 🟢 Easy | 1 Java | February 24, 2026 |
-| 2 | [Find the Largest Almost Missing Integer](1. easy/2501-3000/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | 1 Java | February 23, 2026 |
-| 3 | [Binary Gap](1. easy/0501-1000/0868-binary-gap) | 🟢 Easy | 2 Java | February 22, 2026 |
-| 4 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
-| 5 | [Number of Arithmetic Triplets](1. easy/2001-2500/2367-number-of-arithmetic-triplets) | 🟢 Easy | 1 Java | February 20, 2026 |
+| 1 | [Shuffle String](1. easy/1501-2000/1528-shuffle-string) | 🟢 Easy | 1 Java | February 25, 2026 |
+| 2 | [Largest Perimeter Triangle](1. easy/0501-1000/0976-largest-perimeter-triangle) | 🟢 Easy | 1 Java | February 24, 2026 |
+| 3 | [Find the Largest Almost Missing Integer](1. easy/2501-3000/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | 1 Java | February 23, 2026 |
+| 4 | [Binary Gap](1. easy/0501-1000/0868-binary-gap) | 🟢 Easy | 2 Java | February 22, 2026 |
+| 5 | [Prime Number of Set Bits in Binary Representation](1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation) | 🟢 Easy | 1 Java | February 21, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (28)
-- Easy: 21 | Medium: 7 | Hard: 0
+### Array (29)
+- Easy: 22 | Medium: 7 | Hard: 0
 
-### String (14)
-- Easy: 9 | Medium: 5 | Hard: 0
+### String (15)
+- Easy: 10 | Medium: 5 | Hard: 0
 
 ### Hash Table (11)
 - Easy: 8 | Medium: 3 | Hard: 0

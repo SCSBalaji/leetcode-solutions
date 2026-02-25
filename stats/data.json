@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 37,
+    "count": 38,
     "problems": [
       {
         "number": "2367",
@@ -227,6 +227,14 @@
         "solutions": 2
       },
       {
+        "number": "1528",
+        "title": "Shuffle String",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1528-shuffle-string",
+        "date": "February 25, 2026",
+        "solutions": 1
+      },
+      {
         "number": "1984",
         "title": "Minimum Difference Between Highest and Lowest of K Scores",
         "difficulty": "easy",
@@ -407,7 +415,7 @@
   },
   "topics": {
     "Array": {
-      "easy": 21,
+      "easy": 22,
       "medium": 7,
       "hard": 0
     },
@@ -437,7 +445,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 9,
+      "easy": 10,
       "medium": 5,
       "hard": 0
     },
@@ -529,5 +537,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-24T17:13:51.493000"
+  "last_updated": "2026-02-25T16:47:13.044865"
 }

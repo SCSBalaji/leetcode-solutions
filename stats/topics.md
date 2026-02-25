@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** February 24, 2026
+**Last Updated:** February 25, 2026
 
 ---
 
-## Array (28 problems)
+## Array (29 problems)
 
-- 🟢 Easy: 21
+- 🟢 Easy: 22
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -29,6 +29,7 @@
 - [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
+- [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
@@ -47,9 +48,9 @@
 
 ---
 
-## String (14 problems)
+## String (15 problems)
 
-- 🟢 Easy: 9
+- 🟢 Easy: 10
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -65,6 +66,7 @@
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
+- [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
