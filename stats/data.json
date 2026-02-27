@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 39,
+    "count": 40,
     "problems": [
       {
         "number": "2367",
@@ -64,6 +64,14 @@
         "difficulty": "easy",
         "path": "1. easy/0000-0500/0190-reverse-bits",
         "date": "February 16, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1935",
+        "title": "Maximum Number of Words You Can Type",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1935-maximum-number-of-words-you-can-type",
+        "date": "February 27, 2026",
         "solutions": 1
       },
       {
@@ -428,7 +436,7 @@
       "hard": 0
     },
     "Hash Table": {
-      "easy": 8,
+      "easy": 9,
       "medium": 3,
       "hard": 0
     },
@@ -453,7 +461,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 10,
+      "easy": 11,
       "medium": 5,
       "hard": 0
     },
@@ -545,5 +553,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-26T16:27:08.733819"
+  "last_updated": "2026-02-27T17:04:46.953794"
 }

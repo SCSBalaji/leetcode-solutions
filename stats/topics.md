@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 26, 2026
+**Last Updated:** February 27, 2026
 
 ---
 
@@ -49,9 +49,9 @@
 
 ---
 
-## String (15 problems)
+## String (16 problems)
 
-- 🟢 Easy: 10
+- 🟢 Easy: 11
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -59,6 +59,7 @@
 
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
@@ -78,9 +79,9 @@
 
 ---
 
-## Hash Table (11 problems)
+## Hash Table (12 problems)
 
-- 🟢 Easy: 8
+- 🟢 Easy: 9
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -90,6 +91,7 @@
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
