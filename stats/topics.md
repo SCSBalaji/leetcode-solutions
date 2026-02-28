@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** February 27, 2026
+**Last Updated:** February 28, 2026
 
 ---
 
-## Array (30 problems)
+## Array (31 problems)
 
-- 🟢 Easy: 23
+- 🟢 Easy: 24
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -37,6 +37,7 @@
 - [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
 - [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
 - [0868. Binary Gap](../1. easy/0501-1000/0868-binary-gap)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
@@ -126,6 +127,7 @@
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
 - [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
@@ -217,6 +219,7 @@
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 

@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 40,
+    "count": 41,
     "problems": [
       {
         "number": "2367",
@@ -291,6 +291,14 @@
         "solutions": 1
       },
       {
+        "number": "0674",
+        "title": "Longest Continuous Increasing Subsequence",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0674-longest-continuous-increasing-subsequence",
+        "date": "February 28, 2026",
+        "solutions": 1
+      },
+      {
         "number": "0868",
         "title": "Binary Gap",
         "difficulty": "easy",
@@ -431,7 +439,7 @@
   },
   "topics": {
     "Array": {
-      "easy": 23,
+      "easy": 24,
       "medium": 7,
       "hard": 0
     },
@@ -553,5 +561,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-02-27T17:04:46.953794"
+  "last_updated": "2026-02-28T17:10:07.799183"
 }

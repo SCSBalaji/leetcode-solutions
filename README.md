@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 40    | 921   | 4.3%      |
+| 🟢 Easy    | 41    | 921   | 4.5%      |
 | 🟡 Medium  | 12     | 1982  | 0.6%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **52**| **3802** | **1.4%** |
+| **Total**  | **53**| **3802** | **1.4%** |
 
-**Last Updated:** February 27, 2026
+**Last Updated:** February 28, 2026
 
 ---
 
@@ -33,19 +33,19 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Maximum Number of Words You Can Type](1. easy/1501-2000/1935-maximum-number-of-words-you-can-type) | 🟢 Easy | 1 Java | February 27, 2026 |
-| 2 | [Running Sum of 1d Array](1. easy/1001-1500/1480-running-sum-of-1d-array) | 🟢 Easy | 1 Java | February 26, 2026 |
-| 3 | [Shuffle String](1. easy/1501-2000/1528-shuffle-string) | 🟢 Easy | 1 Java | February 25, 2026 |
-| 4 | [Largest Perimeter Triangle](1. easy/0501-1000/0976-largest-perimeter-triangle) | 🟢 Easy | 1 Java | February 24, 2026 |
-| 5 | [Find the Largest Almost Missing Integer](1. easy/2501-3000/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | 1 Java | February 23, 2026 |
+| 1 | [Longest Continuous Increasing Subsequence](1. easy/0501-1000/0674-longest-continuous-increasing-subsequence) | 🟢 Easy | 1 Java | February 28, 2026 |
+| 2 | [Maximum Number of Words You Can Type](1. easy/1501-2000/1935-maximum-number-of-words-you-can-type) | 🟢 Easy | 1 Java | February 27, 2026 |
+| 3 | [Running Sum of 1d Array](1. easy/1001-1500/1480-running-sum-of-1d-array) | 🟢 Easy | 1 Java | February 26, 2026 |
+| 4 | [Shuffle String](1. easy/1501-2000/1528-shuffle-string) | 🟢 Easy | 1 Java | February 25, 2026 |
+| 5 | [Largest Perimeter Triangle](1. easy/0501-1000/0976-largest-perimeter-triangle) | 🟢 Easy | 1 Java | February 24, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (30)
-- Easy: 23 | Medium: 7 | Hard: 0
+### Array (31)
+- Easy: 24 | Medium: 7 | Hard: 0
 
 ### String (16)
 - Easy: 11 | Medium: 5 | Hard: 0
