@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** February 28, 2026
+**Last Updated:** March 01, 2026
 
 ---
 
@@ -50,10 +50,10 @@
 
 ---
 
-## String (16 problems)
+## String (17 problems)
 
 - 🟢 Easy: 11
-- 🟡 Medium: 5
+- 🟡 Medium: 6
 - 🔴 Hard: 0
 
 ### Problems:
@@ -73,6 +73,7 @@
 - [0696. Count Binary Substrings](../1. easy/0501-1000/0696-count-binary-substrings)
 - [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](../2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
@@ -131,6 +132,7 @@
 - [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](../2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 
@@ -272,6 +274,27 @@
 
 ---
 
+## Greedy (3 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [2769. Find the Maximum Achievable Number](../1. easy/2501-3000/2769-find-the-maximum-achievable-number)
+- [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](../2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
+- [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
+
+---
+
 ## Divide and Conquer (2 problems)
 
 - 🟢 Easy: 1
@@ -295,26 +318,6 @@
 
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-
----
-
-## Greedy (2 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
-- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
-- [2769. Find the Maximum Achievable Number](../1. easy/2501-3000/2769-find-the-maximum-achievable-number)
-- [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
-- [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
 
 ---
 
