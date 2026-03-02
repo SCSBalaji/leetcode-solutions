@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 41,
+    "count": 42,
     "problems": [
       {
         "number": "2367",
@@ -137,6 +137,14 @@
         "path": "1. easy/1001-1500/1108-defanging-an-ip-address",
         "date": "January 18, 2026",
         "solutions": 3
+      },
+      {
+        "number": "1002",
+        "title": "Find Common Characters",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1002-find-common-characters",
+        "date": "March 02, 2026",
+        "solutions": 1
       },
       {
         "number": "1480",
@@ -447,12 +455,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 24,
+      "easy": 25,
       "medium": 7,
       "hard": 0
     },
     "Hash Table": {
-      "easy": 9,
+      "easy": 10,
       "medium": 3,
       "hard": 0
     },
@@ -477,7 +485,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 11,
+      "easy": 12,
       "medium": 6,
       "hard": 0
     },
@@ -569,5 +577,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-01T13:53:49.300015"
+  "last_updated": "2026-03-02T16:53:11.716537"
 }
