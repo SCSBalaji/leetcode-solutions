@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 42,
+    "count": 43,
     "problems": [
       {
         "number": "2367",
@@ -216,6 +216,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/2769-find-the-maximum-achievable-number",
         "date": "February 17, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2810",
+        "title": "Faulty Keyboard",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2810-faulty-keyboard",
+        "date": "March 03, 2026",
         "solutions": 1
       },
       {
@@ -485,7 +493,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 12,
+      "easy": 13,
       "medium": 6,
       "hard": 0
     },
@@ -500,7 +508,7 @@
       "hard": 0
     },
     "Simulation": {
-      "easy": 6,
+      "easy": 7,
       "medium": 0,
       "hard": 0
     },
@@ -577,5 +585,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-02T16:53:11.716537"
+  "last_updated": "2026-03-03T16:50:09.443101"
 }

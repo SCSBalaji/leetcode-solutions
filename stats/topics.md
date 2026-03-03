@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 02, 2026
+**Last Updated:** March 03, 2026
 
 ---
 
@@ -51,9 +51,9 @@
 
 ---
 
-## String (18 problems)
+## String (19 problems)
 
-- 🟢 Easy: 12
+- 🟢 Easy: 13
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -67,6 +67,7 @@
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
+- [2810. Faulty Keyboard](../1. easy/2501-3000/2810-faulty-keyboard)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
@@ -179,9 +180,9 @@
 
 ---
 
-## Simulation (6 problems)
+## Simulation (7 problems)
 
-- 🟢 Easy: 6
+- 🟢 Easy: 7
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
@@ -191,6 +192,7 @@
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
+- [2810. Faulty Keyboard](../1. easy/2501-3000/2810-faulty-keyboard)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
 - [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)

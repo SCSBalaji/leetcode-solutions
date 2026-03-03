@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 42    | 921   | 4.6%      |
+| 🟢 Easy    | 43    | 921   | 4.7%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **55**| **3802** | **1.4%** |
+| **Total**  | **56**| **3802** | **1.5%** |
 
-**Last Updated:** March 02, 2026
+**Last Updated:** March 03, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Find Common Characters](1. easy/1001-1500/1002-find-common-characters) | 🟢 Easy | 1 Java | March 02, 2026 |
-| 2 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers) | 🟡 Medium | 1 Java | March 01, 2026 |
-| 3 | [Longest Continuous Increasing Subsequence](1. easy/0501-1000/0674-longest-continuous-increasing-subsequence) | 🟢 Easy | 1 Java | February 28, 2026 |
-| 4 | [Maximum Number of Words You Can Type](1. easy/1501-2000/1935-maximum-number-of-words-you-can-type) | 🟢 Easy | 1 Java | February 27, 2026 |
-| 5 | [Running Sum of 1d Array](1. easy/1001-1500/1480-running-sum-of-1d-array) | 🟢 Easy | 1 Java | February 26, 2026 |
+| 1 | [Faulty Keyboard](1. easy/2501-3000/2810-faulty-keyboard) | 🟢 Easy | 1 Java | March 03, 2026 |
+| 2 | [Find Common Characters](1. easy/1001-1500/1002-find-common-characters) | 🟢 Easy | 1 Java | March 02, 2026 |
+| 3 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers) | 🟡 Medium | 1 Java | March 01, 2026 |
+| 4 | [Longest Continuous Increasing Subsequence](1. easy/0501-1000/0674-longest-continuous-increasing-subsequence) | 🟢 Easy | 1 Java | February 28, 2026 |
+| 5 | [Maximum Number of Words You Can Type](1. easy/1501-2000/1935-maximum-number-of-words-you-can-type) | 🟢 Easy | 1 Java | February 27, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (32)
 - Easy: 25 | Medium: 7 | Hard: 0
 
-### String (18)
-- Easy: 12 | Medium: 6 | Hard: 0
+### String (19)
+- Easy: 13 | Medium: 6 | Hard: 0
 
 ### Hash Table (13)
 - Easy: 10 | Medium: 3 | Hard: 0
@@ -62,8 +62,8 @@ leetcode-solutions/
 ### Bit Manipulation (7)
 - Easy: 6 | Medium: 1 | Hard: 0
 
-### Simulation (6)
-- Easy: 6 | Medium: 0 | Hard: 0
+### Simulation (7)
+- Easy: 7 | Medium: 0 | Hard: 0
 
 ### Two Pointers (5)
 - Easy: 4 | Medium: 1 | Hard: 0
