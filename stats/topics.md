@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 03, 2026
+**Last Updated:** March 04, 2026
 
 ---
 
-## Array (32 problems)
+## Array (33 problems)
 
-- 🟢 Easy: 25
+- 🟢 Easy: 26
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -21,6 +21,7 @@
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
+- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
@@ -121,6 +122,7 @@
 - [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
@@ -247,6 +249,20 @@
 
 ---
 
+## Matrix (3 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
+- [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+
+---
+
 ## Prefix Sum (3 problems)
 
 - 🟢 Easy: 1
@@ -311,19 +327,6 @@
 
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
-
----
-
-## Matrix (2 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 
 ---
 
