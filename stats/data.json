@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 44,
+    "count": 45,
     "problems": [
       {
         "number": "2367",
@@ -97,6 +97,14 @@
         "path": "1. easy/1501-2000/1929-concatenation-of-array",
         "date": "January 13, 2026",
         "solutions": 3
+      },
+      {
+        "number": "1758",
+        "title": "Minimum Changes To Make Alternating Binary String",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string",
+        "date": "March 05, 2026",
+        "solutions": 2
       },
       {
         "number": "1672",
@@ -501,7 +509,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 13,
+      "easy": 14,
       "medium": 6,
       "hard": 0
     },
@@ -593,5 +601,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-04T16:26:21.792170"
+  "last_updated": "2026-03-05T16:11:43.688870"
 }

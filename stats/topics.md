@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 04, 2026
+**Last Updated:** March 05, 2026
 
 ---
 
@@ -52,9 +52,9 @@
 
 ---
 
-## String (19 problems)
+## String (20 problems)
 
-- 🟢 Easy: 13
+- 🟢 Easy: 14
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -64,6 +64,7 @@
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
+- [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
@@ -122,6 +123,7 @@
 - [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
 - [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
