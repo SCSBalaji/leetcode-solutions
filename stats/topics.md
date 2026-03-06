@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 05, 2026
+**Last Updated:** March 06, 2026
 
 ---
 
@@ -52,9 +52,9 @@
 
 ---
 
-## String (20 problems)
+## String (21 problems)
 
-- 🟢 Easy: 14
+- 🟢 Easy: 15
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -65,6 +65,7 @@
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
+- [1784. Check if Binary String Has at Most One Segment of Ones](../1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)

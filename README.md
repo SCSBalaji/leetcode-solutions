@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 45    | 921   | 4.9%      |
+| 🟢 Easy    | 46    | 921   | 5.0%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **58**| **3802** | **1.5%** |
+| **Total**  | **59**| **3802** | **1.6%** |
 
-**Last Updated:** March 05, 2026
+**Last Updated:** March 06, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
-| 2 | [Richest Customer Wealth](1. easy/1501-2000/1672-richest-customer-wealth) | 🟢 Easy | 1 Java | March 04, 2026 |
-| 3 | [Faulty Keyboard](1. easy/2501-3000/2810-faulty-keyboard) | 🟢 Easy | 1 Java | March 03, 2026 |
-| 4 | [Find Common Characters](1. easy/1001-1500/1002-find-common-characters) | 🟢 Easy | 1 Java | March 02, 2026 |
-| 5 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers) | 🟡 Medium | 1 Java | March 01, 2026 |
+| 1 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
+| 2 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
+| 3 | [Richest Customer Wealth](1. easy/1501-2000/1672-richest-customer-wealth) | 🟢 Easy | 1 Java | March 04, 2026 |
+| 4 | [Faulty Keyboard](1. easy/2501-3000/2810-faulty-keyboard) | 🟢 Easy | 1 Java | March 03, 2026 |
+| 5 | [Find Common Characters](1. easy/1001-1500/1002-find-common-characters) | 🟢 Easy | 1 Java | March 02, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (33)
 - Easy: 26 | Medium: 7 | Hard: 0
 
-### String (20)
-- Easy: 14 | Medium: 6 | Hard: 0
+### String (21)
+- Easy: 15 | Medium: 6 | Hard: 0
 
 ### Hash Table (13)
 - Easy: 10 | Medium: 3 | Hard: 0
