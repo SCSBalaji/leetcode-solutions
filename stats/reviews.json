@@ -346,5 +346,11 @@
     "review_count": 1,
     "last_reviewed": "2026-03-05",
     "next_review": "2026-03-06"
+  },
+  "1784": {
+    "title": "Check If Binary String Has At Most One Segment Of Ones",
+    "review_count": 1,
+    "last_reviewed": "2026-03-06",
+    "next_review": "2026-03-07"
   }
 }
