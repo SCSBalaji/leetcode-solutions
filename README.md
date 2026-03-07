@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 46    | 921   | 5.0%      |
+| 🟢 Easy    | 47    | 921   | 5.1%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **59**| **3802** | **1.6%** |
+| **Total**  | **60**| **3802** | **1.6%** |
 
-**Last Updated:** March 06, 2026
+**Last Updated:** March 07, 2026
 
 ---
 
@@ -33,19 +33,19 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
-| 2 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
-| 3 | [Richest Customer Wealth](1. easy/1501-2000/1672-richest-customer-wealth) | 🟢 Easy | 1 Java | March 04, 2026 |
-| 4 | [Faulty Keyboard](1. easy/2501-3000/2810-faulty-keyboard) | 🟢 Easy | 1 Java | March 03, 2026 |
-| 5 | [Find Common Characters](1. easy/1001-1500/1002-find-common-characters) | 🟢 Easy | 1 Java | March 02, 2026 |
+| 1 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
+| 2 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
+| 3 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
+| 4 | [Richest Customer Wealth](1. easy/1501-2000/1672-richest-customer-wealth) | 🟢 Easy | 1 Java | March 04, 2026 |
+| 5 | [Faulty Keyboard](1. easy/2501-3000/2810-faulty-keyboard) | 🟢 Easy | 1 Java | March 03, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (33)
-- Easy: 26 | Medium: 7 | Hard: 0
+### Array (34)
+- Easy: 27 | Medium: 7 | Hard: 0
 
 ### String (21)
 - Easy: 15 | Medium: 6 | Hard: 0
@@ -56,8 +56,8 @@ leetcode-solutions/
 ### Math (10)
 - Easy: 9 | Medium: 1 | Hard: 0
 
-### Sorting (8)
-- Easy: 6 | Medium: 2 | Hard: 0
+### Sorting (9)
+- Easy: 7 | Medium: 2 | Hard: 0
 
 ### Bit Manipulation (7)
 - Easy: 6 | Medium: 1 | Hard: 0
@@ -65,8 +65,8 @@ leetcode-solutions/
 ### Simulation (7)
 - Easy: 7 | Medium: 0 | Hard: 0
 
-### Two Pointers (5)
-- Easy: 4 | Medium: 1 | Hard: 0
+### Two Pointers (6)
+- Easy: 5 | Medium: 1 | Hard: 0
 
 ### Sliding Window (4)
 - Easy: 2 | Medium: 2 | Hard: 0

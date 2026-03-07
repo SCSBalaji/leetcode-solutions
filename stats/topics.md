@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 06, 2026
+**Last Updated:** March 07, 2026
 
 ---
 
-## Array (33 problems)
+## Array (34 problems)
 
-- 🟢 Easy: 26
+- 🟢 Easy: 27
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -41,6 +41,7 @@
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
 - [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
 - [0868. Binary Gap](../1. easy/0501-1000/0868-binary-gap)
+- [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
@@ -148,9 +149,9 @@
 
 ---
 
-## Sorting (8 problems)
+## Sorting (9 problems)
 
-- 🟢 Easy: 6
+- 🟢 Easy: 7
 - 🟡 Medium: 2
 - 🔴 Hard: 0
 
@@ -162,6 +163,7 @@
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
@@ -204,9 +206,9 @@
 
 ---
 
-## Two Pointers (5 problems)
+## Two Pointers (6 problems)
 
-- 🟢 Easy: 4
+- 🟢 Easy: 5
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
@@ -215,6 +217,7 @@
 - [2367. Number of Arithmetic Triplets](../1. easy/2001-2500/2367-number-of-arithmetic-triplets)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
+- [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [0696. Count Binary Substrings](../1. easy/0501-1000/0696-count-binary-substrings)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)

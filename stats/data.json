@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 46,
+    "count": 47,
     "problems": [
       {
         "number": "2367",
@@ -347,6 +347,14 @@
         "solutions": 2
       },
       {
+        "number": "0905",
+        "title": "Sort Array By Parity",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0905-sort-array-by-parity",
+        "date": "March 07, 2026",
+        "solutions": 1
+      },
+      {
         "number": "0696",
         "title": "Count Binary Substrings",
         "difficulty": "easy",
@@ -487,7 +495,7 @@
   },
   "topics": {
     "Array": {
-      "easy": 26,
+      "easy": 27,
       "medium": 7,
       "hard": 0
     },
@@ -497,7 +505,7 @@
       "hard": 0
     },
     "Two Pointers": {
-      "easy": 4,
+      "easy": 5,
       "medium": 1,
       "hard": 0
     },
@@ -527,7 +535,7 @@
       "hard": 0
     },
     "Sorting": {
-      "easy": 6,
+      "easy": 7,
       "medium": 2,
       "hard": 0
     },
@@ -609,5 +617,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-06T15:55:44.902221"
+  "last_updated": "2026-03-07T16:35:44.563642"
 }
