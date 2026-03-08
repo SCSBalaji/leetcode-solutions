@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 07, 2026
+**Last Updated:** March 08, 2026
 
 ---
 
@@ -53,14 +53,15 @@
 
 ---
 
-## String (21 problems)
+## String (22 problems)
 
-- 🟢 Easy: 15
+- 🟢 Easy: 16
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
 ### Problems:
 
+- [2243. Calculate Digit Sum of a String](../1. easy/2001-2500/2243-calculate-digit-sum-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
@@ -169,6 +170,26 @@
 
 ---
 
+## Simulation (8 problems)
+
+- 🟢 Easy: 8
+- 🟡 Medium: 0
+- 🔴 Hard: 0
+
+### Problems:
+
+- [2243. Calculate Digit Sum of a String](../1. easy/2001-2500/2243-calculate-digit-sum-of-a-string)
+- [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
+- [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
+- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
+- [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
+- [2810. Faulty Keyboard](../1. easy/2501-3000/2810-faulty-keyboard)
+- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
+- [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
+- [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
+
+---
+
 ## Bit Manipulation (7 problems)
 
 - 🟢 Easy: 6
@@ -184,25 +205,6 @@
 - [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
 - [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
-
----
-
-## Simulation (7 problems)
-
-- 🟢 Easy: 7
-- 🟡 Medium: 0
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
-- [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
-- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
-- [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
-- [2810. Faulty Keyboard](../1. easy/2501-3000/2810-faulty-keyboard)
-- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
-- [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
-- [3379. Transformed Array](../1. easy/2501-3000/3379-transformed-array)
 
 ---
 

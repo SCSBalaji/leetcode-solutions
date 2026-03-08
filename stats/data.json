@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 47,
+    "count": 48,
     "problems": [
       {
         "number": "2367",
@@ -8,6 +8,14 @@
         "difficulty": "easy",
         "path": "1. easy/2001-2500/2367-number-of-arithmetic-triplets",
         "date": "February 20, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2243",
+        "title": "Calculate Digit Sum of a String",
+        "difficulty": "easy",
+        "path": "1. easy/2001-2500/2243-calculate-digit-sum-of-a-string",
+        "date": "March 08, 2026",
         "solutions": 1
       },
       {
@@ -514,6 +522,16 @@
       "medium": 1,
       "hard": 0
     },
+    "String": {
+      "easy": 16,
+      "medium": 6,
+      "hard": 0
+    },
+    "Simulation": {
+      "easy": 8,
+      "medium": 0,
+      "hard": 0
+    },
     "Bit Manipulation": {
       "easy": 6,
       "medium": 1,
@@ -524,11 +542,6 @@
       "medium": 1,
       "hard": 0
     },
-    "String": {
-      "easy": 15,
-      "medium": 6,
-      "hard": 0
-    },
     "Divide and Conquer": {
       "easy": 1,
       "medium": 1,
@@ -537,11 +550,6 @@
     "Sorting": {
       "easy": 7,
       "medium": 2,
-      "hard": 0
-    },
-    "Simulation": {
-      "easy": 7,
-      "medium": 0,
       "hard": 0
     },
     "Matrix": {
@@ -617,5 +625,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-07T16:35:44.563642"
+  "last_updated": "2026-03-08T16:59:40.620823"
 }

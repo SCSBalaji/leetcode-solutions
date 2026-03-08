@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 47    | 921   | 5.1%      |
+| 🟢 Easy    | 48    | 921   | 5.2%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **60**| **3802** | **1.6%** |
+| **Total**  | **61**| **3802** | **1.6%** |
 
-**Last Updated:** March 07, 2026
+**Last Updated:** March 08, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
-| 2 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
-| 3 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
-| 4 | [Richest Customer Wealth](1. easy/1501-2000/1672-richest-customer-wealth) | 🟢 Easy | 1 Java | March 04, 2026 |
-| 5 | [Faulty Keyboard](1. easy/2501-3000/2810-faulty-keyboard) | 🟢 Easy | 1 Java | March 03, 2026 |
+| 1 | [Calculate Digit Sum of a String](1. easy/2001-2500/2243-calculate-digit-sum-of-a-string) | 🟢 Easy | 1 Java | March 08, 2026 |
+| 2 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
+| 3 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
+| 4 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
+| 5 | [Richest Customer Wealth](1. easy/1501-2000/1672-richest-customer-wealth) | 🟢 Easy | 1 Java | March 04, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (34)
 - Easy: 27 | Medium: 7 | Hard: 0
 
-### String (21)
-- Easy: 15 | Medium: 6 | Hard: 0
+### String (22)
+- Easy: 16 | Medium: 6 | Hard: 0
 
 ### Hash Table (13)
 - Easy: 10 | Medium: 3 | Hard: 0
@@ -59,11 +59,11 @@ leetcode-solutions/
 ### Sorting (9)
 - Easy: 7 | Medium: 2 | Hard: 0
 
+### Simulation (8)
+- Easy: 8 | Medium: 0 | Hard: 0
+
 ### Bit Manipulation (7)
 - Easy: 6 | Medium: 1 | Hard: 0
-
-### Simulation (7)
-- Easy: 7 | Medium: 0 | Hard: 0
 
 ### Two Pointers (6)
 - Easy: 5 | Medium: 1 | Hard: 0
