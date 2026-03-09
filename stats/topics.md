@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 08, 2026
+**Last Updated:** March 09, 2026
 
 ---
 
-## Array (34 problems)
+## Array (35 problems)
 
-- 🟢 Easy: 27
+- 🟢 Easy: 28
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -40,6 +40,7 @@
 - [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
 - [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
 - [0868. Binary Gap](../1. easy/0501-1000/0868-binary-gap)
 - [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
@@ -89,9 +90,9 @@
 
 ---
 
-## Hash Table (13 problems)
+## Hash Table (14 problems)
 
-- 🟢 Easy: 10
+- 🟢 Easy: 11
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -108,6 +109,7 @@
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
 - [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 - [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
@@ -141,6 +143,7 @@
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
 - [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
 - [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
@@ -150,9 +153,9 @@
 
 ---
 
-## Sorting (9 problems)
+## Sorting (10 problems)
 
-- 🟢 Easy: 7
+- 🟢 Easy: 8
 - 🟡 Medium: 2
 - 🔴 Hard: 0
 
@@ -164,6 +167,7 @@
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
 - [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
@@ -338,15 +342,16 @@
 
 ---
 
-## Binary Search (1 problems)
+## Binary Search (2 problems)
 
-- 🟢 Easy: 1
+- 🟢 Easy: 2
 - 🟡 Medium: 0
 - 🔴 Hard: 0
 
 ### Problems:
 
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
 
 ---
 

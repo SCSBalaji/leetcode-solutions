@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 48,
+    "count": 49,
     "problems": [
       {
         "number": "2367",
@@ -347,6 +347,14 @@
         "solutions": 1
       },
       {
+        "number": "0888",
+        "title": "Fair Candy Swap",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0888-fair-candy-swap",
+        "date": "March 09, 2026",
+        "solutions": 1
+      },
+      {
         "number": "0868",
         "title": "Binary Gap",
         "difficulty": "easy",
@@ -503,12 +511,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 27,
+      "easy": 28,
       "medium": 7,
       "hard": 0
     },
     "Hash Table": {
-      "easy": 10,
+      "easy": 11,
       "medium": 3,
       "hard": 0
     },
@@ -548,7 +556,7 @@
       "hard": 0
     },
     "Sorting": {
-      "easy": 7,
+      "easy": 8,
       "medium": 2,
       "hard": 0
     },
@@ -563,7 +571,7 @@
       "hard": 0
     },
     "Binary Search": {
-      "easy": 1,
+      "easy": 2,
       "medium": 0,
       "hard": 0
     },
@@ -625,5 +633,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-08T16:59:40.620823"
+  "last_updated": "2026-03-09T17:55:16.761121"
 }
