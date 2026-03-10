@@ -370,5 +370,11 @@
     "review_count": 1,
     "last_reviewed": "2026-03-09",
     "next_review": "2026-03-10"
+  },
+  "1128": {
+    "title": "Number Of Equivalent Domino Pairs",
+    "review_count": 1,
+    "last_reviewed": "2026-03-10",
+    "next_review": "2026-03-11"
   }
 }
