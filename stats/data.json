@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 49,
+    "count": 50,
     "problems": [
       {
         "number": "2367",
@@ -152,6 +152,14 @@
         "difficulty": "easy",
         "path": "1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix",
         "date": "February 04, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1128",
+        "title": "Number of Equivalent Domino Pairs",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1128-number-of-equivalent-domino-pairs",
+        "date": "March 10, 2026",
         "solutions": 1
       },
       {
@@ -511,12 +519,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 28,
+      "easy": 29,
       "medium": 7,
       "hard": 0
     },
     "Hash Table": {
-      "easy": 11,
+      "easy": 12,
       "medium": 3,
       "hard": 0
     },
@@ -575,6 +583,11 @@
       "medium": 0,
       "hard": 0
     },
+    "Counting": {
+      "easy": 3,
+      "medium": 1,
+      "hard": 0
+    },
     "Counting Sort": {
       "easy": 1,
       "medium": 0,
@@ -583,11 +596,6 @@
     "Prefix Sum": {
       "easy": 1,
       "medium": 2,
-      "hard": 0
-    },
-    "Counting": {
-      "easy": 2,
-      "medium": 1,
       "hard": 0
     },
     "Recursion": {
@@ -633,5 +641,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-09T17:55:16.761121"
+  "last_updated": "2026-03-10T17:27:17.778595"
 }

@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 49    | 921   | 5.3%      |
+| 🟢 Easy    | 50    | 921   | 5.4%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **62**| **3802** | **1.6%** |
+| **Total**  | **63**| **3802** | **1.7%** |
 
-**Last Updated:** March 09, 2026
+**Last Updated:** March 10, 2026
 
 ---
 
@@ -33,25 +33,25 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Fair Candy Swap](1. easy/0501-1000/0888-fair-candy-swap) | 🟢 Easy | 1 Java | March 09, 2026 |
-| 2 | [Calculate Digit Sum of a String](1. easy/2001-2500/2243-calculate-digit-sum-of-a-string) | 🟢 Easy | 1 Java | March 08, 2026 |
-| 3 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
-| 4 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
-| 5 | [Minimum Changes To Make Alternating Binary String](1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string) | 🟢 Easy | 2 Java | March 05, 2026 |
+| 1 | [Number of Equivalent Domino Pairs](1. easy/1001-1500/1128-number-of-equivalent-domino-pairs) | 🟢 Easy | 1 Java | March 10, 2026 |
+| 2 | [Fair Candy Swap](1. easy/0501-1000/0888-fair-candy-swap) | 🟢 Easy | 1 Java | March 09, 2026 |
+| 3 | [Calculate Digit Sum of a String](1. easy/2001-2500/2243-calculate-digit-sum-of-a-string) | 🟢 Easy | 1 Java | March 08, 2026 |
+| 4 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
+| 5 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (35)
-- Easy: 28 | Medium: 7 | Hard: 0
+### Array (36)
+- Easy: 29 | Medium: 7 | Hard: 0
 
 ### String (22)
 - Easy: 16 | Medium: 6 | Hard: 0
 
-### Hash Table (14)
-- Easy: 11 | Medium: 3 | Hard: 0
+### Hash Table (15)
+- Easy: 12 | Medium: 3 | Hard: 0
 
 ### Math (10)
 - Easy: 9 | Medium: 1 | Hard: 0
@@ -71,8 +71,8 @@ leetcode-solutions/
 ### Sliding Window (4)
 - Easy: 2 | Medium: 2 | Hard: 0
 
-### Enumeration (3)
-- Easy: 2 | Medium: 1 | Hard: 0
+### Counting (4)
+- Easy: 3 | Medium: 1 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)

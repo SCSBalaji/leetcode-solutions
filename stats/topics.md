@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 09, 2026
+**Last Updated:** March 10, 2026
 
 ---
 
-## Array (35 problems)
+## Array (36 problems)
 
-- 🟢 Easy: 28
+- 🟢 Easy: 29
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -25,6 +25,7 @@
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
@@ -90,9 +91,9 @@
 
 ---
 
-## Hash Table (14 problems)
+## Hash Table (15 problems)
 
-- 🟢 Easy: 11
+- 🟢 Easy: 12
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -104,6 +105,7 @@
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
+- [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
@@ -247,6 +249,26 @@
 
 ---
 
+## Counting (4 problems)
+
+- 🟢 Easy: 3
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
+- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
+- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
+- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
+
+---
+
 ## Enumeration (3 problems)
 
 - 🟢 Easy: 2
@@ -286,25 +308,6 @@
 - [1480. Running Sum of 1d Array](../1. easy/1001-1500/1480-running-sum-of-1d-array)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
-
----
-
-## Counting (3 problems)
-
-- 🟢 Easy: 2
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
-- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
-- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
-- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 
 ---
 
