@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 50    | 921   | 5.4%      |
+| 🟢 Easy    | 51    | 921   | 5.5%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **63**| **3802** | **1.7%** |
+| **Total**  | **64**| **3802** | **1.7%** |
 
-**Last Updated:** March 10, 2026
+**Last Updated:** March 11, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Number of Equivalent Domino Pairs](1. easy/1001-1500/1128-number-of-equivalent-domino-pairs) | 🟢 Easy | 1 Java | March 10, 2026 |
-| 2 | [Fair Candy Swap](1. easy/0501-1000/0888-fair-candy-swap) | 🟢 Easy | 1 Java | March 09, 2026 |
-| 3 | [Calculate Digit Sum of a String](1. easy/2001-2500/2243-calculate-digit-sum-of-a-string) | 🟢 Easy | 1 Java | March 08, 2026 |
-| 4 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
-| 5 | [Check if Binary String Has at Most One Segment of Ones](1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢 Easy | 1 Java | March 06, 2026 |
+| 1 | [Complement of Base 10 Integer](1. easy/1001-1500/1009-complement-of-base-10-integer) | 🟢 Easy | 1 Java | March 11, 2026 |
+| 2 | [Number of Equivalent Domino Pairs](1. easy/1001-1500/1128-number-of-equivalent-domino-pairs) | 🟢 Easy | 1 Java | March 10, 2026 |
+| 3 | [Fair Candy Swap](1. easy/0501-1000/0888-fair-candy-swap) | 🟢 Easy | 1 Java | March 09, 2026 |
+| 4 | [Calculate Digit Sum of a String](1. easy/2001-2500/2243-calculate-digit-sum-of-a-string) | 🟢 Easy | 1 Java | March 08, 2026 |
+| 5 | [Sort Array By Parity](1. easy/0501-1000/0905-sort-array-by-parity) | 🟢 Easy | 1 Java | March 07, 2026 |
 
 
 ---
@@ -62,8 +62,8 @@ leetcode-solutions/
 ### Simulation (8)
 - Easy: 8 | Medium: 0 | Hard: 0
 
-### Bit Manipulation (7)
-- Easy: 6 | Medium: 1 | Hard: 0
+### Bit Manipulation (8)
+- Easy: 7 | Medium: 1 | Hard: 0
 
 ### Two Pointers (6)
 - Easy: 5 | Medium: 1 | Hard: 0

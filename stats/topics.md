@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 10, 2026
+**Last Updated:** March 11, 2026
 
 ---
 
@@ -70,6 +70,7 @@
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
 - [1784. Check if Binary String Has at Most One Segment of Ones](../1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones)
+- [1009. Complement of Base 10 Integer](../1. easy/1001-1500/1009-complement-of-base-10-integer)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
@@ -196,9 +197,9 @@
 
 ---
 
-## Bit Manipulation (7 problems)
+## Bit Manipulation (8 problems)
 
-- 🟢 Easy: 6
+- 🟢 Easy: 7
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
@@ -206,6 +207,7 @@
 
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [1009. Complement of Base 10 Integer](../1. easy/1001-1500/1009-complement-of-base-10-integer)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [0868. Binary Gap](../1. easy/0501-1000/0868-binary-gap)
 - [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
