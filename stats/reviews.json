@@ -376,5 +376,11 @@
     "review_count": 1,
     "last_reviewed": "2026-03-10",
     "next_review": "2026-03-11"
+  },
+  "1009": {
+    "title": "Complement Of Base 10 Integer",
+    "review_count": 1,
+    "last_reviewed": "2026-03-11",
+    "next_review": "2026-03-12"
   }
 }
