@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 51,
+    "count": 52,
     "problems": [
       {
         "number": "2367",
@@ -80,6 +80,14 @@
         "difficulty": "easy",
         "path": "1. easy/1501-2000/1935-maximum-number-of-words-you-can-type",
         "date": "February 27, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1790",
+        "title": "Check if One String Swap Can Make Strings Equal",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal",
+        "date": "March 12, 2026",
         "solutions": 1
       },
       {
@@ -532,7 +540,7 @@
       "hard": 0
     },
     "Hash Table": {
-      "easy": 12,
+      "easy": 13,
       "medium": 3,
       "hard": 0
     },
@@ -547,7 +555,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 16,
+      "easy": 17,
       "medium": 6,
       "hard": 0
     },
@@ -571,6 +579,11 @@
       "medium": 1,
       "hard": 0
     },
+    "Counting": {
+      "easy": 4,
+      "medium": 1,
+      "hard": 0
+    },
     "Sorting": {
       "easy": 8,
       "medium": 2,
@@ -589,11 +602,6 @@
     "Binary Search": {
       "easy": 2,
       "medium": 0,
-      "hard": 0
-    },
-    "Counting": {
-      "easy": 3,
-      "medium": 1,
       "hard": 0
     },
     "Counting Sort": {
@@ -649,5 +657,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-11T15:58:52.712686"
+  "last_updated": "2026-03-12T16:35:46.045498"
 }

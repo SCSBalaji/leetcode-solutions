@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 11, 2026
+**Last Updated:** March 12, 2026
 
 ---
 
@@ -55,9 +55,9 @@
 
 ---
 
-## String (22 problems)
+## String (23 problems)
 
-- 🟢 Easy: 16
+- 🟢 Easy: 17
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -67,6 +67,7 @@
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
+- [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
 - [1784. Check if Binary String Has at Most One Segment of Ones](../1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones)
@@ -92,9 +93,9 @@
 
 ---
 
-## Hash Table (15 problems)
+## Hash Table (16 problems)
 
-- 🟢 Easy: 12
+- 🟢 Easy: 13
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -105,6 +106,7 @@
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
+- [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
@@ -234,6 +236,27 @@
 
 ---
 
+## Counting (5 problems)
+
+- 🟢 Easy: 4
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
+- [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
+- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
+- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
+- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
+
+---
+
 ## Sliding Window (4 problems)
 
 - 🟢 Easy: 2
@@ -248,26 +271,6 @@
 - [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
-
----
-
-## Counting (4 problems)
-
-- 🟢 Easy: 3
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
-- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
-- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
-- [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
-- [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-- [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 
 ---
 
