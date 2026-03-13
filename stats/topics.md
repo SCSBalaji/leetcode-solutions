@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 12, 2026
+**Last Updated:** March 13, 2026
 
 ---
 
-## Array (36 problems)
+## Array (37 problems)
 
-- 🟢 Easy: 29
+- 🟢 Easy: 30
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -29,6 +29,7 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [1108. Defanging an IP Address](../1. easy/1001-1500/1108-defanging-an-ip-address)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
+- [1394. Find Lucky Integer in an Array](../1. easy/1001-1500/1394-find-lucky-integer-in-an-array)
 - [1480. Running Sum of 1d Array](../1. easy/1001-1500/1480-running-sum-of-1d-array)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
@@ -93,9 +94,9 @@
 
 ---
 
-## Hash Table (16 problems)
+## Hash Table (17 problems)
 
-- 🟢 Easy: 13
+- 🟢 Easy: 14
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
@@ -111,6 +112,7 @@
 - [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
+- [1394. Find Lucky Integer in an Array](../1. easy/1001-1500/1394-find-lucky-integer-in-an-array)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
 - [3471. Find the Largest Almost Missing Integer](../1. easy/2501-3000/3471-find-the-largest-almost-missing-integer)
@@ -137,6 +139,7 @@
 - [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
 - [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
+- [1394. Find Lucky Integer in an Array](../1. easy/1001-1500/1394-find-lucky-integer-in-an-array)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [2894. Divisible and Non-divisible Sums Difference](../1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference)
@@ -236,9 +239,9 @@
 
 ---
 
-## Counting (5 problems)
+## Counting (6 problems)
 
-- 🟢 Easy: 4
+- 🟢 Easy: 5
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
@@ -247,6 +250,7 @@
 - [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
 - [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
+- [1394. Find Lucky Integer in an Array](../1. easy/1001-1500/1394-find-lucky-integer-in-an-array)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
