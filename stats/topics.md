@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 13, 2026
+**Last Updated:** March 14, 2026
 
 ---
 
-## Array (37 problems)
+## Array (38 problems)
 
-- 🟢 Easy: 30
+- 🟢 Easy: 31
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -18,6 +18,7 @@
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [1816. Truncate Sentence](../1. easy/1501-2000/1816-truncate-sentence)
 - [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
 - [1929. Concatenation of Array](../1. easy/1501-2000/1929-concatenation-of-array)
@@ -56,9 +57,9 @@
 
 ---
 
-## String (23 problems)
+## String (24 problems)
 
-- 🟢 Easy: 17
+- 🟢 Easy: 18
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -67,6 +68,7 @@
 - [2243. Calculate Digit Sum of a String](../1. easy/2001-2500/2243-calculate-digit-sum-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [1816. Truncate Sentence](../1. easy/1501-2000/1816-truncate-sentence)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
 - [1528. Shuffle String](../1. easy/1501-2000/1528-shuffle-string)
@@ -247,6 +249,7 @@
 
 ### Problems:
 
+- [1816. Truncate Sentence](../1. easy/1501-2000/1816-truncate-sentence)
 - [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
 - [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
 - [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)

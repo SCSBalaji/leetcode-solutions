@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 53    | 921   | 5.8%      |
+| 🟢 Easy    | 54    | 921   | 5.9%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **66**| **3802** | **1.7%** |
+| **Total**  | **67**| **3802** | **1.8%** |
 
-**Last Updated:** March 13, 2026
+**Last Updated:** March 14, 2026
 
 ---
 
@@ -33,22 +33,22 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Find Lucky Integer in an Array](1. easy/1001-1500/1394-find-lucky-integer-in-an-array) | 🟢 Easy | 1 Java | March 13, 2026 |
-| 2 | [Check if One String Swap Can Make Strings Equal](1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal) | 🟢 Easy | 1 Java | March 12, 2026 |
-| 3 | [Complement of Base 10 Integer](1. easy/1001-1500/1009-complement-of-base-10-integer) | 🟢 Easy | 1 Java | March 11, 2026 |
-| 4 | [Number of Equivalent Domino Pairs](1. easy/1001-1500/1128-number-of-equivalent-domino-pairs) | 🟢 Easy | 1 Java | March 10, 2026 |
-| 5 | [Fair Candy Swap](1. easy/0501-1000/0888-fair-candy-swap) | 🟢 Easy | 1 Java | March 09, 2026 |
+| 1 | [Truncate Sentence](1. easy/1501-2000/1816-truncate-sentence) | 🟢 Easy | 1 Java | March 14, 2026 |
+| 2 | [Find Lucky Integer in an Array](1. easy/1001-1500/1394-find-lucky-integer-in-an-array) | 🟢 Easy | 1 Java | March 13, 2026 |
+| 3 | [Check if One String Swap Can Make Strings Equal](1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal) | 🟢 Easy | 1 Java | March 12, 2026 |
+| 4 | [Complement of Base 10 Integer](1. easy/1001-1500/1009-complement-of-base-10-integer) | 🟢 Easy | 1 Java | March 11, 2026 |
+| 5 | [Number of Equivalent Domino Pairs](1. easy/1001-1500/1128-number-of-equivalent-domino-pairs) | 🟢 Easy | 1 Java | March 10, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (37)
-- Easy: 30 | Medium: 7 | Hard: 0
+### Array (38)
+- Easy: 31 | Medium: 7 | Hard: 0
 
-### String (23)
-- Easy: 17 | Medium: 6 | Hard: 0
+### String (24)
+- Easy: 18 | Medium: 6 | Hard: 0
 
 ### Hash Table (17)
 - Easy: 14 | Medium: 3 | Hard: 0
