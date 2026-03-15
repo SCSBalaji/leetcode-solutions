@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 54    | 921   | 5.9%      |
+| 🟢 Easy    | 55    | 921   | 6.0%      |
 | 🟡 Medium  | 13     | 1982  | 0.7%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **67**| **3802** | **1.8%** |
+| **Total**  | **68**| **3802** | **1.8%** |
 
-**Last Updated:** March 14, 2026
+**Last Updated:** March 15, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Truncate Sentence](1. easy/1501-2000/1816-truncate-sentence) | 🟢 Easy | 1 Java | March 14, 2026 |
-| 2 | [Find Lucky Integer in an Array](1. easy/1001-1500/1394-find-lucky-integer-in-an-array) | 🟢 Easy | 1 Java | March 13, 2026 |
-| 3 | [Check if One String Swap Can Make Strings Equal](1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal) | 🟢 Easy | 1 Java | March 12, 2026 |
-| 4 | [Complement of Base 10 Integer](1. easy/1001-1500/1009-complement-of-base-10-integer) | 🟢 Easy | 1 Java | March 11, 2026 |
-| 5 | [Number of Equivalent Domino Pairs](1. easy/1001-1500/1128-number-of-equivalent-domino-pairs) | 🟢 Easy | 1 Java | March 10, 2026 |
+| 1 | [Maximum Nesting Depth of the Parentheses](1. easy/1501-2000/1614-maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | 1 Java | March 15, 2026 |
+| 2 | [Truncate Sentence](1. easy/1501-2000/1816-truncate-sentence) | 🟢 Easy | 1 Java | March 14, 2026 |
+| 3 | [Find Lucky Integer in an Array](1. easy/1001-1500/1394-find-lucky-integer-in-an-array) | 🟢 Easy | 1 Java | March 13, 2026 |
+| 4 | [Check if One String Swap Can Make Strings Equal](1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal) | 🟢 Easy | 1 Java | March 12, 2026 |
+| 5 | [Complement of Base 10 Integer](1. easy/1001-1500/1009-complement-of-base-10-integer) | 🟢 Easy | 1 Java | March 11, 2026 |
 
 
 ---
@@ -47,8 +47,8 @@ leetcode-solutions/
 ### Array (38)
 - Easy: 31 | Medium: 7 | Hard: 0
 
-### String (24)
-- Easy: 18 | Medium: 6 | Hard: 0
+### String (25)
+- Easy: 19 | Medium: 6 | Hard: 0
 
 ### Hash Table (17)
 - Easy: 14 | Medium: 3 | Hard: 0

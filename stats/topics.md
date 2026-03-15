@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 14, 2026
+**Last Updated:** March 15, 2026
 
 ---
 
@@ -57,9 +57,9 @@
 
 ---
 
-## String (24 problems)
+## String (25 problems)
 
-- 🟢 Easy: 18
+- 🟢 Easy: 19
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -68,6 +68,7 @@
 - [2243. Calculate Digit Sum of a String](../1. easy/2001-2500/2243-calculate-digit-sum-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
+- [1614. Maximum Nesting Depth of the Parentheses](../1. easy/1501-2000/1614-maximum-nesting-depth-of-the-parentheses)
 - [1816. Truncate Sentence](../1. easy/1501-2000/1816-truncate-sentence)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
@@ -357,6 +358,19 @@
 
 ---
 
+## Stack (2 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1614. Maximum Nesting Depth of the Parentheses](../1. easy/1501-2000/1614-maximum-nesting-depth-of-the-parentheses)
+- [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
+
+---
+
 ## Binary Search (2 problems)
 
 - 🟢 Easy: 2
@@ -391,18 +405,6 @@
 ### Problems:
 
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
-
----
-
-## Stack (1 problems)
-
-- 🟢 Easy: 0
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1249. Minimum Remove to Make Valid Parentheses](../2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses)
 
 ---
 
