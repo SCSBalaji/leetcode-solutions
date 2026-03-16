@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 55,
+    "count": 56,
     "problems": [
       {
         "number": "2367",
@@ -8,6 +8,14 @@
         "difficulty": "easy",
         "path": "1. easy/2001-2500/2367-number-of-arithmetic-triplets",
         "date": "February 20, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2418",
+        "title": "Sort the People",
+        "difficulty": "easy",
+        "path": "1. easy/2001-2500/2418-sort-the-people",
+        "date": "March 16, 2026",
         "solutions": 1
       },
       {
@@ -559,12 +567,12 @@
   },
   "topics": {
     "Array": {
-      "easy": 31,
+      "easy": 32,
       "medium": 7,
       "hard": 0
     },
     "Hash Table": {
-      "easy": 14,
+      "easy": 15,
       "medium": 3,
       "hard": 0
     },
@@ -579,8 +587,13 @@
       "hard": 0
     },
     "String": {
-      "easy": 19,
+      "easy": 20,
       "medium": 6,
+      "hard": 0
+    },
+    "Sorting": {
+      "easy": 9,
+      "medium": 2,
       "hard": 0
     },
     "Simulation": {
@@ -611,11 +624,6 @@
     "Counting": {
       "easy": 5,
       "medium": 1,
-      "hard": 0
-    },
-    "Sorting": {
-      "easy": 8,
-      "medium": 2,
       "hard": 0
     },
     "Matrix": {
@@ -681,5 +689,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-15T17:45:14.060770"
+  "last_updated": "2026-03-16T16:29:48.198552"
 }

@@ -1,18 +1,19 @@
 # Topics Breakdown
 
-**Last Updated:** March 15, 2026
+**Last Updated:** March 16, 2026
 
 ---
 
-## Array (38 problems)
+## Array (39 problems)
 
-- 🟢 Easy: 31
+- 🟢 Easy: 32
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
 ### Problems:
 
 - [2367. Number of Arithmetic Triplets](../1. easy/2001-2500/2367-number-of-arithmetic-triplets)
+- [2418. Sort the People](../1. easy/2001-2500/2418-sort-the-people)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
@@ -57,14 +58,15 @@
 
 ---
 
-## String (25 problems)
+## String (26 problems)
 
-- 🟢 Easy: 19
+- 🟢 Easy: 20
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
 ### Problems:
 
+- [2418. Sort the People](../1. easy/2001-2500/2418-sort-the-people)
 - [2243. Calculate Digit Sum of a String](../1. easy/2001-2500/2243-calculate-digit-sum-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
 - [0190. Reverse Bits](../1. easy/0000-0500/0190-reverse-bits)
@@ -97,15 +99,16 @@
 
 ---
 
-## Hash Table (17 problems)
+## Hash Table (18 problems)
 
-- 🟢 Easy: 14
+- 🟢 Easy: 15
 - 🟡 Medium: 3
 - 🔴 Hard: 0
 
 ### Problems:
 
 - [2367. Number of Arithmetic Triplets](../1. easy/2001-2500/2367-number-of-arithmetic-triplets)
+- [2418. Sort the People](../1. easy/2001-2500/2418-sort-the-people)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
 - [0001. Two Sum](../1. easy/0000-0500/0001-two-sum)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
@@ -123,6 +126,28 @@
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 - [3760. Maximum Substrings With Distinct Start](../2. medium/2501-3000/3760-maximum-substrings-with-distinct-start)
+
+---
+
+## Sorting (11 problems)
+
+- 🟢 Easy: 9
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [2418. Sort the People](../1. easy/2001-2500/2418-sort-the-people)
+- [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
+- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
+- [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
+- [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---
 
@@ -161,27 +186,6 @@
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](../2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
-
----
-
-## Sorting (10 problems)
-
-- 🟢 Easy: 8
-- 🟡 Medium: 2
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1636. Sort Array by Increasing Frequency](../1. easy/1501-2000/1636-sort-array-by-increasing-frequency)
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1365. How Many Numbers Are Smaller Than the Current Number](../1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number)
-- [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
-- [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
-- [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
-- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
-- [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-- [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---
 
