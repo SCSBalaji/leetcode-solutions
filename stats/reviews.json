@@ -412,5 +412,11 @@
     "review_count": 1,
     "last_reviewed": "2026-03-16",
     "next_review": "2026-03-17"
+  },
+  "1727": {
+    "title": "Largest Submatrix With Rearrangements",
+    "review_count": 1,
+    "last_reviewed": "2026-03-17",
+    "next_review": "2026-03-18"
   }
 }
