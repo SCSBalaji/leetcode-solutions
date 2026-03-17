@@ -453,7 +453,7 @@
     ]
   },
   "medium": {
-    "count": 13,
+    "count": 14,
     "problems": [
       {
         "number": "2125",
@@ -477,6 +477,14 @@
         "difficulty": "medium",
         "path": "2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers",
         "date": "March 01, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1727",
+        "title": "Largest Submatrix With Rearrangements",
+        "difficulty": "medium",
+        "path": "2. medium/1501-2000/1727-largest-submatrix-with-rearrangements",
+        "date": "March 17, 2026",
         "solutions": 1
       },
       {
@@ -568,7 +576,7 @@
   "topics": {
     "Array": {
       "easy": 32,
-      "medium": 7,
+      "medium": 8,
       "hard": 0
     },
     "Hash Table": {
@@ -593,7 +601,7 @@
     },
     "Sorting": {
       "easy": 9,
-      "medium": 2,
+      "medium": 3,
       "hard": 0
     },
     "Simulation": {
@@ -628,7 +636,7 @@
     },
     "Matrix": {
       "easy": 2,
-      "medium": 1,
+      "medium": 2,
       "hard": 0
     },
     "Sliding Window": {
@@ -658,7 +666,7 @@
     },
     "Greedy": {
       "easy": 1,
-      "medium": 2,
+      "medium": 3,
       "hard": 0
     },
     "Graph Theory": {
@@ -689,5 +697,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-16T16:29:48.198552"
+  "last_updated": "2026-03-17T16:07:54.821379"
 }
