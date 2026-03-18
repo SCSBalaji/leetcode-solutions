@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** March 17, 2026
+**Last Updated:** March 18, 2026
 
 ---
 
-## Array (40 problems)
+## Array (41 problems)
 
 - 🟢 Easy: 32
-- 🟡 Medium: 8
+- 🟡 Medium: 9
 - 🔴 Hard: 0
 
 ### Problems:
@@ -56,6 +56,7 @@
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
+- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
 
 ---
 
@@ -271,10 +272,10 @@
 
 ---
 
-## Matrix (4 problems)
+## Matrix (5 problems)
 
 - 🟢 Easy: 2
-- 🟡 Medium: 2
+- 🟡 Medium: 3
 - 🔴 Hard: 0
 
 ### Problems:
@@ -283,6 +284,7 @@
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
+- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
 
 ---
 
@@ -300,6 +302,21 @@
 - [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
+
+---
+
+## Prefix Sum (4 problems)
+
+- 🟢 Easy: 1
+- 🟡 Medium: 3
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1480. Running Sum of 1d Array](../1. easy/1001-1500/1480-running-sum-of-1d-array)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
+- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
 
 ---
 
@@ -336,20 +353,6 @@
 - [2367. Number of Arithmetic Triplets](../1. easy/2001-2500/2367-number-of-arithmetic-triplets)
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
-
----
-
-## Prefix Sum (3 problems)
-
-- 🟢 Easy: 1
-- 🟡 Medium: 2
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1480. Running Sum of 1d Array](../1. easy/1001-1500/1480-running-sum-of-1d-array)
-- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
-- [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 
 ---
 
