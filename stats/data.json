@@ -453,7 +453,7 @@
     ]
   },
   "medium": {
-    "count": 15,
+    "count": 16,
     "problems": [
       {
         "number": "2125",
@@ -517,6 +517,14 @@
         "difficulty": "medium",
         "path": "2. medium/2501-3000/3713-longest-balanced-substring-i",
         "date": "February 12, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3212",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y",
+        "date": "March 19, 2026",
         "solutions": 1
       },
       {
@@ -584,7 +592,7 @@
   "topics": {
     "Array": {
       "easy": 32,
-      "medium": 9,
+      "medium": 10,
       "hard": 0
     },
     "Hash Table": {
@@ -644,7 +652,7 @@
     },
     "Matrix": {
       "easy": 2,
-      "medium": 3,
+      "medium": 4,
       "hard": 0
     },
     "Sliding Window": {
@@ -664,7 +672,7 @@
     },
     "Prefix Sum": {
       "easy": 1,
-      "medium": 3,
+      "medium": 4,
       "hard": 0
     },
     "Recursion": {
@@ -705,5 +713,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-18T17:01:14.919021"
+  "last_updated": "2026-03-19T16:12:57.294042"
 }
