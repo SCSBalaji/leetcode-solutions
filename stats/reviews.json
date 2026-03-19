@@ -424,5 +424,11 @@
     "review_count": 1,
     "last_reviewed": "2026-03-18",
     "next_review": "2026-03-19"
+  },
+  "3212": {
+    "title": "Count Submatrices With Equal Frequency Of X And Y",
+    "review_count": 1,
+    "last_reviewed": "2026-03-19",
+    "next_review": "2026-03-20"
   }
 }
