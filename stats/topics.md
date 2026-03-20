@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** March 19, 2026
+**Last Updated:** March 20, 2026
 
 ---
 
-## Array (42 problems)
+## Array (43 problems)
 
 - 🟢 Easy: 32
-- 🟡 Medium: 10
+- 🟡 Medium: 11
 - 🔴 Hard: 0
 
 ### Problems:
@@ -54,6 +54,7 @@
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
 - [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
+- [3567. Minimum Absolute Difference in Sliding Submatrix](../2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
@@ -132,10 +133,10 @@
 
 ---
 
-## Sorting (12 problems)
+## Sorting (13 problems)
 
 - 🟢 Easy: 9
-- 🟡 Medium: 3
+- 🟡 Medium: 4
 - 🔴 Hard: 0
 
 ### Problems:
@@ -151,6 +152,7 @@
 - [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
 - [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
+- [3567. Minimum Absolute Difference in Sliding Submatrix](../2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix)
 - [3634. Minimum Removals to Balance Array](../2. medium/2501-3000/3634-minimum-removals-to-balance-array)
 
 ---
@@ -232,6 +234,24 @@
 
 ---
 
+## Matrix (7 problems)
+
+- 🟢 Easy: 2
+- 🟡 Medium: 5
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
+- [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
+- [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
+- [3567. Minimum Absolute Difference in Sliding Submatrix](../2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix)
+- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
+
+---
+
 ## Two Pointers (6 problems)
 
 - 🟢 Easy: 5
@@ -270,23 +290,6 @@
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [3713. Longest Balanced Substring I](../2. medium/2501-3000/3713-longest-balanced-substring-i)
-
----
-
-## Matrix (6 problems)
-
-- 🟢 Easy: 2
-- 🟡 Medium: 4
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
-- [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-- [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
-- [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
-- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
 
 ---
 
