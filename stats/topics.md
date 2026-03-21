@@ -1,12 +1,12 @@
 # Topics Breakdown
 
-**Last Updated:** March 20, 2026
+**Last Updated:** March 21, 2026
 
 ---
 
-## Array (43 problems)
+## Array (44 problems)
 
-- 🟢 Easy: 32
+- 🟢 Easy: 33
 - 🟡 Medium: 11
 - 🔴 Hard: 0
 
@@ -36,6 +36,7 @@
 - [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](../1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i)
+- [3643. Flip Square Submatrix Vertically](../1. easy/2501-3000/3643-flip-square-submatrix-vertically)
 - [3467. Transform Array by Parity](../1. easy/2501-3000/3467-transform-array-by-parity)
 - [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
 - [3668. Restore Finishing Order](../1. easy/2501-3000/3668-restore-finishing-order)
@@ -208,6 +209,7 @@
 - [1920. Build Array from Permutation](../1. easy/1501-2000/1920-build-array-from-permutation)
 - [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
 - [3701. Compute Alternating Sum](../1. easy/2501-3000/3701-compute-alternating-sum)
+- [3643. Flip Square Submatrix Vertically](../1. easy/2501-3000/3643-flip-square-submatrix-vertically)
 - [2810. Faulty Keyboard](../1. easy/2501-3000/2810-faulty-keyboard)
 - [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
 - [2942. Find Words Containing Character](../1. easy/2501-3000/2942-find-words-containing-character)
@@ -234,9 +236,9 @@
 
 ---
 
-## Matrix (7 problems)
+## Matrix (8 problems)
 
-- 🟢 Easy: 2
+- 🟢 Easy: 3
 - 🟡 Medium: 5
 - 🔴 Hard: 0
 
@@ -244,6 +246,7 @@
 
 - [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
 - [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [3643. Flip Square Submatrix Vertically](../1. easy/2501-3000/3643-flip-square-submatrix-vertically)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
 - [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
@@ -252,9 +255,9 @@
 
 ---
 
-## Two Pointers (6 problems)
+## Two Pointers (7 problems)
 
-- 🟢 Easy: 5
+- 🟢 Easy: 6
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
@@ -262,6 +265,7 @@
 
 - [2367. Number of Arithmetic Triplets](../1. easy/2001-2500/2367-number-of-arithmetic-triplets)
 - [0027. Remove Element](../1. easy/0000-0500/0027-remove-element)
+- [3643. Flip Square Submatrix Vertically](../1. easy/2501-3000/3643-flip-square-submatrix-vertically)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [0696. Count Binary Substrings](../1. easy/0501-1000/0696-count-binary-substrings)

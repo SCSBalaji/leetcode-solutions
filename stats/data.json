@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 56,
+    "count": 57,
     "problems": [
       {
         "number": "2367",
@@ -272,6 +272,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
         "date": "February 01, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3643",
+        "title": "Flip Square Submatrix Vertically",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3643-flip-square-submatrix-vertically",
+        "date": "March 21, 2026",
         "solutions": 1
       },
       {
@@ -599,7 +607,7 @@
   },
   "topics": {
     "Array": {
-      "easy": 32,
+      "easy": 33,
       "medium": 11,
       "hard": 0
     },
@@ -609,7 +617,7 @@
       "hard": 0
     },
     "Two Pointers": {
-      "easy": 5,
+      "easy": 6,
       "medium": 1,
       "hard": 0
     },
@@ -659,7 +667,7 @@
       "hard": 0
     },
     "Matrix": {
-      "easy": 2,
+      "easy": 3,
       "medium": 5,
       "hard": 0
     },
@@ -721,5 +729,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-20T16:10:47.111915"
+  "last_updated": "2026-03-21T16:33:16.646169"
 }

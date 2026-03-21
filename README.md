@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 56    | 921   | 6.1%      |
+| 🟢 Easy    | 57    | 921   | 6.2%      |
 | 🟡 Medium  | 17     | 1982  | 0.9%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **73**| **3802** | **1.9%** |
+| **Total**  | **74**| **3802** | **1.9%** |
 
-**Last Updated:** March 20, 2026
+**Last Updated:** March 21, 2026
 
 ---
 
@@ -33,19 +33,19 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Minimum Absolute Difference in Sliding Submatrix](2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix) | 🟡 Medium | 1 Java | March 20, 2026 |
-| 2 | [Count Submatrices With Equal Frequency of X and Y](2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y) | 🟡 Medium | 1 Java | March 19, 2026 |
-| 3 | [Count Submatrices with Top-Left Element and Sum Less Than k](2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) | 🟡 Medium | 1 Java | March 18, 2026 |
-| 4 | [Largest Submatrix With Rearrangements](2. medium/1501-2000/1727-largest-submatrix-with-rearrangements) | 🟡 Medium | 1 Java | March 17, 2026 |
-| 5 | [Sort the People](1. easy/2001-2500/2418-sort-the-people) | 🟢 Easy | 1 Java | March 16, 2026 |
+| 1 | [Flip Square Submatrix Vertically](1. easy/2501-3000/3643-flip-square-submatrix-vertically) | 🟢 Easy | 1 Java | March 21, 2026 |
+| 2 | [Minimum Absolute Difference in Sliding Submatrix](2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix) | 🟡 Medium | 1 Java | March 20, 2026 |
+| 3 | [Count Submatrices With Equal Frequency of X and Y](2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y) | 🟡 Medium | 1 Java | March 19, 2026 |
+| 4 | [Count Submatrices with Top-Left Element and Sum Less Than k](2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) | 🟡 Medium | 1 Java | March 18, 2026 |
+| 5 | [Largest Submatrix With Rearrangements](2. medium/1501-2000/1727-largest-submatrix-with-rearrangements) | 🟡 Medium | 1 Java | March 17, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Array (43)
-- Easy: 32 | Medium: 11 | Hard: 0
+### Array (44)
+- Easy: 33 | Medium: 11 | Hard: 0
 
 ### String (26)
 - Easy: 20 | Medium: 6 | Hard: 0
@@ -65,11 +65,11 @@ leetcode-solutions/
 ### Bit Manipulation (8)
 - Easy: 7 | Medium: 1 | Hard: 0
 
-### Matrix (7)
-- Easy: 2 | Medium: 5 | Hard: 0
+### Matrix (8)
+- Easy: 3 | Medium: 5 | Hard: 0
 
-### Two Pointers (6)
-- Easy: 5 | Medium: 1 | Hard: 0
+### Two Pointers (7)
+- Easy: 6 | Medium: 1 | Hard: 0
 
 ### Counting (6)
 - Easy: 5 | Medium: 1 | Hard: 0
