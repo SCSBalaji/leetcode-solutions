@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 57,
+    "count": 58,
     "problems": [
+      {
+        "number": "2278",
+        "title": "Percentage of Letter in String",
+        "difficulty": "easy",
+        "path": "1. easy/2001-2500/2278-percentage-of-letter-in-string",
+        "date": "March 22, 2026",
+        "solutions": 1
+      },
       {
         "number": "2367",
         "title": "Number of Arithmetic Triplets",
@@ -606,6 +614,11 @@
     "problems": []
   },
   "topics": {
+    "String": {
+      "easy": 21,
+      "medium": 6,
+      "hard": 0
+    },
     "Array": {
       "easy": 33,
       "medium": 11,
@@ -624,11 +637,6 @@
     "Enumeration": {
       "easy": 2,
       "medium": 1,
-      "hard": 0
-    },
-    "String": {
-      "easy": 20,
-      "medium": 6,
       "hard": 0
     },
     "Sorting": {
@@ -729,5 +737,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-21T16:33:16.646169"
+  "last_updated": "2026-03-22T16:14:29.313941"
 }

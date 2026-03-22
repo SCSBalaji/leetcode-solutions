@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 21, 2026
+**Last Updated:** March 22, 2026
 
 ---
 
@@ -12,6 +12,7 @@
 
 ### Problems:
 
+- [2278. Percentage of Letter in String](../1. easy/2001-2500/2278-percentage-of-letter-in-string)
 - [2367. Number of Arithmetic Triplets](../1. easy/2001-2500/2367-number-of-arithmetic-triplets)
 - [2418. Sort the People](../1. easy/2001-2500/2418-sort-the-people)
 - [0136. Single Number](../1. easy/0000-0500/0136-single-number)
@@ -63,14 +64,15 @@
 
 ---
 
-## String (26 problems)
+## String (27 problems)
 
-- 🟢 Easy: 20
+- 🟢 Easy: 21
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
 ### Problems:
 
+- [2278. Percentage of Letter in String](../1. easy/2001-2500/2278-percentage-of-letter-in-string)
 - [2418. Sort the People](../1. easy/2001-2500/2418-sort-the-people)
 - [2243. Calculate Digit Sum of a String](../1. easy/2001-2500/2243-calculate-digit-sum-of-a-string)
 - [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
@@ -282,6 +284,7 @@
 
 ### Problems:
 
+- [2278. Percentage of Letter in String](../1. easy/2001-2500/2278-percentage-of-letter-in-string)
 - [1816. Truncate Sentence](../1. easy/1501-2000/1816-truncate-sentence)
 - [1790. Check if One String Swap Can Make Strings Equal](../1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal)
 - [1128. Number of Equivalent Domino Pairs](../1. easy/1001-1500/1128-number-of-equivalent-domino-pairs)
