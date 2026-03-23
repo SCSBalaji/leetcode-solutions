@@ -469,7 +469,7 @@
     ]
   },
   "medium": {
-    "count": 17,
+    "count": 18,
     "problems": [
       {
         "number": "2125",
@@ -485,6 +485,14 @@
         "difficulty": "medium",
         "path": "2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array",
         "date": "January 24, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1594",
+        "title": "Maximum Non Negative Product in a Matrix",
+        "difficulty": "medium",
+        "path": "2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix",
+        "date": "March 23, 2026",
         "solutions": 1
       },
       {
@@ -621,7 +629,7 @@
     },
     "Array": {
       "easy": 33,
-      "medium": 11,
+      "medium": 12,
       "hard": 0
     },
     "Hash Table": {
@@ -676,7 +684,7 @@
     },
     "Matrix": {
       "easy": 3,
-      "medium": 5,
+      "medium": 6,
       "hard": 0
     },
     "Sliding Window": {
@@ -709,6 +717,11 @@
       "medium": 3,
       "hard": 0
     },
+    "Dynamic Programming": {
+      "easy": 0,
+      "medium": 2,
+      "hard": 0
+    },
     "Graph Theory": {
       "easy": 0,
       "medium": 1,
@@ -728,14 +741,9 @@
       "easy": 0,
       "medium": 1,
       "hard": 0
-    },
-    "Dynamic Programming": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-22T16:14:29.313941"
+  "last_updated": "2026-03-23T16:41:46.698018"
 }

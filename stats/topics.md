@@ -1,13 +1,13 @@
 # Topics Breakdown
 
-**Last Updated:** March 22, 2026
+**Last Updated:** March 23, 2026
 
 ---
 
-## Array (44 problems)
+## Array (45 problems)
 
 - 🟢 Easy: 33
-- 🟡 Medium: 11
+- 🟡 Medium: 12
 - 🔴 Hard: 0
 
 ### Problems:
@@ -51,6 +51,7 @@
 - [0905. Sort Array By Parity](../1. easy/0501-1000/0905-sort-array-by-parity)
 - [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
 - [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [1594. Maximum Non Negative Product in a Matrix](../2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix)
 - [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
 - [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
@@ -198,6 +199,26 @@
 
 ---
 
+## Matrix (9 problems)
+
+- 🟢 Easy: 3
+- 🟡 Medium: 6
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
+- [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
+- [3643. Flip Square Submatrix Vertically](../1. easy/2501-3000/3643-flip-square-submatrix-vertically)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [1594. Maximum Non Negative Product in a Matrix](../2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix)
+- [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
+- [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
+- [3567. Minimum Absolute Difference in Sliding Submatrix](../2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix)
+- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
+
+---
+
 ## Simulation (8 problems)
 
 - 🟢 Easy: 8
@@ -235,25 +256,6 @@
 - [0693. Binary Number with Alternating Bits](../1. easy/0501-1000/0693-binary-number-with-alternating-bits)
 - [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
 - [3315. Construct the Minimum Bitwise Array II](../2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii)
-
----
-
-## Matrix (8 problems)
-
-- 🟢 Easy: 3
-- 🟡 Medium: 5
-- 🔴 Hard: 0
-
-### Problems:
-
-- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
-- [1351. Count Negative Numbers in a Sorted Matrix](../1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix)
-- [3643. Flip Square Submatrix Vertically](../1. easy/2501-3000/3643-flip-square-submatrix-vertically)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-- [1727. Largest Submatrix With Rearrangements](../2. medium/1501-2000/1727-largest-submatrix-with-rearrangements)
-- [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
-- [3567. Minimum Absolute Difference in Sliding Submatrix](../2. medium/2501-3000/3567-minimum-absolute-difference-in-sliding-submatrix)
-- [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
 
 ---
 
@@ -408,6 +410,19 @@
 
 ---
 
+## Dynamic Programming (2 problems)
+
+- 🟢 Easy: 0
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+### Problems:
+
+- [1594. Maximum Non Negative Product in a Matrix](../2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix)
+- [0799. Champagne Tower](../2. medium/0501-1000/0799-champagne-tower)
+
+---
+
 ## Counting Sort (1 problems)
 
 - 🟢 Easy: 1
@@ -477,18 +492,6 @@
 ### Problems:
 
 - [3719. Longest Balanced Subarray I](../2. medium/2501-3000/3719-longest-balanced-subarray-i)
-
----
-
-## Dynamic Programming (1 problems)
-
-- 🟢 Easy: 0
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0799. Champagne Tower](../2. medium/0501-1000/0799-champagne-tower)
 
 ---
 
