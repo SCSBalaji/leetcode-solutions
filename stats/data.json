@@ -469,7 +469,7 @@
     ]
   },
   "medium": {
-    "count": 19,
+    "count": 20,
     "problems": [
       {
         "number": "2125",
@@ -576,6 +576,14 @@
         "solutions": 1
       },
       {
+        "number": "3546",
+        "title": "Equal Sum Grid Partition I",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3546-equal-sum-grid-partition-i",
+        "date": "March 25, 2026",
+        "solutions": 1
+      },
+      {
         "number": "3650",
         "title": "Minimum Cost Path with Edge Reversals",
         "difficulty": "medium",
@@ -637,7 +645,7 @@
     },
     "Array": {
       "easy": 33,
-      "medium": 13,
+      "medium": 14,
       "hard": 0
     },
     "Hash Table": {
@@ -652,7 +660,7 @@
     },
     "Enumeration": {
       "easy": 2,
-      "medium": 1,
+      "medium": 2,
       "hard": 0
     },
     "Sorting": {
@@ -692,7 +700,7 @@
     },
     "Matrix": {
       "easy": 3,
-      "medium": 7,
+      "medium": 8,
       "hard": 0
     },
     "Sliding Window": {
@@ -712,7 +720,7 @@
     },
     "Prefix Sum": {
       "easy": 1,
-      "medium": 5,
+      "medium": 6,
       "hard": 0
     },
     "Recursion": {
@@ -753,5 +761,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-24T17:13:10.085359"
+  "last_updated": "2026-03-25T17:04:27.236535"
 }
