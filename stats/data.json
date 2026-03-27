@@ -1,407 +1,7 @@
 {
   "easy": {
-    "count": 58,
+    "count": 59,
     "problems": [
-      {
-        "number": "2278",
-        "title": "Percentage of Letter in String",
-        "difficulty": "easy",
-        "path": "1. easy/2001-2500/2278-percentage-of-letter-in-string",
-        "date": "March 22, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2367",
-        "title": "Number of Arithmetic Triplets",
-        "difficulty": "easy",
-        "path": "1. easy/2001-2500/2367-number-of-arithmetic-triplets",
-        "date": "February 20, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2418",
-        "title": "Sort the People",
-        "difficulty": "easy",
-        "path": "1. easy/2001-2500/2418-sort-the-people",
-        "date": "March 16, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2243",
-        "title": "Calculate Digit Sum of a String",
-        "difficulty": "easy",
-        "path": "1. easy/2001-2500/2243-calculate-digit-sum-of-a-string",
-        "date": "March 08, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "0136",
-        "title": "Single Number",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0136-single-number",
-        "date": "January 12, 2026",
-        "solutions": 4
-      },
-      {
-        "number": "0009",
-        "title": "Palindrome Number",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0009-palindrome-number",
-        "date": "January 11, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "0066",
-        "title": "Plus One",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0066-plus-one",
-        "date": "January 12, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "0001",
-        "title": "Two Sum",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0001-two-sum",
-        "date": "January 10, 2026",
-        "solutions": 4
-      },
-      {
-        "number": "0013",
-        "title": "Roman to Integer",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0013-roman-to-integer",
-        "date": "January 12, 2026",
-        "solutions": 3
-      },
-      {
-        "number": "0027",
-        "title": "Remove Element",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0027-remove-element",
-        "date": "January 11, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "0190",
-        "title": "Reverse Bits",
-        "difficulty": "easy",
-        "path": "1. easy/0000-0500/0190-reverse-bits",
-        "date": "February 16, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1614",
-        "title": "Maximum Nesting Depth of the Parentheses",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1614-maximum-nesting-depth-of-the-parentheses",
-        "date": "March 15, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1816",
-        "title": "Truncate Sentence",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1816-truncate-sentence",
-        "date": "March 14, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1935",
-        "title": "Maximum Number of Words You Can Type",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1935-maximum-number-of-words-you-can-type",
-        "date": "February 27, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1790",
-        "title": "Check if One String Swap Can Make Strings Equal",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal",
-        "date": "March 12, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1636",
-        "title": "Sort Array by Increasing Frequency",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1636-sort-array-by-increasing-frequency",
-        "date": "February 15, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1528",
-        "title": "Shuffle String",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1528-shuffle-string",
-        "date": "February 25, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1929",
-        "title": "Concatenation of Array",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1929-concatenation-of-array",
-        "date": "January 13, 2026",
-        "solutions": 3
-      },
-      {
-        "number": "1758",
-        "title": "Minimum Changes To Make Alternating Binary String",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string",
-        "date": "March 05, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "1784",
-        "title": "Check if Binary String Has at Most One Segment of Ones",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones",
-        "date": "March 06, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1672",
-        "title": "Richest Customer Wealth",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1672-richest-customer-wealth",
-        "date": "March 04, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1920",
-        "title": "Build Array from Permutation",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1920-build-array-from-permutation",
-        "date": "January 20, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "1984",
-        "title": "Minimum Difference Between Highest and Lowest of K Scores",
-        "difficulty": "easy",
-        "path": "1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
-        "date": "January 25, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1351",
-        "title": "Count Negative Numbers in a Sorted Matrix",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix",
-        "date": "February 04, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1009",
-        "title": "Complement of Base 10 Integer",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1009-complement-of-base-10-integer",
-        "date": "March 11, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1128",
-        "title": "Number of Equivalent Domino Pairs",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1128-number-of-equivalent-domino-pairs",
-        "date": "March 10, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1365",
-        "title": "How Many Numbers Are Smaller Than the Current Number",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number",
-        "date": "February 13, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1108",
-        "title": "Defanging an IP Address",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1108-defanging-an-ip-address",
-        "date": "January 18, 2026",
-        "solutions": 3
-      },
-      {
-        "number": "1002",
-        "title": "Find Common Characters",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1002-find-common-characters",
-        "date": "March 02, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1394",
-        "title": "Find Lucky Integer in an Array",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1394-find-lucky-integer-in-an-array",
-        "date": "March 13, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1480",
-        "title": "Running Sum of 1d Array",
-        "difficulty": "easy",
-        "path": "1. easy/1001-1500/1480-running-sum-of-1d-array",
-        "date": "February 26, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3498",
-        "title": "Reverse Degree of a String",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3498-reverse-degree-of-a-string",
-        "date": "January 30, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3512",
-        "title": "Minimum Operations to Make Array Sum Divisible by K",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k",
-        "date": "January 19, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3701",
-        "title": "Compute Alternating Sum",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3701-compute-alternating-sum",
-        "date": "January 14, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3010",
-        "title": "Divide an Array Into Subarrays With Minimum Cost I",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
-        "date": "February 01, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3643",
-        "title": "Flip Square Submatrix Vertically",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3643-flip-square-submatrix-vertically",
-        "date": "March 21, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3467",
-        "title": "Transform Array by Parity",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3467-transform-array-by-parity",
-        "date": "February 02, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2894",
-        "title": "Divisible and Non-divisible Sums Difference",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference",
-        "date": "February 08, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "3110",
-        "title": "Score of a String",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3110-score-of-a-string",
-        "date": "January 15, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2769",
-        "title": "Find the Maximum Achievable Number",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/2769-find-the-maximum-achievable-number",
-        "date": "February 17, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2810",
-        "title": "Faulty Keyboard",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/2810-faulty-keyboard",
-        "date": "March 03, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3541",
-        "title": "Find Most Frequent Vowel and Consonant",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant",
-        "date": "January 16, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3637",
-        "title": "Trionic Array I",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3637-trionic-array-i",
-        "date": "February 03, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "3794",
-        "title": "Reverse String Prefix",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3794-reverse-string-prefix",
-        "date": "January 29, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3304",
-        "title": "Find the K-th Character in String Game I",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i",
-        "date": "February 11, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3668",
-        "title": "Restore Finishing Order",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3668-restore-finishing-order",
-        "date": "January 22, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2942",
-        "title": "Find Words Containing Character",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/2942-find-words-containing-character",
-        "date": "January 17, 2026",
-        "solutions": 2
-      },
-      {
-        "number": "3379",
-        "title": "Transformed Array",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3379-transformed-array",
-        "date": "February 05, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3471",
-        "title": "Find the Largest Almost Missing Integer",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3471-find-the-largest-almost-missing-integer",
-        "date": "February 23, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3258",
-        "title": "Count Substrings That Satisfy K-Constraint I",
-        "difficulty": "easy",
-        "path": "1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i",
-        "date": "February 09, 2026",
-        "solutions": 1
-      },
       {
         "number": "0976",
         "title": "Largest Perimeter Triangle",
@@ -419,11 +19,11 @@
         "solutions": 1
       },
       {
-        "number": "0888",
-        "title": "Fair Candy Swap",
+        "number": "0762",
+        "title": "Prime Number of Set Bits in Binary Representation",
         "difficulty": "easy",
-        "path": "1. easy/0501-1000/0888-fair-candy-swap",
-        "date": "March 09, 2026",
+        "path": "1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation",
+        "date": "February 21, 2026",
         "solutions": 1
       },
       {
@@ -451,6 +51,14 @@
         "solutions": 2
       },
       {
+        "number": "0888",
+        "title": "Fair Candy Swap",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0888-fair-candy-swap",
+        "date": "March 09, 2026",
+        "solutions": 1
+      },
+      {
         "number": "0693",
         "title": "Binary Number with Alternating Bits",
         "difficulty": "easy",
@@ -459,11 +67,411 @@
         "solutions": 2
       },
       {
-        "number": "0762",
-        "title": "Prime Number of Set Bits in Binary Representation",
+        "number": "2418",
+        "title": "Sort the People",
         "difficulty": "easy",
-        "path": "1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation",
-        "date": "February 21, 2026",
+        "path": "1. easy/2001-2500/2418-sort-the-people",
+        "date": "March 16, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2243",
+        "title": "Calculate Digit Sum of a String",
+        "difficulty": "easy",
+        "path": "1. easy/2001-2500/2243-calculate-digit-sum-of-a-string",
+        "date": "March 08, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2278",
+        "title": "Percentage of Letter in String",
+        "difficulty": "easy",
+        "path": "1. easy/2001-2500/2278-percentage-of-letter-in-string",
+        "date": "March 22, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2367",
+        "title": "Number of Arithmetic Triplets",
+        "difficulty": "easy",
+        "path": "1. easy/2001-2500/2367-number-of-arithmetic-triplets",
+        "date": "February 20, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1984",
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+        "date": "January 25, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1614",
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1614-maximum-nesting-depth-of-the-parentheses",
+        "date": "March 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1816",
+        "title": "Truncate Sentence",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1816-truncate-sentence",
+        "date": "March 14, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1528",
+        "title": "Shuffle String",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1528-shuffle-string",
+        "date": "February 25, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1636",
+        "title": "Sort Array by Increasing Frequency",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1636-sort-array-by-increasing-frequency",
+        "date": "February 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1790",
+        "title": "Check if One String Swap Can Make Strings Equal",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1790-check-if-one-string-swap-can-make-strings-equal",
+        "date": "March 12, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1784",
+        "title": "Check if Binary String Has at Most One Segment of Ones",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones",
+        "date": "March 06, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1935",
+        "title": "Maximum Number of Words You Can Type",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1935-maximum-number-of-words-you-can-type",
+        "date": "February 27, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1929",
+        "title": "Concatenation of Array",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1929-concatenation-of-array",
+        "date": "January 13, 2026",
+        "solutions": 3
+      },
+      {
+        "number": "1920",
+        "title": "Build Array from Permutation",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1920-build-array-from-permutation",
+        "date": "January 20, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "1672",
+        "title": "Richest Customer Wealth",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1672-richest-customer-wealth",
+        "date": "March 04, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1758",
+        "title": "Minimum Changes To Make Alternating Binary String",
+        "difficulty": "easy",
+        "path": "1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string",
+        "date": "March 05, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "2769",
+        "title": "Find the Maximum Achievable Number",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2769-find-the-maximum-achievable-number",
+        "date": "February 17, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2946",
+        "title": "Matrix Similarity After Cyclic Shifts",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2946-matrix-similarity-after-cyclic-shifts",
+        "date": "March 27, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3258",
+        "title": "Count Substrings That Satisfy K-Constraint I",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i",
+        "date": "February 09, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3794",
+        "title": "Reverse String Prefix",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3794-reverse-string-prefix",
+        "date": "January 29, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3512",
+        "title": "Minimum Operations to Make Array Sum Divisible by K",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k",
+        "date": "January 19, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3110",
+        "title": "Score of a String",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3110-score-of-a-string",
+        "date": "January 15, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3304",
+        "title": "Find the K-th Character in String Game I",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i",
+        "date": "February 11, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3379",
+        "title": "Transformed Array",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3379-transformed-array",
+        "date": "February 05, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3010",
+        "title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+        "date": "February 01, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3467",
+        "title": "Transform Array by Parity",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3467-transform-array-by-parity",
+        "date": "February 02, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3701",
+        "title": "Compute Alternating Sum",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3701-compute-alternating-sum",
+        "date": "January 14, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3541",
+        "title": "Find Most Frequent Vowel and Consonant",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant",
+        "date": "January 16, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3668",
+        "title": "Restore Finishing Order",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3668-restore-finishing-order",
+        "date": "January 22, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3643",
+        "title": "Flip Square Submatrix Vertically",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3643-flip-square-submatrix-vertically",
+        "date": "March 21, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2894",
+        "title": "Divisible and Non-divisible Sums Difference",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference",
+        "date": "February 08, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "3498",
+        "title": "Reverse Degree of a String",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3498-reverse-degree-of-a-string",
+        "date": "January 30, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3471",
+        "title": "Find the Largest Almost Missing Integer",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3471-find-the-largest-almost-missing-integer",
+        "date": "February 23, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "2942",
+        "title": "Find Words Containing Character",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2942-find-words-containing-character",
+        "date": "January 17, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "3637",
+        "title": "Trionic Array I",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3637-trionic-array-i",
+        "date": "February 03, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "2810",
+        "title": "Faulty Keyboard",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/2810-faulty-keyboard",
+        "date": "March 03, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "0009",
+        "title": "Palindrome Number",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0009-palindrome-number",
+        "date": "January 11, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "0190",
+        "title": "Reverse Bits",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0190-reverse-bits",
+        "date": "February 16, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "0013",
+        "title": "Roman to Integer",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0013-roman-to-integer",
+        "date": "January 12, 2026",
+        "solutions": 3
+      },
+      {
+        "number": "0027",
+        "title": "Remove Element",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0027-remove-element",
+        "date": "January 11, 2026",
+        "solutions": 2
+      },
+      {
+        "number": "0066",
+        "title": "Plus One",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0066-plus-one",
+        "date": "January 12, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "0136",
+        "title": "Single Number",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0136-single-number",
+        "date": "January 12, 2026",
+        "solutions": 4
+      },
+      {
+        "number": "0001",
+        "title": "Two Sum",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0001-two-sum",
+        "date": "January 10, 2026",
+        "solutions": 4
+      },
+      {
+        "number": "1002",
+        "title": "Find Common Characters",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1002-find-common-characters",
+        "date": "March 02, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1365",
+        "title": "How Many Numbers Are Smaller Than the Current Number",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1365-how-many-numbers-are-smaller-than-the-current-number",
+        "date": "February 13, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1009",
+        "title": "Complement of Base 10 Integer",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1009-complement-of-base-10-integer",
+        "date": "March 11, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1128",
+        "title": "Number of Equivalent Domino Pairs",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1128-number-of-equivalent-domino-pairs",
+        "date": "March 10, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1480",
+        "title": "Running Sum of 1d Array",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1480-running-sum-of-1d-array",
+        "date": "February 26, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1394",
+        "title": "Find Lucky Integer in an Array",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1394-find-lucky-integer-in-an-array",
+        "date": "March 13, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1108",
+        "title": "Defanging an IP Address",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1108-defanging-an-ip-address",
+        "date": "January 18, 2026",
+        "solutions": 3
+      },
+      {
+        "number": "1351",
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "difficulty": "easy",
+        "path": "1. easy/1001-1500/1351-count-negative-numbers-in-a-sorted-matrix",
+        "date": "February 04, 2026",
         "solutions": 1
       }
     ]
@@ -472,27 +480,19 @@
     "count": 20,
     "problems": [
       {
+        "number": "0799",
+        "title": "Champagne Tower",
+        "difficulty": "medium",
+        "path": "2. medium/0501-1000/0799-champagne-tower",
+        "date": "February 14, 2026",
+        "solutions": 1
+      },
+      {
         "number": "2125",
         "title": "Number of Laser Beams in a Bank",
         "difficulty": "medium",
         "path": "2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank",
         "date": "January 31, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1877",
-        "title": "Minimize Maximum Pair Sum in Array",
-        "difficulty": "medium",
-        "path": "2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array",
-        "date": "January 24, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "1594",
-        "title": "Maximum Non Negative Product in a Matrix",
-        "difficulty": "medium",
-        "path": "2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix",
-        "date": "March 23, 2026",
         "solutions": 1
       },
       {
@@ -504,11 +504,11 @@
         "solutions": 1
       },
       {
-        "number": "1727",
-        "title": "Largest Submatrix With Rearrangements",
+        "number": "1594",
+        "title": "Maximum Non Negative Product in a Matrix",
         "difficulty": "medium",
-        "path": "2. medium/1501-2000/1727-largest-submatrix-with-rearrangements",
-        "date": "March 17, 2026",
+        "path": "2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix",
+        "date": "March 23, 2026",
         "solutions": 1
       },
       {
@@ -520,27 +520,19 @@
         "solutions": 2
       },
       {
-        "number": "1249",
-        "title": "Minimum Remove to Make Valid Parentheses",
+        "number": "1877",
+        "title": "Minimize Maximum Pair Sum in Array",
         "difficulty": "medium",
-        "path": "2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses",
-        "date": "January 28, 2026",
+        "path": "2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array",
+        "date": "January 24, 2026",
         "solutions": 1
       },
       {
-        "number": "1052",
-        "title": "Grumpy Bookstore Owner",
+        "number": "1727",
+        "title": "Largest Submatrix With Rearrangements",
         "difficulty": "medium",
-        "path": "2. medium/1001-1500/1052-grumpy-bookstore-owner",
-        "date": "January 26, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "2906",
-        "title": "Construct Product Matrix",
-        "difficulty": "medium",
-        "path": "2. medium/2501-3000/2906-construct-product-matrix",
-        "date": "March 24, 2026",
+        "path": "2. medium/1501-2000/1727-largest-submatrix-with-rearrangements",
+        "date": "March 17, 2026",
         "solutions": 1
       },
       {
@@ -549,14 +541,6 @@
         "difficulty": "medium",
         "path": "2. medium/2501-3000/3713-longest-balanced-substring-i",
         "date": "February 12, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3212",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "difficulty": "medium",
-        "path": "2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y",
-        "date": "March 19, 2026",
         "solutions": 1
       },
       {
@@ -576,19 +560,19 @@
         "solutions": 1
       },
       {
-        "number": "3546",
-        "title": "Equal Sum Grid Partition I",
+        "number": "3760",
+        "title": "Maximum Substrings With Distinct Start",
         "difficulty": "medium",
-        "path": "2. medium/2501-3000/3546-equal-sum-grid-partition-i",
-        "date": "March 25, 2026",
+        "path": "2. medium/2501-3000/3760-maximum-substrings-with-distinct-start",
+        "date": "February 07, 2026",
         "solutions": 1
       },
       {
-        "number": "3650",
-        "title": "Minimum Cost Path with Edge Reversals",
+        "number": "2906",
+        "title": "Construct Product Matrix",
         "difficulty": "medium",
-        "path": "2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals",
-        "date": "January 27, 2026",
+        "path": "2. medium/2501-3000/2906-construct-product-matrix",
+        "date": "March 24, 2026",
         "solutions": 1
       },
       {
@@ -600,22 +584,6 @@
         "solutions": 1
       },
       {
-        "number": "3315",
-        "title": "Construct the Minimum Bitwise Array II",
-        "difficulty": "medium",
-        "path": "2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii",
-        "date": "January 21, 2026",
-        "solutions": 1
-      },
-      {
-        "number": "3760",
-        "title": "Maximum Substrings With Distinct Start",
-        "difficulty": "medium",
-        "path": "2. medium/2501-3000/3760-maximum-substrings-with-distinct-start",
-        "date": "February 07, 2026",
-        "solutions": 1
-      },
-      {
         "number": "3070",
         "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
         "difficulty": "medium",
@@ -624,11 +592,51 @@
         "solutions": 1
       },
       {
-        "number": "0799",
-        "title": "Champagne Tower",
+        "number": "3546",
+        "title": "Equal Sum Grid Partition I",
         "difficulty": "medium",
-        "path": "2. medium/0501-1000/0799-champagne-tower",
-        "date": "February 14, 2026",
+        "path": "2. medium/2501-3000/3546-equal-sum-grid-partition-i",
+        "date": "March 25, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3212",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y",
+        "date": "March 19, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3315",
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3315-construct-the-minimum-bitwise-array-ii",
+        "date": "January 21, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3650",
+        "title": "Minimum Cost Path with Edge Reversals",
+        "difficulty": "medium",
+        "path": "2. medium/2501-3000/3650-minimum-cost-path-with-edge-reversals",
+        "date": "January 27, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1052",
+        "title": "Grumpy Bookstore Owner",
+        "difficulty": "medium",
+        "path": "2. medium/1001-1500/1052-grumpy-bookstore-owner",
+        "date": "January 26, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "1249",
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "difficulty": "medium",
+        "path": "2. medium/1001-1500/1249-minimum-remove-to-make-valid-parentheses",
+        "date": "January 28, 2026",
         "solutions": 1
       }
     ]
@@ -638,29 +646,19 @@
     "problems": []
   },
   "topics": {
-    "String": {
-      "easy": 21,
-      "medium": 6,
-      "hard": 0
-    },
     "Array": {
-      "easy": 33,
+      "easy": 34,
       "medium": 14,
       "hard": 0
     },
-    "Hash Table": {
-      "easy": 15,
-      "medium": 3,
-      "hard": 0
-    },
-    "Two Pointers": {
-      "easy": 6,
+    "Math": {
+      "easy": 10,
       "medium": 1,
       "hard": 0
     },
-    "Enumeration": {
-      "easy": 2,
-      "medium": 2,
+    "Greedy": {
+      "easy": 1,
+      "medium": 3,
       "hard": 0
     },
     "Sorting": {
@@ -668,24 +666,44 @@
       "medium": 4,
       "hard": 0
     },
-    "Simulation": {
-      "easy": 8,
-      "medium": 0,
-      "hard": 0
-    },
     "Bit Manipulation": {
       "easy": 7,
       "medium": 1,
       "hard": 0
     },
-    "Math": {
-      "easy": 9,
+    "Two Pointers": {
+      "easy": 6,
       "medium": 1,
       "hard": 0
     },
-    "Divide and Conquer": {
-      "easy": 1,
-      "medium": 1,
+    "String": {
+      "easy": 21,
+      "medium": 6,
+      "hard": 0
+    },
+    "Hash Table": {
+      "easy": 15,
+      "medium": 3,
+      "hard": 0
+    },
+    "Binary Search": {
+      "easy": 2,
+      "medium": 0,
+      "hard": 0
+    },
+    "Simulation": {
+      "easy": 9,
+      "medium": 0,
+      "hard": 0
+    },
+    "Enumeration": {
+      "easy": 2,
+      "medium": 2,
+      "hard": 0
+    },
+    "Sliding Window": {
+      "easy": 2,
+      "medium": 2,
       "hard": 0
     },
     "Stack": {
@@ -699,18 +717,18 @@
       "hard": 0
     },
     "Matrix": {
-      "easy": 3,
+      "easy": 4,
       "medium": 8,
       "hard": 0
     },
-    "Sliding Window": {
-      "easy": 2,
-      "medium": 2,
+    "Recursion": {
+      "easy": 1,
+      "medium": 0,
       "hard": 0
     },
-    "Binary Search": {
-      "easy": 2,
-      "medium": 0,
+    "Divide and Conquer": {
+      "easy": 1,
+      "medium": 1,
       "hard": 0
     },
     "Counting Sort": {
@@ -723,19 +741,14 @@
       "medium": 6,
       "hard": 0
     },
-    "Recursion": {
-      "easy": 1,
-      "medium": 0,
-      "hard": 0
-    },
-    "Greedy": {
-      "easy": 1,
-      "medium": 3,
-      "hard": 0
-    },
     "Dynamic Programming": {
       "easy": 0,
       "medium": 2,
+      "hard": 0
+    },
+    "Segment Tree": {
+      "easy": 0,
+      "medium": 1,
       "hard": 0
     },
     "Graph Theory": {
@@ -752,14 +765,9 @@
       "easy": 0,
       "medium": 1,
       "hard": 0
-    },
-    "Segment Tree": {
-      "easy": 0,
-      "medium": 1,
-      "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-25T17:04:27.236535"
+  "last_updated": "2026-03-27T16:37:24.578510"
 }
