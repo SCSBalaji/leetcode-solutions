@@ -1,6 +1,6 @@
 # Topics Breakdown
 
-**Last Updated:** March 27, 2026
+**Last Updated:** March 28, 2026
 
 ---
 
@@ -68,9 +68,9 @@
 
 ---
 
-## String (27 problems)
+## String (28 problems)
 
-- 🟢 Easy: 21
+- 🟢 Easy: 22
 - 🟡 Medium: 6
 - 🔴 Hard: 0
 
@@ -88,6 +88,7 @@
 - [1784. Check if Binary String Has at Most One Segment of Ones](../1. easy/1501-2000/1784-check-if-binary-string-has-at-most-one-segment-of-ones)
 - [1935. Maximum Number of Words You Can Type](../1. easy/1501-2000/1935-maximum-number-of-words-you-can-type)
 - [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
+- [3280. Convert Date to Binary](../1. easy/2501-3000/3280-convert-date-to-binary)
 - [3258. Count Substrings That Satisfy K-Constraint I](../1. easy/2501-3000/3258-count-substrings-that-satisfy-k-constraint-i)
 - [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
 - [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
@@ -164,6 +165,46 @@
 
 ---
 
+## Math (12 problems)
+
+- 🟢 Easy: 11
+- 🟡 Medium: 1
+- 🔴 Hard: 0
+
+### Problems:
+
+- [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
+- [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
+- [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
+- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
+- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
+- [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
+- [2769. Find the Maximum Achievable Number](../1. easy/2501-3000/2769-find-the-maximum-achievable-number)
+- [2946. Matrix Similarity After Cyclic Shifts](../1. easy/2501-3000/2946-matrix-similarity-after-cyclic-shifts)
+- [3280. Convert Date to Binary](../1. easy/2501-3000/3280-convert-date-to-binary)
+- [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
+- [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
+- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
+- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
+- [2894. Divisible and Non-divisible Sums Difference](../1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference)
+- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
+- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
+- [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
+- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
+- [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
+- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
+- [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
+- [1394. Find Lucky Integer in an Array](../1. easy/1001-1500/1394-find-lucky-integer-in-an-array)
+- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](../2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
+- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
+- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
+
+---
+
 ## Matrix (12 problems)
 
 - 🟢 Easy: 4
@@ -184,45 +225,6 @@
 - [3070. Count Submatrices with Top-Left Element and Sum Less Than k](../2. medium/2501-3000/3070-count-submatrices-with-top-left-element-and-sum-less-than-k)
 - [3546. Equal Sum Grid Partition I](../2. medium/2501-3000/3546-equal-sum-grid-partition-i)
 - [3212. Count Submatrices With Equal Frequency of X and Y](../2. medium/2501-3000/3212-count-submatrices-with-equal-frequency-of-x-and-y)
-
----
-
-## Math (11 problems)
-
-- 🟢 Easy: 10
-- 🟡 Medium: 1
-- 🔴 Hard: 0
-
-### Problems:
-
-- [0976. Largest Perimeter Triangle](../1. easy/0501-1000/0976-largest-perimeter-triangle)
-- [0674. Longest Continuous Increasing Subsequence](../1. easy/0501-1000/0674-longest-continuous-increasing-subsequence)
-- [0762. Prime Number of Set Bits in Binary Representation](../1. easy/0501-1000/0762-prime-number-of-set-bits-in-binary-representation)
-- [0888. Fair Candy Swap](../1. easy/0501-1000/0888-fair-candy-swap)
-- [1984. Minimum Difference Between Highest and Lowest of K Scores](../1. easy/1501-2000/1984-minimum-difference-between-highest-and-lowest-of-k-scores)
-- [1672. Richest Customer Wealth](../1. easy/1501-2000/1672-richest-customer-wealth)
-- [1758. Minimum Changes To Make Alternating Binary String](../1. easy/1501-2000/1758-minimum-changes-to-make-alternating-binary-string)
-- [2769. Find the Maximum Achievable Number](../1. easy/2501-3000/2769-find-the-maximum-achievable-number)
-- [2946. Matrix Similarity After Cyclic Shifts](../1. easy/2501-3000/2946-matrix-similarity-after-cyclic-shifts)
-- [3794. Reverse String Prefix](../1. easy/2501-3000/3794-reverse-string-prefix)
-- [3512. Minimum Operations to Make Array Sum Divisible by K](../1. easy/2501-3000/3512-minimum-operations-to-make-array-sum-divisible-by-k)
-- [3110. Score of a String](../1. easy/2501-3000/3110-score-of-a-string)
-- [3304. Find the K-th Character in String Game I](../1. easy/2501-3000/3304-find-the-k-th-character-in-string-game-i)
-- [3541. Find Most Frequent Vowel and Consonant](../1. easy/2501-3000/3541-find-most-frequent-vowel-and-consonant)
-- [2894. Divisible and Non-divisible Sums Difference](../1. easy/2501-3000/2894-divisible-and-non-divisible-sums-difference)
-- [3498. Reverse Degree of a String](../1. easy/2501-3000/3498-reverse-degree-of-a-string)
-- [3637. Trionic Array I](../1. easy/2501-3000/3637-trionic-array-i)
-- [0009. Palindrome Number](../1. easy/0000-0500/0009-palindrome-number)
-- [0013. Roman to Integer](../1. easy/0000-0500/0013-roman-to-integer)
-- [0066. Plus One](../1. easy/0000-0500/0066-plus-one)
-- [0136. Single Number](../1. easy/0000-0500/0136-single-number)
-- [1002. Find Common Characters](../1. easy/1001-1500/1002-find-common-characters)
-- [1394. Find Lucky Integer in an Array](../1. easy/1001-1500/1394-find-lucky-integer-in-an-array)
-- [2125. Number of Laser Beams in a Bank](../2. medium/2001-2500/2125-number-of-laser-beams-in-a-bank)
-- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](../2. medium/1501-2000/1689-partitioning-into-minimum-number-of-deci-binary-numbers)
-- [1769. Minimum Number of Operations to Move All Balls to Each Box](../2. medium/1501-2000/1769-minimum-number-of-operations-to-move-all-balls-to-each-box)
-- [1877. Minimize Maximum Pair Sum in Array](../2. medium/1501-2000/1877-minimize-maximum-pair-sum-in-array)
-- [1052. Grumpy Bookstore Owner](../2. medium/1001-1500/1052-grumpy-bookstore-owner)
 
 ---
 

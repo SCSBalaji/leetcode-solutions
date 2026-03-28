@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 59,
+    "count": 60,
     "problems": [
       {
         "number": "0976",
@@ -208,6 +208,14 @@
         "difficulty": "easy",
         "path": "1. easy/2501-3000/2946-matrix-similarity-after-cyclic-shifts",
         "date": "March 27, 2026",
+        "solutions": 1
+      },
+      {
+        "number": "3280",
+        "title": "Convert Date to Binary",
+        "difficulty": "easy",
+        "path": "1. easy/2501-3000/3280-convert-date-to-binary",
+        "date": "March 28, 2026",
         "solutions": 1
       },
       {
@@ -652,7 +660,7 @@
       "hard": 0
     },
     "Math": {
-      "easy": 10,
+      "easy": 11,
       "medium": 1,
       "hard": 0
     },
@@ -677,7 +685,7 @@
       "hard": 0
     },
     "String": {
-      "easy": 21,
+      "easy": 22,
       "medium": 6,
       "hard": 0
     },
@@ -769,5 +777,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-03-27T16:37:24.578510"
+  "last_updated": "2026-03-28T17:08:26.859438"
 }
