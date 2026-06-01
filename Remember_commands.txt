@@ -1,0 +1,16 @@
+python scripts/schedule_review.py due
+python scripts/schedule_review.py schedule
+python scripts/schedule_review.py mark <#>
+
+
+python scripts/create_problem.py 1458 "Max Dot Product of Two Subsequences" hard "Array,Dynamic Programming"
+
+python scripts/add_solution.py 1458 "brute-force" TLE'
+
+[Add] Implement solutions for Percentage of Letter in String problem
+
+
+python scripts/batch_operations.py list       - List all problems and solutions
+python scripts/batch_operations.py stats      - Show quick statistics
+python scripts/batch_operations.py find <q>   - Search for a problem
+python scripts/batch_operations.py streak     - Show current streak

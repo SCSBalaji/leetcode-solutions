@@ -25,8 +25,12 @@ def create_problem(number, title, difficulty, topics, companies="", link=""):
         range_folder = "1501-2000"
     elif num <= 2500:
         range_folder = "2001-2500"
-    else:
+    elif num <= 3000:
         range_folder = "2501-3000"
+    elif num <= 3500:
+        range_folder = "3001-3500"
+    else:
+        range_folder = "3501-4000"
     
     difficulty_map = {
         'easy': '1. easy',
@@ -81,30 +85,7 @@ Output:
 
 ---
 
-## Solutions
-
-### ⭐ Solution 1: [Approach Name]
-**File:** `Solution1.java`  
-**Status:** ✅ Accepted / ❌ TLE / ❌ MLE / ⚠️ Wrong Answer
-
-**Approach:**
-- 
-
-**Complexity:**
-- ⏱️ Time: O()
-- 💾 Space: O()
-
----
-
-## Key Insights
-
-- 
-
----
-
 **Date Solved:** {datetime.now().strftime('%B %d, %Y')}  
-**Review Count:** 0  
-**Next Review:** {datetime.now().strftime('%B %d, %Y')}
 """
     
     with open(os.path.join(problem_path, "README.md"), 'w', encoding='utf-8') as f:
@@ -115,7 +96,7 @@ Output:
     solution_content = f"""import java.util.*;
 // LeetCode #{problem_num}: {title}
 // Approach: [Approach Name]
-// Status: ✅ Accepted / ❌ TLE / ❌ MLE
+// Status: ✅ Accepted
 // Time: O()  |  Space: O()
 
 class Solution {{
