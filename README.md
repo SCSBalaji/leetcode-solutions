@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 60    | 921   | 6.5%      |
-| 🟡 Medium  | 20     | 1982  | 1.0%       |
+| 🟢 Easy    | 0    | 921   | 0.0%      |
+| 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **80**| **3802** | **2.1%** |
+| **Total**  | **0**| **3802** | **0.0%** |
 
-**Last Updated:** March 28, 2026
+**Last Updated:** June 01, 2026
 
 ---
 
@@ -33,46 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Convert Date to Binary](1. easy/2501-3000/3280-convert-date-to-binary) | 🟢 Easy | 1 Java | March 28, 2026 |
-| 2 | [Matrix Similarity After Cyclic Shifts](1. easy/2501-3000/2946-matrix-similarity-after-cyclic-shifts) | 🟢 Easy | 1 Java | March 27, 2026 |
-| 3 | [Equal Sum Grid Partition I](2. medium/2501-3000/3546-equal-sum-grid-partition-i) | 🟡 Medium | 1 Java | March 25, 2026 |
-| 4 | [Construct Product Matrix](2. medium/2501-3000/2906-construct-product-matrix) | 🟡 Medium | 1 Java | March 24, 2026 |
-| 5 | [Maximum Non Negative Product in a Matrix](2. medium/1501-2000/1594-maximum-non-negative-product-in-a-matrix) | 🟡 Medium | 1 Java | March 23, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
-
-### Array (48)
-- Easy: 34 | Medium: 14 | Hard: 0
-
-### String (28)
-- Easy: 22 | Medium: 6 | Hard: 0
-
-### Hash Table (18)
-- Easy: 15 | Medium: 3 | Hard: 0
-
-### Sorting (13)
-- Easy: 9 | Medium: 4 | Hard: 0
-
-### Math (12)
-- Easy: 11 | Medium: 1 | Hard: 0
-
-### Matrix (12)
-- Easy: 4 | Medium: 8 | Hard: 0
-
-### Simulation (9)
-- Easy: 9 | Medium: 0 | Hard: 0
-
-### Bit Manipulation (8)
-- Easy: 7 | Medium: 1 | Hard: 0
-
-### Two Pointers (7)
-- Easy: 6 | Medium: 1 | Hard: 0
-
-### Prefix Sum (7)
-- Easy: 1 | Medium: 6 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)
