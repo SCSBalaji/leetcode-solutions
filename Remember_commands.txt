@@ -1,16 +1,16 @@
 python scripts/schedule_review.py due
 python scripts/schedule_review.py schedule
-python scripts/schedule_review.py mark 102
+python scripts/schedule_review.py mark 94
 
 
-python scripts/create_problem.py 102 "Binary Tree Level Order Traversal" medium "Tree, Breadth-First Search, Binary Tree"
+python scripts/create_problem.py 94 "Binary Tree Inorder Traversal" easy "Stack, Tree, Depth-First Search, Binary Tree"
 
-python scripts/add_solution.py 102 "BFS with Level-Size Trick" Accepted
+python scripts/add_solution.py 94 "Iterative using Stack" Accepted
 python scripts/add_solution.py 144 "brute-force" TLE
 
 ![Image](./1.png)
 
-[Add] Implement solutions for Binary Tree Level Order Traversal problem
+[Add] Implement solutions for Binary Tree Inorder Traversal problem
 
 
 python scripts/batch_operations.py list       - List all problems and solutions
