@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 0    | 921   | 0.0%      |
+| 🟢 Easy    | 1    | 921   | 0.1%      |
 | 🟡 Medium  | 0     | 1982  | 0.0%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **0**| **3802** | **0.0%** |
+| **Total**  | **1**| **3802** | **0.0%** |
 
-**Last Updated:** June 01, 2026
+**Last Updated:** June 02, 2026
 
 ---
 
@@ -33,11 +33,24 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
+| 1 | [Binary Tree Preorder Traversal](1. easy/0000-0500/0144-binary-tree-preorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
+
+### Stack (1)
+- Easy: 1 | Medium: 0 | Hard: 0
+
+### Tree (1)
+- Easy: 1 | Medium: 0 | Hard: 0
+
+### Depth-First Search (1)
+- Easy: 1 | Medium: 0 | Hard: 0
+
+### Binary Tree (1)
+- Easy: 1 | Medium: 0 | Hard: 0
 
 
 [See complete topic breakdown →](stats/topics.md)

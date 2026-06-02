@@ -1,7 +1,16 @@
 {
   "easy": {
-    "count": 0,
-    "problems": []
+    "count": 1,
+    "problems": [
+      {
+        "number": "0144",
+        "title": "Binary Tree Preorder Traversal",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0144-binary-tree-preorder-traversal",
+        "date": "June 02, 2026",
+        "solutions": 2
+      }
+    ]
   },
   "medium": {
     "count": 0,
@@ -11,8 +20,29 @@
     "count": 0,
     "problems": []
   },
-  "topics": {},
+  "topics": {
+    "Stack": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Tree": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Depth-First Search": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    },
+    "Binary Tree": {
+      "easy": 1,
+      "medium": 0,
+      "hard": 0
+    }
+  },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-06-01T14:31:25.456743"
+  "last_updated": "2026-06-02T16:18:37.363150"
 }
