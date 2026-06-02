@@ -13,8 +13,17 @@
     ]
   },
   "medium": {
-    "count": 0,
-    "problems": []
+    "count": 1,
+    "problems": [
+      {
+        "number": "0102",
+        "title": "Binary Tree Level Order Traversal",
+        "difficulty": "medium",
+        "path": "2. medium/0000-0500/0102-binary-tree-level-order-traversal",
+        "date": "June 02, 2026",
+        "solutions": 3
+      }
+    ]
   },
   "hard": {
     "count": 0,
@@ -28,7 +37,7 @@
     },
     "Tree": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "Depth-First Search": {
@@ -38,11 +47,16 @@
     },
     "Binary Tree": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
+      "hard": 0
+    },
+    "Breadth-First Search": {
+      "easy": 0,
+      "medium": 1,
       "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-06-02T16:18:37.363150"
+  "last_updated": "2026-06-02T17:31:05.470839"
 }
