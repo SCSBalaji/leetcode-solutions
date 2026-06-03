@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 2,
+    "count": 3,
     "problems": [
       {
         "number": "0094",
@@ -17,6 +17,14 @@
         "path": "1. easy/0000-0500/0144-binary-tree-preorder-traversal",
         "date": "June 02, 2026",
         "solutions": 2
+      },
+      {
+        "number": "0783",
+        "title": "Minimum Distance Between BST Nodes",
+        "difficulty": "easy",
+        "path": "1. easy/0501-1000/0783-minimum-distance-between-bst-nodes",
+        "date": "June 03, 2026",
+        "solutions": 3
       }
     ]
   },
@@ -44,27 +52,32 @@
       "hard": 0
     },
     "Tree": {
-      "easy": 2,
+      "easy": 3,
       "medium": 1,
       "hard": 0
     },
     "Depth-First Search": {
-      "easy": 2,
+      "easy": 3,
       "medium": 0,
       "hard": 0
     },
     "Binary Tree": {
-      "easy": 2,
+      "easy": 3,
       "medium": 1,
       "hard": 0
     },
     "Breadth-First Search": {
-      "easy": 0,
+      "easy": 1,
       "medium": 1,
+      "hard": 0
+    },
+    "Binary Search Tree": {
+      "easy": 1,
+      "medium": 0,
       "hard": 0
     }
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-06-02T17:57:18.775801"
+  "last_updated": "2026-06-03T16:40:46.468838"
 }
