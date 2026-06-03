@@ -6,10 +6,10 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 3    | 921   | 0.3%      |
+| 🟢 Easy    | 4    | 921   | 0.4%      |
 | 🟡 Medium  | 1     | 1982  | 0.1%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **4**| **3802** | **0.1%** |
+| **Total**  | **5**| **3802** | **0.1%** |
 
 **Last Updated:** June 03, 2026
 
@@ -33,30 +33,31 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Minimum Distance Between BST Nodes](1. easy/0501-1000/0783-minimum-distance-between-bst-nodes) | 🟢 Easy | 3 Java | June 03, 2026 |
-| 2 | [Binary Tree Inorder Traversal](1. easy/0000-0500/0094-binary-tree-inorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
-| 3 | [Binary Tree Preorder Traversal](1. easy/0000-0500/0144-binary-tree-preorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
-| 4 | [Binary Tree Level Order Traversal](2. medium/0000-0500/0102-binary-tree-level-order-traversal) | 🟡 Medium | 3 Java | June 02, 2026 |
+| 1 | [Symmetric Tree](1. easy/0000-0500/0101-symmetric-tree) | 🟢 Easy | 3 Java | June 03, 2026 |
+| 2 | [Minimum Distance Between BST Nodes](1. easy/0501-1000/0783-minimum-distance-between-bst-nodes) | 🟢 Easy | 3 Java | June 03, 2026 |
+| 3 | [Binary Tree Inorder Traversal](1. easy/0000-0500/0094-binary-tree-inorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
+| 4 | [Binary Tree Preorder Traversal](1. easy/0000-0500/0144-binary-tree-preorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
+| 5 | [Binary Tree Level Order Traversal](2. medium/0000-0500/0102-binary-tree-level-order-traversal) | 🟡 Medium | 3 Java | June 02, 2026 |
 
 
 ---
 
 ## 📚 Problems by Topic (Top 10)
 
-### Tree (4)
-- Easy: 3 | Medium: 1 | Hard: 0
+### Tree (5)
+- Easy: 4 | Medium: 1 | Hard: 0
 
-### Binary Tree (4)
-- Easy: 3 | Medium: 1 | Hard: 0
+### Binary Tree (5)
+- Easy: 4 | Medium: 1 | Hard: 0
 
-### Depth-First Search (3)
-- Easy: 3 | Medium: 0 | Hard: 0
+### Depth-First Search (4)
+- Easy: 4 | Medium: 0 | Hard: 0
+
+### Breadth-First Search (3)
+- Easy: 2 | Medium: 1 | Hard: 0
 
 ### Stack (2)
 - Easy: 2 | Medium: 0 | Hard: 0
-
-### Breadth-First Search (2)
-- Easy: 1 | Medium: 1 | Hard: 0
 
 ### Binary Search Tree (1)
 - Easy: 1 | Medium: 0 | Hard: 0
