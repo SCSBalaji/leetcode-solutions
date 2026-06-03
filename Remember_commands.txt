@@ -1,16 +1,16 @@
 python scripts/schedule_review.py due
 python scripts/schedule_review.py schedule
-python scripts/schedule_review.py mark 94
+python scripts/schedule_review.py mark 783
 
 
-python scripts/create_problem.py 94 "Binary Tree Inorder Traversal" easy "Stack, Tree, Depth-First Search, Binary Tree"
+python scripts/create_problem.py 783 "Minimum Distance Between BST Nodes" easy "Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree"
 
-python scripts/add_solution.py 94 "Iterative using Stack" Accepted
+python scripts/add_solution.py 783 "Iterative Inorder with Stack" Accepted
 python scripts/add_solution.py 144 "brute-force" TLE
 
 ![Image](./1.png)
 
-[Add] Implement solutions for Binary Tree Inorder Traversal problem
+[Add] Implement solutions for Minimum Distance Between BST Nodes problem
 
 
 python scripts/batch_operations.py list       - List all problems and solutions
