@@ -1,7 +1,15 @@
 {
   "easy": {
-    "count": 4,
+    "count": 5,
     "problems": [
+      {
+        "number": "0145",
+        "title": "Binary Tree Postorder Traversal",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0145-binary-tree-postorder-traversal",
+        "date": "June 03, 2026",
+        "solutions": 3
+      },
       {
         "number": "0094",
         "title": "Binary Tree Inorder Traversal",
@@ -55,22 +63,22 @@
   },
   "topics": {
     "Stack": {
-      "easy": 2,
+      "easy": 3,
       "medium": 0,
       "hard": 0
     },
     "Tree": {
-      "easy": 4,
+      "easy": 5,
       "medium": 1,
       "hard": 0
     },
     "Depth-First Search": {
-      "easy": 4,
+      "easy": 5,
       "medium": 0,
       "hard": 0
     },
     "Binary Tree": {
-      "easy": 4,
+      "easy": 5,
       "medium": 1,
       "hard": 0
     },
@@ -87,5 +95,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-06-03T17:10:51.563914"
+  "last_updated": "2026-06-03T17:44:45.410696"
 }
