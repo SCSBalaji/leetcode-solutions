@@ -1,17 +1,17 @@
 python scripts/schedule_review.py due
 python scripts/schedule_review.py schedule
-python scripts/schedule_review.py mark 101
+python scripts/schedule_review.py mark 145
 
 
-python scripts/create_problem.py 101 "Symmetric Tree" easy "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+python scripts/create_problem.py 145 "Binary Tree Postorder Traversal" easy "Stack, Tree, Depth-First Search, Binary Tree"
 
-python scripts/add_solution.py 101 "Iterative using Stack" Accepted
+python scripts/add_solution.py 145 "Iterative — One Stack with prev Pointer" Accepted
 python scripts/add_solution.py 144 "brute-force" TLE
 
 ![Image](./1.png)
 ![Image](./1.jpg)
 
-[Add] Implement solutions for Symmetric Tree problem
+[Add] Implement solutions for Binary Tree Postorder Traversal problem
 
 
 python scripts/batch_operations.py list       - List all problems and solutions
