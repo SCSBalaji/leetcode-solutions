@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 3,
+    "count": 4,
     "problems": [
       {
         "number": "0094",
@@ -9,6 +9,14 @@
         "path": "1. easy/0000-0500/0094-binary-tree-inorder-traversal",
         "date": "June 02, 2026",
         "solutions": 2
+      },
+      {
+        "number": "0101",
+        "title": "Symmetric Tree",
+        "difficulty": "easy",
+        "path": "1. easy/0000-0500/0101-symmetric-tree",
+        "date": "June 03, 2026",
+        "solutions": 3
       },
       {
         "number": "0144",
@@ -52,22 +60,22 @@
       "hard": 0
     },
     "Tree": {
-      "easy": 3,
+      "easy": 4,
       "medium": 1,
       "hard": 0
     },
     "Depth-First Search": {
-      "easy": 3,
+      "easy": 4,
       "medium": 0,
       "hard": 0
     },
     "Binary Tree": {
-      "easy": 3,
+      "easy": 4,
       "medium": 1,
       "hard": 0
     },
     "Breadth-First Search": {
-      "easy": 1,
+      "easy": 2,
       "medium": 1,
       "hard": 0
     },
@@ -79,5 +87,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-06-03T16:40:46.468838"
+  "last_updated": "2026-06-03T17:10:51.563914"
 }
