@@ -29,8 +29,10 @@ def create_problem(number, title, difficulty, topics, companies="", link=""):
         range_folder = "2501-3000"
     elif num <= 3500:
         range_folder = "3001-3500"
-    else:
+    elif num <= 4000:
         range_folder = "3501-4000"
+    else:
+        range_folder = "4001-4500"
     
     difficulty_map = {
         'easy': '1. easy',
