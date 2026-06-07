@@ -6,12 +6,12 @@ My personal collection of LeetCode problem solutions in **Java** with multiple a
 
 | Difficulty | Solved | Total | Percentage |
 |------------|--------|-------|------------|
-| 🟢 Easy    | 5    | 921   | 0.5%      |
+| 🟢 Easy    | 6    | 921   | 0.7%      |
 | 🟡 Medium  | 1     | 1982  | 0.1%       |
 | 🔴 Hard    | 0     | 899   | 0.0%       |
-| **Total**  | **6**| **3802** | **0.2%** |
+| **Total**  | **7**| **3802** | **0.2%** |
 
-**Last Updated:** June 03, 2026
+**Last Updated:** June 07, 2026
 
 ---
 
@@ -33,11 +33,11 @@ leetcode-solutions/
 
 | # | Title | Difficulty | Solutions | Date |
 |---|-------|------------|-----------|------|
-| 1 | [Binary Tree Postorder Traversal](1. easy/0000-0500/0145-binary-tree-postorder-traversal) | 🟢 Easy | 3 Java | June 03, 2026 |
-| 2 | [Symmetric Tree](1. easy/0000-0500/0101-symmetric-tree) | 🟢 Easy | 3 Java | June 03, 2026 |
-| 3 | [Minimum Distance Between BST Nodes](1. easy/0501-1000/0783-minimum-distance-between-bst-nodes) | 🟢 Easy | 3 Java | June 03, 2026 |
-| 4 | [Binary Tree Inorder Traversal](1. easy/0000-0500/0094-binary-tree-inorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
-| 5 | [Binary Tree Preorder Traversal](1. easy/0000-0500/0144-binary-tree-preorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
+| 1 | [Sum of Compatible Numbers in Range I](1. easy/3501-4000/3954-sum-of-compatible-numbers-in-range-i) | 🟢 Easy | 1 Java | June 07, 2026 |
+| 2 | [Binary Tree Postorder Traversal](1. easy/0000-0500/0145-binary-tree-postorder-traversal) | 🟢 Easy | 3 Java | June 03, 2026 |
+| 3 | [Symmetric Tree](1. easy/0000-0500/0101-symmetric-tree) | 🟢 Easy | 3 Java | June 03, 2026 |
+| 4 | [Minimum Distance Between BST Nodes](1. easy/0501-1000/0783-minimum-distance-between-bst-nodes) | 🟢 Easy | 3 Java | June 03, 2026 |
+| 5 | [Binary Tree Inorder Traversal](1. easy/0000-0500/0094-binary-tree-inorder-traversal) | 🟢 Easy | 2 Java | June 02, 2026 |
 
 
 ---

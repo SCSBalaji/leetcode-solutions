@@ -1,6 +1,6 @@
 {
   "easy": {
-    "count": 5,
+    "count": 6,
     "problems": [
       {
         "number": "0145",
@@ -41,6 +41,14 @@
         "path": "1. easy/0501-1000/0783-minimum-distance-between-bst-nodes",
         "date": "June 03, 2026",
         "solutions": 3
+      },
+      {
+        "number": "3954",
+        "title": "Sum of Compatible Numbers in Range I",
+        "difficulty": "easy",
+        "path": "1. easy/3501-4000/3954-sum-of-compatible-numbers-in-range-i",
+        "date": "June 07, 2026",
+        "solutions": 1
       }
     ]
   },
@@ -95,5 +103,5 @@
   },
   "companies": {},
   "language": "Java",
-  "last_updated": "2026-06-03T17:44:45.410696"
+  "last_updated": "2026-06-07T17:35:36.388342"
 }
