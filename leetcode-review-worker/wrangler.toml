@@ -1,0 +1,24 @@
+name = "leetcode-review-worker"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+# Plain configuration values — NOT secret, safe to commit to git.
+# These just tell the Worker which repo to talk to and which origin
+# is allowed to call it.
+[vars]
+GITHUB_OWNER = "scsbalaji"
+GITHUB_REPO = "leetcode-solutions"
+ALLOWED_ORIGIN = "https://yourdomain.com"
+
+# Secrets are NOT set here. Set them once via the CLI, and Cloudflare
+# stores them encrypted — they never appear in this file or in git:
+#
+#   wrangler secret put GITHUB_TOKEN
+#   wrangler secret put WORKER_SECRET
+#
+# GITHUB_TOKEN  = the fine-grained PAT you already created and tested
+#                 with curl (Contents: Read and write, scoped to this repo)
+# WORKER_SECRET = a random string you generate yourself, e.g. with:
+#                 openssl rand -hex 32
+#                 The frontend sends this same value back in the
+#                 X-Worker-Secret header on every request.
