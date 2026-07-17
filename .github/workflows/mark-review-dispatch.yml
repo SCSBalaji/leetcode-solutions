@@ -1,0 +1,70 @@
+name: Mark Review (Website Trigger)
+
+# Fires when the review website sends a repository_dispatch event.
+# The Cloudflare Worker calls the GitHub API with:
+#   { "event_type": "mark-review", "client_payload": { "problem": "<number>" } }
+on:
+  repository_dispatch:
+    types: [mark-review]
+
+jobs:
+  mark-reviewed:
+    runs-on: ubuntu-latest
+
+    # Default GITHUB_TOKEN is read-only unless explicitly granted write access.
+    # This job commits back to the repo, so it needs contents: write.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate payload
+        id: validate
+        run: |
+          PROBLEM="${{ github.event.client_payload.problem }}"
+          if [ -z "$PROBLEM" ]; then
+            echo "❌ No problem number was sent in client_payload.problem"
+            exit 1
+          fi
+          echo "problem=$PROBLEM" >> "$GITHUB_OUTPUT"
+          echo "Received problem number: $PROBLEM"
+
+      - name: Mark problem as reviewed
+        id: mark
+        run: |
+          PROBLEM="${{ steps.validate.outputs.problem }}"
+          OUTPUT=$(python scripts/schedule_review.py mark "$PROBLEM" 2>&1)
+          echo "$OUTPUT"
+
+          # mark_reviewed() in schedule_review.py doesn't raise on a bad
+          # problem number — it prints "not found" and returns normally,
+          # which would otherwise make this step report success even
+          # though nothing happened. Catch that explicitly here so a bad
+          # problem number shows up as a failed run in the Actions log
+          # instead of a silent no-op.
+          if echo "$OUTPUT" | grep -q "not found"; then
+            echo "❌ Problem #$PROBLEM was not found in the repo — failing this run."
+            exit 1
+          fi
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          PROBLEM="${{ steps.validate.outputs.problem }}"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add stats/reviews.json
+          git commit -m "[Review] #$PROBLEM: marked as reviewed via website"
+          git push
