@@ -329,28 +329,6 @@ def save_stats_json(stats):
     
     print("✅ Saved stats/data.json")
 
-def save_paths_json(stats):
-    """
-    Save a flat problem-number -> folder-path lookup for the review website.
-
-    Keys match the zero-padded number used as the folder prefix (e.g. "0094",
-    "3954"), which is the same format schedule_review.py uses as keys in
-    stats/reviews.json. This lets the site take a due problem number straight
-    from reviews.json and look up where its README/Solution files live,
-    without re-scanning the whole repo client-side.
-    """
-    os.makedirs('stats', exist_ok=True)
-
-    paths = {}
-    for difficulty in ['easy', 'medium', 'hard']:
-        for problem in stats[difficulty]['problems']:
-            paths[problem['number']] = problem['path'].replace(os.sep, '/')
-
-    with open('stats/paths.json', 'w', encoding='utf-8') as f:
-        json.dump(paths, f, indent=2, sort_keys=True)
-
-    print(f"✅ Saved stats/paths.json ({len(paths)} problems)")
-
 if __name__ == "__main__":
     print("🔄 Scanning problems...")
     stats = scan_problems()
@@ -359,7 +337,6 @@ if __name__ == "__main__":
     update_root_readme(stats)
     update_topics_md(stats)
     save_stats_json(stats)
-    save_paths_json(stats)
     
     print("\n✨ Statistics updated successfully!")
     print(f"\nSummary:")
