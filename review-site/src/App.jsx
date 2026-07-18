@@ -9,6 +9,8 @@ import {
   buildProblemIndex,
   computeDueList,
   todayAsString,
+  pruneRecentlyMarked,
+  recordRecentlyMarked,
 } from "./api.js";
 
 export default function App() {
@@ -18,6 +20,12 @@ export default function App() {
   const [problemIndex, setProblemIndex] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  // Pruned recently-marked-reviewed overrides — see api.js for why this
+  // exists. Recomputed every time fresh reviewsData is fetched, since a
+  // fresh fetch is exactly the moment we can check whether GitHub's data
+  // has finally caught up on any pending mark.
+  const [recentlyMarked, setRecentlyMarked] = useState({});
 
   const [selectedProblemId, setSelectedProblemId] = useState(null);
 
@@ -36,6 +44,13 @@ export default function App() {
         if (cancelled) return;
         setReviewsData(reviews);
         setProblemIndex(buildProblemIndex(stats));
+        // Reconcile the local override against this freshly-fetched data
+        // right away — this is the step that fixes the reload race: even
+        // if `reviews` here is stale (GitHub's commit hasn't landed yet),
+        // the previously-recorded override survives in localStorage and
+        // gets applied below, so the just-marked problem stays hidden
+        // instead of reappearing as due.
+        setRecentlyMarked(pruneRecentlyMarked(reviews, todayAsString()));
       })
       .catch((err) => {
         if (cancelled) return;
@@ -55,7 +70,9 @@ export default function App() {
     return <SecretPrompt onSaved={setSecret} />;
   }
 
-  const dueList = reviewsData ? computeDueList(reviewsData, todayAsString()) : [];
+  const dueList = reviewsData
+    ? computeDueList(reviewsData, todayAsString(), recentlyMarked)
+    : [];
 
   function handleSelectProblem(problemId) {
     setSelectedProblemId(problemId);
@@ -72,8 +89,17 @@ export default function App() {
    * re-fetch reviews.json (which wouldn't reflect the change yet anyway,
    * since the commit takes a few seconds to land on GitHub after the
    * Worker call returns).
+   *
+   * Also records the mark in localStorage via recordRecentlyMarked, so
+   * this survives a page reload — not just the in-memory state update
+   * above. Without this half, a reload right after marking (before
+   * GitHub's commit has actually landed) would re-fetch stale data that
+   * still shows the problem as due, causing it to reappear and risking
+   * a genuine double mark on GitHub. See api.js for the full explanation.
    */
   function handleMarkedReviewed(problemId) {
+    recordRecentlyMarked(problemId);
+    setRecentlyMarked((prev) => ({ ...prev, [problemId]: Date.now() }));
     setReviewsData((prev) => {
       if (!prev || !prev[problemId]) return prev;
       const updated = { ...prev };

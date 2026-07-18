@@ -1,44 +1,44 @@
 {
   "0144": {
     "title": "Binary Tree Preorder Traversal",
-    "review_count": 4,
-    "last_reviewed": "2026-07-18",
-    "next_review": "2026-08-01"
+    "review_count": 3,
+    "last_reviewed": "2026-06-07",
+    "next_review": "2026-06-14"
   },
   "0102": {
     "title": "Binary Tree Level Order Traversal",
-    "review_count": 8,
-    "last_reviewed": "2026-07-18",
-    "next_review": "2026-10-16"
+    "review_count": 3,
+    "last_reviewed": "2026-06-07",
+    "next_review": "2026-06-14"
   },
   "0094": {
     "title": "Binary Tree Inorder Traversal",
-    "review_count": 4,
-    "last_reviewed": "2026-07-18",
-    "next_review": "2026-08-01"
+    "review_count": 3,
+    "last_reviewed": "2026-06-07",
+    "next_review": "2026-06-14"
   },
   "0783": {
     "title": "Minimum Distance Between Bst Nodes",
-    "review_count": 3,
-    "last_reviewed": "2026-07-18",
-    "next_review": "2026-07-25"
+    "review_count": 2,
+    "last_reviewed": "2026-06-07",
+    "next_review": "2026-06-10"
   },
   "0101": {
     "title": "Symmetric Tree",
-    "review_count": 3,
-    "last_reviewed": "2026-07-18",
-    "next_review": "2026-07-25"
+    "review_count": 2,
+    "last_reviewed": "2026-06-07",
+    "next_review": "2026-06-10"
   },
   "0145": {
     "title": "Binary Tree Postorder Traversal",
-    "review_count": 3,
-    "last_reviewed": "2026-07-18",
-    "next_review": "2026-07-25"
+    "review_count": 2,
+    "last_reviewed": "2026-06-07",
+    "next_review": "2026-06-10"
   },
   "3954": {
     "title": "Sum Of Compatible Numbers In Range I",
-    "review_count": 4,
+    "review_count": 3,
     "last_reviewed": "2026-07-17",
-    "next_review": "2026-07-31"
+    "next_review": "2026-07-24"
   }
 }
