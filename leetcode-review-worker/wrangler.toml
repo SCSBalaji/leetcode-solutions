@@ -3,12 +3,18 @@ main = "src/index.js"
 compatibility_date = "2026-07-01"
 
 # Plain configuration values — NOT secret, safe to commit to git.
-# These just tell the Worker which repo to talk to and which origin
-# is allowed to call it.
+# These just tell the Worker which repo to talk to and which origins
+# are allowed to call it.
 [vars]
 GITHUB_OWNER = "scsbalaji"
 GITHUB_REPO = "leetcode-solutions"
-ALLOWED_ORIGIN = "https://yourdomain.com"
+# Comma-separated, no spaces around the comma. Includes the Vite dev
+# server's default origin so local development works, alongside a
+# placeholder for the real deployed site. Once the domain is wired up
+# in Stage 5, replace "https://yourdomain.com" with the actual one —
+# e.g. "http://localhost:5173,https://review.chaitanyasatyabalaji.com"
+# — and run `wrangler deploy` again to push the change.
+ALLOWED_ORIGINS = "http://localhost:5173,https://yourdomain.com"
 
 # Secrets are NOT set here. Set them once via the CLI, and Cloudflare
 # stores them encrypted — they never appear in this file or in git:

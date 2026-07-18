@@ -19,9 +19,18 @@
  *                    against the X-Worker-Secret header on every request
  *
  * Config required (set as plain vars in wrangler.toml, not secret):
- *   GITHUB_OWNER   - e.g. "scsbalaji"
- *   GITHUB_REPO    - e.g. "leetcode-solutions"
- *   ALLOWED_ORIGIN - the frontend's origin, e.g. "https://yourdomain.com"
+ *   GITHUB_OWNER    - e.g. "scsbalaji"
+ *   GITHUB_REPO     - e.g. "leetcode-solutions"
+ *   ALLOWED_ORIGINS - comma-separated list of origins the frontend may run
+ *                     on, e.g. "http://localhost:5173,https://yourdomain.com"
+ *                     CORS requires the response to echo back the exact
+ *                     requesting origin, not a fixed string — so this
+ *                     Worker checks the incoming request's Origin header
+ *                     against this list and only reflects it back on a
+ *                     match. A single hardcoded origin would work for one
+ *                     environment (e.g. only the deployed site) but breaks
+ *                     local dev against localhost, which is why this is a
+ *                     list rather than one value.
  */
 
 // A problem number should be 1-4 digits before zero-padding, matching the
@@ -29,7 +38,32 @@
 // keys, paths.json keys all end up as 4-digit zero-padded strings).
 const PROBLEM_NUMBER_PATTERN = /^[0-9]{1,4}$/;
 
+/**
+ * CORS requires the Access-Control-Allow-Origin response header to exactly
+ * match the requesting browser's origin — it can't be a wildcard alongside
+ * credentials, and it can't just be "whatever we configured" if more than
+ * one real origin needs to work (local dev + the deployed site).
+ *
+ * This checks the request's actual Origin header against the comma-separated
+ * ALLOWED_ORIGINS list from config, and returns the exact matching entry to
+ * reflect back — or null if the requesting origin isn't on the list, in
+ * which case no CORS header is set and the browser will correctly refuse
+ * the response.
+ */
+function resolveAllowedOrigin(request, env) {
+  const requestOrigin = request.headers.get("Origin");
+  if (!requestOrigin) return null;
+
+  const allowed = (env.ALLOWED_ORIGINS || "")
+    .split(",")
+    .map((o) => o.trim())
+    .filter(Boolean);
+
+  return allowed.includes(requestOrigin) ? requestOrigin : null;
+}
+
 function corsHeaders(origin) {
+  if (!origin) return {};
   return {
     "Access-Control-Allow-Origin": origin,
     "Access-Control-Allow-Methods": "POST, OPTIONS",
@@ -49,7 +83,7 @@ function jsonResponse(body, status, origin) {
 
 export default {
   async fetch(request, env) {
-    const origin = env.ALLOWED_ORIGIN;
+    const origin = resolveAllowedOrigin(request, env);
 
     // Browsers send a CORS preflight OPTIONS request before the real POST.
     // Must be answered directly, before any auth or body parsing.
